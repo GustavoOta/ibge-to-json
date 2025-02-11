@@ -1,0 +1,722 @@
+[
+  {
+    "uf": "PA",
+    "codigo": "1500107",
+    "municipio": "Abaetetuba"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1500131",
+    "municipio": "Abel Figueiredo"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1500206",
+    "municipio": "Acará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1500305",
+    "municipio": "Afuá"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1500347",
+    "municipio": "Água Azul do Norte"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1500404",
+    "municipio": "Alenquer"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1500503",
+    "municipio": "Almeirim"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1500602",
+    "municipio": "Altamira"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1500701",
+    "municipio": "Anajás"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1500800",
+    "municipio": "Ananindeua"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1500859",
+    "municipio": "Anapu"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1500909",
+    "municipio": "Augusto Corrêa"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1500958",
+    "municipio": "Aurora do Pará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501006",
+    "municipio": "Aveiro"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501105",
+    "municipio": "Bagre"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501204",
+    "municipio": "Baião"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501253",
+    "municipio": "Bannach"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501303",
+    "municipio": "Barcarena"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501402",
+    "municipio": "Belém"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501451",
+    "municipio": "Belterra"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501501",
+    "municipio": "Benevides"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501576",
+    "municipio": "Bom Jesus do Tocantins"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501600",
+    "municipio": "Bonito"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501709",
+    "municipio": "Bragança"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501725",
+    "municipio": "Brasil Novo"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501758",
+    "municipio": "Brejo Grande do Araguaia"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501782",
+    "municipio": "Breu Branco"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501808",
+    "municipio": "Breves"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501907",
+    "municipio": "Bujaru"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502004",
+    "municipio": "Cachoeira do Arari"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1501956",
+    "municipio": "Cachoeira do Piriá"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502103",
+    "municipio": "Cametá"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502152",
+    "municipio": "Canaã dos Carajás"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502202",
+    "municipio": "Capanema"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502301",
+    "municipio": "Capitão Poço"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502400",
+    "municipio": "Castanhal"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502509",
+    "municipio": "Chaves"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502608",
+    "municipio": "Colares"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502707",
+    "municipio": "Conceição do Araguaia"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502756",
+    "municipio": "Concórdia do Pará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502764",
+    "municipio": "Cumaru do Norte"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502772",
+    "municipio": "Curionópolis"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502806",
+    "municipio": "Curralinho"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502855",
+    "municipio": "Curuá"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502905",
+    "municipio": "Curuçá"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502939",
+    "municipio": "Dom Eliseu"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1502954",
+    "municipio": "Eldorado do Carajás"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503002",
+    "municipio": "Faro"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503044",
+    "municipio": "Floresta do Araguaia"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503077",
+    "municipio": "Garrafão do Norte"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503093",
+    "municipio": "Goianésia do Pará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503101",
+    "municipio": "Gurupá"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503200",
+    "municipio": "Igarapé-Açu"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503309",
+    "municipio": "Igarapé-Miri"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503408",
+    "municipio": "Inhangapi"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503457",
+    "municipio": "Ipixuna do Pará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503507",
+    "municipio": "Irituia"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503606",
+    "municipio": "Itaituba"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503705",
+    "municipio": "Itupiranga"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503754",
+    "municipio": "Jacareacanga"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503804",
+    "municipio": "Jacundá"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1503903",
+    "municipio": "Juruti"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504000",
+    "municipio": "Limoeiro do Ajuru"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504059",
+    "municipio": "Mãe do Rio"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504109",
+    "municipio": "Magalhães Barata"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504208",
+    "municipio": "Marabá"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504307",
+    "municipio": "Maracanã"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504406",
+    "municipio": "Marapanim"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504422",
+    "municipio": "Marituba"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504455",
+    "municipio": "Medicilândia"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504505",
+    "municipio": "Melgaço"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504604",
+    "municipio": "Mocajuba"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504703",
+    "municipio": "Moju"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504752",
+    "municipio": "Mojuí dos Campos"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504802",
+    "municipio": "Monte Alegre"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504901",
+    "municipio": "Muaná"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504950",
+    "municipio": "Nova Esperança do Piriá"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1504976",
+    "municipio": "Nova Ipixuna"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505007",
+    "municipio": "Nova Timboteua"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505031",
+    "municipio": "Novo Progresso"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505064",
+    "municipio": "Novo Repartimento"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505106",
+    "municipio": "Óbidos"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505205",
+    "municipio": "Oeiras do Pará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505304",
+    "municipio": "Oriximiná"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505403",
+    "municipio": "Ourém"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505437",
+    "municipio": "Ourilândia do Norte"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505486",
+    "municipio": "Pacajá"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505494",
+    "municipio": "Palestina do Pará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505502",
+    "municipio": "Paragominas"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505536",
+    "municipio": "Parauapebas"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505551",
+    "municipio": "Pau D'Arco"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505601",
+    "municipio": "Peixe-Boi"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505635",
+    "municipio": "Piçarra"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505650",
+    "municipio": "Placas"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505700",
+    "municipio": "Ponta de Pedras"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505809",
+    "municipio": "Portel"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1505908",
+    "municipio": "Porto de Moz"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506005",
+    "municipio": "Prainha"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506104",
+    "municipio": "Primavera"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506112",
+    "municipio": "Quatipuru"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506138",
+    "municipio": "Redenção"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506161",
+    "municipio": "Rio Maria"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506187",
+    "municipio": "Rondon do Pará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506195",
+    "municipio": "Rurópolis"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506203",
+    "municipio": "Salinópolis"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506302",
+    "municipio": "Salvaterra"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506351",
+    "municipio": "Santa Bárbara do Pará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506401",
+    "municipio": "Santa Cruz do Arari"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506500",
+    "municipio": "Santa Izabel do Pará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506559",
+    "municipio": "Santa Luzia do Pará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506583",
+    "municipio": "Santa Maria das Barreiras"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506609",
+    "municipio": "Santa Maria do Pará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506708",
+    "municipio": "Santana do Araguaia"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506807",
+    "municipio": "Santarém"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1506906",
+    "municipio": "Santarém Novo"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507003",
+    "municipio": "Santo Antônio do Tauá"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507102",
+    "municipio": "São Caetano de Odivelas"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507151",
+    "municipio": "São Domingos do Araguaia"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507201",
+    "municipio": "São Domingos do Capim"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507300",
+    "municipio": "São Félix do Xingu"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507409",
+    "municipio": "São Francisco do Pará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507458",
+    "municipio": "São Geraldo do Araguaia"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507466",
+    "municipio": "São João da Ponta"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507474",
+    "municipio": "São João de Pirabas"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507508",
+    "municipio": "São João do Araguaia"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507607",
+    "municipio": "São Miguel do Guamá"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507706",
+    "municipio": "São Sebastião da Boa Vista"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507755",
+    "municipio": "Sapucaia"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507805",
+    "municipio": "Senador José Porfírio"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507904",
+    "municipio": "Soure"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507953",
+    "municipio": "Tailândia"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507961",
+    "municipio": "Terra Alta"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1507979",
+    "municipio": "Terra Santa"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1508001",
+    "municipio": "Tomé-Açu"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1508035",
+    "municipio": "Tracuateua"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1508050",
+    "municipio": "Trairão"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1508084",
+    "municipio": "Tucumã"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1508100",
+    "municipio": "Tucuruí"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1508126",
+    "municipio": "Ulianópolis"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1508159",
+    "municipio": "Uruará"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1508209",
+    "municipio": "Vigia"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1508308",
+    "municipio": "Viseu"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1508357",
+    "municipio": "Vitória do Xingu"
+  },
+  {
+    "uf": "PA",
+    "codigo": "1508407",
+    "municipio": "Xinguara"
+  }
+]

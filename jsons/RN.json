@@ -1,0 +1,837 @@
+[
+  {
+    "uf": "RN",
+    "codigo": "2400109",
+    "municipio": "Acari"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2400208",
+    "municipio": "Açu"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2400307",
+    "municipio": "Afonso Bezerra"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2400406",
+    "municipio": "Água Nova"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2400505",
+    "municipio": "Alexandria"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2400604",
+    "municipio": "Almino Afonso"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2400703",
+    "municipio": "Alto do Rodrigues"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2400802",
+    "municipio": "Angicos"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2400901",
+    "municipio": "Antônio Martins"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2401008",
+    "municipio": "Apodi"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2401107",
+    "municipio": "Areia Branca"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2401206",
+    "municipio": "Arês"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2401404",
+    "municipio": "Baía Formosa"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2401453",
+    "municipio": "Baraúna"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2401503",
+    "municipio": "Barcelona"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2401602",
+    "municipio": "Bento Fernandes"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2401651",
+    "municipio": "Bodó"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2401701",
+    "municipio": "Bom Jesus"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2401800",
+    "municipio": "Brejinho"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2401859",
+    "municipio": "Caiçara do Norte"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2401909",
+    "municipio": "Caiçara do Rio do Vento"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2402006",
+    "municipio": "Caicó"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2401305",
+    "municipio": "Campo Grande"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2402105",
+    "municipio": "Campo Redondo"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2402204",
+    "municipio": "Canguaretama"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2402303",
+    "municipio": "Caraúbas"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2402402",
+    "municipio": "Carnaúba dos Dantas"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2402501",
+    "municipio": "Carnaubais"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2402600",
+    "municipio": "Ceará-Mirim"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2402709",
+    "municipio": "Cerro Corá"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2402808",
+    "municipio": "Coronel Ezequiel"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2402907",
+    "municipio": "Coronel João Pessoa"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2403004",
+    "municipio": "Cruzeta"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2403103",
+    "municipio": "Currais Novos"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2403202",
+    "municipio": "Doutor Severiano"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2403301",
+    "municipio": "Encanto"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2403400",
+    "municipio": "Equador"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2403509",
+    "municipio": "Espírito Santo"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2403608",
+    "municipio": "Extremoz"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2403707",
+    "municipio": "Felipe Guerra"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2403756",
+    "municipio": "Fernando Pedroza"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2403806",
+    "municipio": "Florânia"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2403905",
+    "municipio": "Francisco Dantas"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2404002",
+    "municipio": "Frutuoso Gomes"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2404101",
+    "municipio": "Galinhos"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2404200",
+    "municipio": "Goianinha"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2404309",
+    "municipio": "Governador Dix-Sept Rosado"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2404408",
+    "municipio": "Grossos"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2404507",
+    "municipio": "Guamaré"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2404606",
+    "municipio": "Ielmo Marinho"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2404705",
+    "municipio": "Ipanguaçu"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2404804",
+    "municipio": "Ipueira"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2404853",
+    "municipio": "Itajá"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2404903",
+    "municipio": "Itaú"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2405009",
+    "municipio": "Jaçanã"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2405108",
+    "municipio": "Jandaíra"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2405207",
+    "municipio": "Janduís"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2405306",
+    "municipio": "Januário Cicco"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2405405",
+    "municipio": "Japi"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2405504",
+    "municipio": "Jardim de Angicos"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2405603",
+    "municipio": "Jardim de Piranhas"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2405702",
+    "municipio": "Jardim do Seridó"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2405801",
+    "municipio": "João Câmara"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2405900",
+    "municipio": "João Dias"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2406007",
+    "municipio": "José da Penha"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2406106",
+    "municipio": "Jucurutu"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2406155",
+    "municipio": "Jundiá"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2406205",
+    "municipio": "Lagoa d'Anta"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2406304",
+    "municipio": "Lagoa de Pedras"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2406403",
+    "municipio": "Lagoa de Velhos"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2406502",
+    "municipio": "Lagoa Nova"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2406601",
+    "municipio": "Lagoa Salgada"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2406700",
+    "municipio": "Lajes"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2406809",
+    "municipio": "Lajes Pintadas"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2406908",
+    "municipio": "Lucrécia"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2407005",
+    "municipio": "Luís Gomes"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2407104",
+    "municipio": "Macaíba"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2407203",
+    "municipio": "Macau"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2407252",
+    "municipio": "Major Sales"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2407302",
+    "municipio": "Marcelino Vieira"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2407401",
+    "municipio": "Martins"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2407500",
+    "municipio": "Maxaranguape"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2407609",
+    "municipio": "Messias Targino"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2407708",
+    "municipio": "Montanhas"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2407807",
+    "municipio": "Monte Alegre"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2407906",
+    "municipio": "Monte das Gameleiras"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2408003",
+    "municipio": "Mossoró"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2408102",
+    "municipio": "Natal"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2408201",
+    "municipio": "Nísia Floresta"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2408300",
+    "municipio": "Nova Cruz"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2408409",
+    "municipio": "Olho d'Água do Borges"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2408508",
+    "municipio": "Ouro Branco"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2408607",
+    "municipio": "Paraná"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2408706",
+    "municipio": "Paraú"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2408805",
+    "municipio": "Parazinho"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2408904",
+    "municipio": "Parelhas"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2403251",
+    "municipio": "Parnamirim"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2409100",
+    "municipio": "Passa e Fica"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2409209",
+    "municipio": "Passagem"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2409308",
+    "municipio": "Patu"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2409407",
+    "municipio": "Pau dos Ferros"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2409506",
+    "municipio": "Pedra Grande"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2409605",
+    "municipio": "Pedra Preta"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2409704",
+    "municipio": "Pedro Avelino"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2409803",
+    "municipio": "Pedro Velho"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2409902",
+    "municipio": "Pendências"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2410009",
+    "municipio": "Pilões"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2410108",
+    "municipio": "Poço Branco"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2410207",
+    "municipio": "Portalegre"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2410256",
+    "municipio": "Porto do Mangue"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2410405",
+    "municipio": "Pureza"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2410504",
+    "municipio": "Rafael Fernandes"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2410603",
+    "municipio": "Rafael Godeiro"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2410702",
+    "municipio": "Riacho da Cruz"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2410801",
+    "municipio": "Riacho de Santana"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2410900",
+    "municipio": "Riachuelo"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2408953",
+    "municipio": "Rio do Fogo"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2411007",
+    "municipio": "Rodolfo Fernandes"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2411106",
+    "municipio": "Ruy Barbosa"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2411205",
+    "municipio": "Santa Cruz"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2409332",
+    "municipio": "Santa Maria"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2411403",
+    "municipio": "Santana do Matos"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2411429",
+    "municipio": "Santana do Seridó"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2411502",
+    "municipio": "Santo Antônio"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2411601",
+    "municipio": "São Bento do Norte"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2411700",
+    "municipio": "São Bento do Trairí"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2411809",
+    "municipio": "São Fernando"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2411908",
+    "municipio": "São Francisco do Oeste"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2412005",
+    "municipio": "São Gonçalo do Amarante"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2412104",
+    "municipio": "São João do Sabugi"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2412203",
+    "municipio": "São José de Mipibu"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2412302",
+    "municipio": "São José do Campestre"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2412401",
+    "municipio": "São José do Seridó"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2412500",
+    "municipio": "São Miguel"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2412559",
+    "municipio": "São Miguel do Gostoso"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2412609",
+    "municipio": "São Paulo do Potengi"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2412708",
+    "municipio": "São Pedro"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2412807",
+    "municipio": "São Rafael"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2412906",
+    "municipio": "São Tomé"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2413003",
+    "municipio": "São Vicente"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2413102",
+    "municipio": "Senador Elói de Souza"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2413201",
+    "municipio": "Senador Georgino Avelino"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2410306",
+    "municipio": "Serra Caiada"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2413300",
+    "municipio": "Serra de São Bento"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2413359",
+    "municipio": "Serra do Mel"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2413409",
+    "municipio": "Serra Negra do Norte"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2413508",
+    "municipio": "Serrinha"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2413557",
+    "municipio": "Serrinha dos Pintos"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2413607",
+    "municipio": "Severiano Melo"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2413706",
+    "municipio": "Sítio Novo"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2413805",
+    "municipio": "Taboleiro Grande"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2413904",
+    "municipio": "Taipu"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2414001",
+    "municipio": "Tangará"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2414100",
+    "municipio": "Tenente Ananias"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2414159",
+    "municipio": "Tenente Laurentino Cruz"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2411056",
+    "municipio": "Tibau"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2414209",
+    "municipio": "Tibau do Sul"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2414308",
+    "municipio": "Timbaúba dos Batistas"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2414407",
+    "municipio": "Touros"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2414456",
+    "municipio": "Triunfo Potiguar"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2414506",
+    "municipio": "Umarizal"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2414605",
+    "municipio": "Upanema"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2414704",
+    "municipio": "Várzea"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2414753",
+    "municipio": "Venha-Ver"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2414803",
+    "municipio": "Vera Cruz"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2414902",
+    "municipio": "Viçosa"
+  },
+  {
+    "uf": "RN",
+    "codigo": "2415008",
+    "municipio": "Vila Flor"
+  }
+]

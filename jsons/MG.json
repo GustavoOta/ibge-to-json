@@ -1,0 +1,4267 @@
+[
+  {
+    "uf": "MG",
+    "codigo": "3100104",
+    "municipio": "Abadia dos Dourados"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3100203",
+    "municipio": "Abaeté"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3100302",
+    "municipio": "Abre Campo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3100401",
+    "municipio": "Acaiaca"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3100500",
+    "municipio": "Açucena"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3100609",
+    "municipio": "Água Boa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3100708",
+    "municipio": "Água Comprida"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3100807",
+    "municipio": "Aguanil"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3100906",
+    "municipio": "Águas Formosas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3101003",
+    "municipio": "Águas Vermelhas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3101102",
+    "municipio": "Aimorés"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3101201",
+    "municipio": "Aiuruoca"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3101300",
+    "municipio": "Alagoa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3101409",
+    "municipio": "Albertina"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3101508",
+    "municipio": "Além Paraíba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3101607",
+    "municipio": "Alfenas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3101631",
+    "municipio": "Alfredo Vasconcelos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3101706",
+    "municipio": "Almenara"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3101805",
+    "municipio": "Alpercata"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3101904",
+    "municipio": "Alpinópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3102001",
+    "municipio": "Alterosa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3102050",
+    "municipio": "Alto Caparaó"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3153509",
+    "municipio": "Alto Jequitibá"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3102100",
+    "municipio": "Alto Rio Doce"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3102209",
+    "municipio": "Alvarenga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3102308",
+    "municipio": "Alvinópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3102407",
+    "municipio": "Alvorada de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3102506",
+    "municipio": "Amparo do Serra"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3102605",
+    "municipio": "Andradas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3102803",
+    "municipio": "Andrelândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3102852",
+    "municipio": "Angelândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3102902",
+    "municipio": "Antônio Carlos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3103009",
+    "municipio": "Antônio Dias"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3103108",
+    "municipio": "Antônio Prado de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3103207",
+    "municipio": "Araçaí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3103306",
+    "municipio": "Aracitaba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3103405",
+    "municipio": "Araçuaí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3103504",
+    "municipio": "Araguari"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3103603",
+    "municipio": "Arantina"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3103702",
+    "municipio": "Araponga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3103751",
+    "municipio": "Araporã"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3103801",
+    "municipio": "Arapuá"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3103900",
+    "municipio": "Araújos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3104007",
+    "municipio": "Araxá"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3104106",
+    "municipio": "Arceburgo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3104205",
+    "municipio": "Arcos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3104304",
+    "municipio": "Areado"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3104403",
+    "municipio": "Argirita"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3104452",
+    "municipio": "Aricanduva"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3104502",
+    "municipio": "Arinos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3104601",
+    "municipio": "Astolfo Dutra"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3104700",
+    "municipio": "Ataléia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3104809",
+    "municipio": "Augusto de Lima"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3104908",
+    "municipio": "Baependi"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3105004",
+    "municipio": "Baldim"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3105103",
+    "municipio": "Bambuí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3105202",
+    "municipio": "Bandeira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3105301",
+    "municipio": "Bandeira do Sul"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3105400",
+    "municipio": "Barão de Cocais"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3105509",
+    "municipio": "Barão de Monte Alto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3105608",
+    "municipio": "Barbacena"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3105707",
+    "municipio": "Barra Longa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3105905",
+    "municipio": "Barroso"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3106002",
+    "municipio": "Bela Vista de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3106101",
+    "municipio": "Belmiro Braga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3106200",
+    "municipio": "Belo Horizonte"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3106309",
+    "municipio": "Belo Oriente"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3106408",
+    "municipio": "Belo Vale"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3106507",
+    "municipio": "Berilo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3106655",
+    "municipio": "Berizal"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3106606",
+    "municipio": "Bertópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3106705",
+    "municipio": "Betim"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3106804",
+    "municipio": "Bias Fortes"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3106903",
+    "municipio": "Bicas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3107000",
+    "municipio": "Biquinhas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3107109",
+    "municipio": "Boa Esperança"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3107208",
+    "municipio": "Bocaina de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3107307",
+    "municipio": "Bocaiúva"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3107406",
+    "municipio": "Bom Despacho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3107505",
+    "municipio": "Bom Jardim de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3107604",
+    "municipio": "Bom Jesus da Penha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3107703",
+    "municipio": "Bom Jesus do Amparo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3107802",
+    "municipio": "Bom Jesus do Galho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3107901",
+    "municipio": "Bom Repouso"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3108008",
+    "municipio": "Bom Sucesso"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3108107",
+    "municipio": "Bonfim"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3108206",
+    "municipio": "Bonfinópolis de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3108255",
+    "municipio": "Bonito de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3108305",
+    "municipio": "Borda da Mata"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3108404",
+    "municipio": "Botelhos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3108503",
+    "municipio": "Botumirim"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3108701",
+    "municipio": "Brás Pires"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3108552",
+    "municipio": "Brasilândia de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3108602",
+    "municipio": "Brasília de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3108800",
+    "municipio": "Braúnas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3108909",
+    "municipio": "Brazópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3109006",
+    "municipio": "Brumadinho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3109105",
+    "municipio": "Bueno Brandão"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3109204",
+    "municipio": "Buenópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3109253",
+    "municipio": "Bugre"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3109303",
+    "municipio": "Buritis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3109402",
+    "municipio": "Buritizeiro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3109451",
+    "municipio": "Cabeceira Grande"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3109501",
+    "municipio": "Cabo Verde"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3109600",
+    "municipio": "Cachoeira da Prata"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3109709",
+    "municipio": "Cachoeira de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3102704",
+    "municipio": "Cachoeira de Pajeú"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3109808",
+    "municipio": "Cachoeira Dourada"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3109907",
+    "municipio": "Caetanópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3110004",
+    "municipio": "Caeté"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3110103",
+    "municipio": "Caiana"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3110202",
+    "municipio": "Cajuri"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3110301",
+    "municipio": "Caldas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3110400",
+    "municipio": "Camacho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3110509",
+    "municipio": "Camanducaia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3110608",
+    "municipio": "Cambuí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3110707",
+    "municipio": "Cambuquira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3110806",
+    "municipio": "Campanário"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3110905",
+    "municipio": "Campanha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3111002",
+    "municipio": "Campestre"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3111101",
+    "municipio": "Campina Verde"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3111150",
+    "municipio": "Campo Azul"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3111200",
+    "municipio": "Campo Belo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3111309",
+    "municipio": "Campo do Meio"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3111408",
+    "municipio": "Campo Florido"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3111507",
+    "municipio": "Campos Altos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3111606",
+    "municipio": "Campos Gerais"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3111903",
+    "municipio": "Cana Verde"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3111705",
+    "municipio": "Canaã"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3111804",
+    "municipio": "Canápolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3112000",
+    "municipio": "Candeias"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3112059",
+    "municipio": "Cantagalo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3112109",
+    "municipio": "Caparaó"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3112208",
+    "municipio": "Capela Nova"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3112307",
+    "municipio": "Capelinha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3112406",
+    "municipio": "Capetinga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3112505",
+    "municipio": "Capim Branco"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3112604",
+    "municipio": "Capinópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3112653",
+    "municipio": "Capitão Andrade"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3112703",
+    "municipio": "Capitão Enéas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3112802",
+    "municipio": "Capitólio"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3112901",
+    "municipio": "Caputira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3113008",
+    "municipio": "Caraí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3113107",
+    "municipio": "Caranaíba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3113206",
+    "municipio": "Carandaí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3113305",
+    "municipio": "Carangola"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3113404",
+    "municipio": "Caratinga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3113503",
+    "municipio": "Carbonita"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3113602",
+    "municipio": "Careaçu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3113701",
+    "municipio": "Carlos Chagas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3113800",
+    "municipio": "Carmésia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3113909",
+    "municipio": "Carmo da Cachoeira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3114006",
+    "municipio": "Carmo da Mata"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3114105",
+    "municipio": "Carmo de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3114204",
+    "municipio": "Carmo do Cajuru"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3114303",
+    "municipio": "Carmo do Paranaíba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3114402",
+    "municipio": "Carmo do Rio Claro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3114501",
+    "municipio": "Carmópolis de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3114550",
+    "municipio": "Carneirinho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3114600",
+    "municipio": "Carrancas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3114709",
+    "municipio": "Carvalhópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3114808",
+    "municipio": "Carvalhos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3114907",
+    "municipio": "Casa Grande"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3115003",
+    "municipio": "Cascalho Rico"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3115102",
+    "municipio": "Cássia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3115300",
+    "municipio": "Cataguases"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3115359",
+    "municipio": "Catas Altas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3115409",
+    "municipio": "Catas Altas da Noruega"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3115458",
+    "municipio": "Catuji"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3115474",
+    "municipio": "Catuti"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3115508",
+    "municipio": "Caxambu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3115607",
+    "municipio": "Cedro do Abaeté"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3115706",
+    "municipio": "Central de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3115805",
+    "municipio": "Centralina"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3115904",
+    "municipio": "Chácara"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3116001",
+    "municipio": "Chalé"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3116100",
+    "municipio": "Chapada do Norte"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3116159",
+    "municipio": "Chapada Gaúcha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3116209",
+    "municipio": "Chiador"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3116308",
+    "municipio": "Cipotânea"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3116407",
+    "municipio": "Claraval"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3116506",
+    "municipio": "Claro dos Poções"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3116605",
+    "municipio": "Cláudio"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3116704",
+    "municipio": "Coimbra"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3116803",
+    "municipio": "Coluna"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3116902",
+    "municipio": "Comendador Gomes"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3117009",
+    "municipio": "Comercinho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3117108",
+    "municipio": "Conceição da Aparecida"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3115201",
+    "municipio": "Conceição da Barra de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3117306",
+    "municipio": "Conceição das Alagoas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3117207",
+    "municipio": "Conceição das Pedras"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3117405",
+    "municipio": "Conceição de Ipanema"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3117504",
+    "municipio": "Conceição do Mato Dentro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3117603",
+    "municipio": "Conceição do Pará"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3117702",
+    "municipio": "Conceição do Rio Verde"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3117801",
+    "municipio": "Conceição dos Ouros"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3117836",
+    "municipio": "Cônego Marinho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3117876",
+    "municipio": "Confins"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3117900",
+    "municipio": "Congonhal"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3118007",
+    "municipio": "Congonhas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3118106",
+    "municipio": "Congonhas do Norte"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3118205",
+    "municipio": "Conquista"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3118304",
+    "municipio": "Conselheiro Lafaiete"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3118403",
+    "municipio": "Conselheiro Pena"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3118502",
+    "municipio": "Consolação"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3118601",
+    "municipio": "Contagem"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3118700",
+    "municipio": "Coqueiral"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3118809",
+    "municipio": "Coração de Jesus"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3118908",
+    "municipio": "Cordisburgo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3119005",
+    "municipio": "Cordislândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3119104",
+    "municipio": "Corinto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3119203",
+    "municipio": "Coroaci"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3119302",
+    "municipio": "Coromandel"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3119401",
+    "municipio": "Coronel Fabriciano"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3119500",
+    "municipio": "Coronel Murta"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3119609",
+    "municipio": "Coronel Pacheco"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3119708",
+    "municipio": "Coronel Xavier Chaves"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3119807",
+    "municipio": "Córrego Danta"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3119906",
+    "municipio": "Córrego do Bom Jesus"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3119955",
+    "municipio": "Córrego Fundo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3120003",
+    "municipio": "Córrego Novo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3120102",
+    "municipio": "Couto de Magalhães de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3120151",
+    "municipio": "Crisólita"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3120201",
+    "municipio": "Cristais"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3120300",
+    "municipio": "Cristália"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3120409",
+    "municipio": "Cristiano Otoni"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3120508",
+    "municipio": "Cristina"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3120607",
+    "municipio": "Crucilândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3120706",
+    "municipio": "Cruzeiro da Fortaleza"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3120805",
+    "municipio": "Cruzília"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3120839",
+    "municipio": "Cuparaque"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3120870",
+    "municipio": "Curral de Dentro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3120904",
+    "municipio": "Curvelo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3121001",
+    "municipio": "Datas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3121100",
+    "municipio": "Delfim Moreira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3121209",
+    "municipio": "Delfinópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3121258",
+    "municipio": "Delta"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3121308",
+    "municipio": "Descoberto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3121407",
+    "municipio": "Desterro de Entre Rios"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3121506",
+    "municipio": "Desterro do Melo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3121605",
+    "municipio": "Diamantina"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3121704",
+    "municipio": "Diogo de Vasconcelos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3121803",
+    "municipio": "Dionísio"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3121902",
+    "municipio": "Divinésia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3122009",
+    "municipio": "Divino"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3122108",
+    "municipio": "Divino das Laranjeiras"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3122207",
+    "municipio": "Divinolândia de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3122306",
+    "municipio": "Divinópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3122355",
+    "municipio": "Divisa Alegre"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3122405",
+    "municipio": "Divisa Nova"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3122454",
+    "municipio": "Divisópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3122470",
+    "municipio": "Dom Bosco"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3122504",
+    "municipio": "Dom Cavati"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3122603",
+    "municipio": "Dom Joaquim"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3122702",
+    "municipio": "Dom Silvério"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3122801",
+    "municipio": "Dom Viçoso"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3122900",
+    "municipio": "Dona Euzébia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3123007",
+    "municipio": "Dores de Campos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3123106",
+    "municipio": "Dores de Guanhães"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3123205",
+    "municipio": "Dores do Indaiá"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3123304",
+    "municipio": "Dores do Turvo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3123403",
+    "municipio": "Doresópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3123502",
+    "municipio": "Douradoquara"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3123528",
+    "municipio": "Durandé"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3123601",
+    "municipio": "Elói Mendes"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3123700",
+    "municipio": "Engenheiro Caldas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3123809",
+    "municipio": "Engenheiro Navarro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3123858",
+    "municipio": "Entre Folhas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3123908",
+    "municipio": "Entre Rios de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3124005",
+    "municipio": "Ervália"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3124104",
+    "municipio": "Esmeraldas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3124203",
+    "municipio": "Espera Feliz"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3124302",
+    "municipio": "Espinosa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3124401",
+    "municipio": "Espírito Santo do Dourado"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3124500",
+    "municipio": "Estiva"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3124609",
+    "municipio": "Estrela Dalva"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3124708",
+    "municipio": "Estrela do Indaiá"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3124807",
+    "municipio": "Estrela do Sul"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3124906",
+    "municipio": "Eugenópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3125002",
+    "municipio": "Ewbank da Câmara"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3125101",
+    "municipio": "Extrema"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3125200",
+    "municipio": "Fama"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3125309",
+    "municipio": "Faria Lemos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3125408",
+    "municipio": "Felício dos Santos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3125606",
+    "municipio": "Felisburgo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3125705",
+    "municipio": "Felixlândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3125804",
+    "municipio": "Fernandes Tourinho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3125903",
+    "municipio": "Ferros"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3125952",
+    "municipio": "Fervedouro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3126000",
+    "municipio": "Florestal"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3126109",
+    "municipio": "Formiga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3126208",
+    "municipio": "Formoso"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3126307",
+    "municipio": "Fortaleza de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3126406",
+    "municipio": "Fortuna de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3126505",
+    "municipio": "Francisco Badaró"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3126604",
+    "municipio": "Francisco Dumont"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3126703",
+    "municipio": "Francisco Sá"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3126752",
+    "municipio": "Franciscópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3126802",
+    "municipio": "Frei Gaspar"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3126901",
+    "municipio": "Frei Inocêncio"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3126950",
+    "municipio": "Frei Lagonegro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127008",
+    "municipio": "Fronteira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127057",
+    "municipio": "Fronteira dos Vales"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127073",
+    "municipio": "Fruta de Leite"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127107",
+    "municipio": "Frutal"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127206",
+    "municipio": "Funilândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127305",
+    "municipio": "Galiléia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127339",
+    "municipio": "Gameleiras"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127354",
+    "municipio": "Glaucilândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127370",
+    "municipio": "Goiabeira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127388",
+    "municipio": "Goianá"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127404",
+    "municipio": "Gonçalves"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127503",
+    "municipio": "Gonzaga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127602",
+    "municipio": "Gouveia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127701",
+    "municipio": "Governador Valadares"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127800",
+    "municipio": "Grão Mogol"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3127909",
+    "municipio": "Grupiara"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3128006",
+    "municipio": "Guanhães"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3128105",
+    "municipio": "Guapé"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3128204",
+    "municipio": "Guaraciaba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3128253",
+    "municipio": "Guaraciama"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3128303",
+    "municipio": "Guaranésia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3128402",
+    "municipio": "Guarani"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3128501",
+    "municipio": "Guarará"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3128600",
+    "municipio": "Guarda-Mor"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3128709",
+    "municipio": "Guaxupé"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3128808",
+    "municipio": "Guidoval"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3128907",
+    "municipio": "Guimarânia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3129004",
+    "municipio": "Guiricema"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3129103",
+    "municipio": "Gurinhatã"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3129202",
+    "municipio": "Heliodora"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3129301",
+    "municipio": "Iapu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3129400",
+    "municipio": "Ibertioga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3129509",
+    "municipio": "Ibiá"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3129608",
+    "municipio": "Ibiaí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3129657",
+    "municipio": "Ibiracatu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3129707",
+    "municipio": "Ibiraci"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3129806",
+    "municipio": "Ibirité"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3129905",
+    "municipio": "Ibitiúra de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3130002",
+    "municipio": "Ibituruna"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3130051",
+    "municipio": "Icaraí de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3130101",
+    "municipio": "Igarapé"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3130200",
+    "municipio": "Igaratinga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3130309",
+    "municipio": "Iguatama"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3130408",
+    "municipio": "Ijaci"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3130507",
+    "municipio": "Ilicínea"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3130556",
+    "municipio": "Imbé de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3130606",
+    "municipio": "Inconfidentes"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3130655",
+    "municipio": "Indaiabira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3130705",
+    "municipio": "Indianópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3130804",
+    "municipio": "Ingaí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3130903",
+    "municipio": "Inhapim"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3131000",
+    "municipio": "Inhaúma"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3131109",
+    "municipio": "Inimutaba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3131158",
+    "municipio": "Ipaba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3131208",
+    "municipio": "Ipanema"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3131307",
+    "municipio": "Ipatinga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3131406",
+    "municipio": "Ipiaçu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3131505",
+    "municipio": "Ipuiúna"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3131604",
+    "municipio": "Iraí de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3131703",
+    "municipio": "Itabira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3131802",
+    "municipio": "Itabirinha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3131901",
+    "municipio": "Itabirito"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3132008",
+    "municipio": "Itacambira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3132107",
+    "municipio": "Itacarambi"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3132206",
+    "municipio": "Itaguara"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3132305",
+    "municipio": "Itaipé"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3132404",
+    "municipio": "Itajubá"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3132503",
+    "municipio": "Itamarandiba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3132602",
+    "municipio": "Itamarati de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3132701",
+    "municipio": "Itambacuri"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3132800",
+    "municipio": "Itambé do Mato Dentro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3132909",
+    "municipio": "Itamogi"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3133006",
+    "municipio": "Itamonte"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3133105",
+    "municipio": "Itanhandu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3133204",
+    "municipio": "Itanhomi"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3133303",
+    "municipio": "Itaobim"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3133402",
+    "municipio": "Itapagipe"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3133501",
+    "municipio": "Itapecerica"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3133600",
+    "municipio": "Itapeva"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3133709",
+    "municipio": "Itatiaiuçu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3133758",
+    "municipio": "Itaú de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3133808",
+    "municipio": "Itaúna"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3133907",
+    "municipio": "Itaverava"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3134004",
+    "municipio": "Itinga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3134103",
+    "municipio": "Itueta"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3134202",
+    "municipio": "Ituiutaba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3134301",
+    "municipio": "Itumirim"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3134400",
+    "municipio": "Iturama"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3134509",
+    "municipio": "Itutinga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3134608",
+    "municipio": "Jaboticatubas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3134707",
+    "municipio": "Jacinto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3134806",
+    "municipio": "Jacuí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3134905",
+    "municipio": "Jacutinga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135001",
+    "municipio": "Jaguaraçu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135050",
+    "municipio": "Jaíba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135076",
+    "municipio": "Jampruca"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135100",
+    "municipio": "Janaúba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135209",
+    "municipio": "Januária"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135308",
+    "municipio": "Japaraíba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135357",
+    "municipio": "Japonvar"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135407",
+    "municipio": "Jeceaba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135456",
+    "municipio": "Jenipapo de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135506",
+    "municipio": "Jequeri"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135605",
+    "municipio": "Jequitaí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135704",
+    "municipio": "Jequitibá"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135803",
+    "municipio": "Jequitinhonha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3135902",
+    "municipio": "Jesuânia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136009",
+    "municipio": "Joaíma"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136108",
+    "municipio": "Joanésia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136207",
+    "municipio": "João Monlevade"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136306",
+    "municipio": "João Pinheiro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136405",
+    "municipio": "Joaquim Felício"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136504",
+    "municipio": "Jordânia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136520",
+    "municipio": "José Gonçalves de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136553",
+    "municipio": "José Raydan"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136579",
+    "municipio": "Josenópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136652",
+    "municipio": "Juatuba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136702",
+    "municipio": "Juiz de Fora"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136801",
+    "municipio": "Juramento"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136900",
+    "municipio": "Juruaia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136959",
+    "municipio": "Juvenília"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3137007",
+    "municipio": "Ladainha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3137106",
+    "municipio": "Lagamar"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3137205",
+    "municipio": "Lagoa da Prata"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3137304",
+    "municipio": "Lagoa dos Patos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3137403",
+    "municipio": "Lagoa Dourada"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3137502",
+    "municipio": "Lagoa Formosa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3137536",
+    "municipio": "Lagoa Grande"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3137601",
+    "municipio": "Lagoa Santa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3137700",
+    "municipio": "Lajinha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3137809",
+    "municipio": "Lambari"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3137908",
+    "municipio": "Lamim"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138005",
+    "municipio": "Laranjal"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138104",
+    "municipio": "Lassance"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138203",
+    "municipio": "Lavras"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138302",
+    "municipio": "Leandro Ferreira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138351",
+    "municipio": "Leme do Prado"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138401",
+    "municipio": "Leopoldina"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138500",
+    "municipio": "Liberdade"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138609",
+    "municipio": "Lima Duarte"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138625",
+    "municipio": "Limeira do Oeste"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138658",
+    "municipio": "Lontra"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138674",
+    "municipio": "Luisburgo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138682",
+    "municipio": "Luislândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138708",
+    "municipio": "Luminárias"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138807",
+    "municipio": "Luz"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3138906",
+    "municipio": "Machacalis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3139003",
+    "municipio": "Machado"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3139102",
+    "municipio": "Madre de Deus de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3139201",
+    "municipio": "Malacacheta"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3139250",
+    "municipio": "Mamonas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3139300",
+    "municipio": "Manga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3139409",
+    "municipio": "Manhuaçu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3139508",
+    "municipio": "Manhumirim"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3139607",
+    "municipio": "Mantena"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3139805",
+    "municipio": "Mar de Espanha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3139706",
+    "municipio": "Maravilhas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3139904",
+    "municipio": "Maria da Fé"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140001",
+    "municipio": "Mariana"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140100",
+    "municipio": "Marilac"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140159",
+    "municipio": "Mário Campos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140209",
+    "municipio": "Maripá de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140308",
+    "municipio": "Marliéria"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140407",
+    "municipio": "Marmelópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140506",
+    "municipio": "Martinho Campos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140530",
+    "municipio": "Martins Soares"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140555",
+    "municipio": "Mata Verde"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140605",
+    "municipio": "Materlândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140704",
+    "municipio": "Mateus Leme"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3171501",
+    "municipio": "Mathias Lobato"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140803",
+    "municipio": "Matias Barbosa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140852",
+    "municipio": "Matias Cardoso"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3140902",
+    "municipio": "Matipó"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3141009",
+    "municipio": "Mato Verde"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3141108",
+    "municipio": "Matozinhos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3141207",
+    "municipio": "Matutina"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3141306",
+    "municipio": "Medeiros"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3141405",
+    "municipio": "Medina"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3141504",
+    "municipio": "Mendes Pimentel"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3141603",
+    "municipio": "Mercês"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3141702",
+    "municipio": "Mesquita"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3141801",
+    "municipio": "Minas Novas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3141900",
+    "municipio": "Minduri"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3142007",
+    "municipio": "Mirabela"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3142106",
+    "municipio": "Miradouro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3142205",
+    "municipio": "Miraí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3142254",
+    "municipio": "Miravânia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3142304",
+    "municipio": "Moeda"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3142403",
+    "municipio": "Moema"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3142502",
+    "municipio": "Monjolos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3142601",
+    "municipio": "Monsenhor Paulo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3142700",
+    "municipio": "Montalvânia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3142809",
+    "municipio": "Monte Alegre de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3142908",
+    "municipio": "Monte Azul"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3143005",
+    "municipio": "Monte Belo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3143104",
+    "municipio": "Monte Carmelo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3143153",
+    "municipio": "Monte Formoso"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3143203",
+    "municipio": "Monte Santo de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3143401",
+    "municipio": "Monte Sião"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3143302",
+    "municipio": "Montes Claros"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3143450",
+    "municipio": "Montezuma"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3143500",
+    "municipio": "Morada Nova de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3143609",
+    "municipio": "Morro da Garça"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3143708",
+    "municipio": "Morro do Pilar"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3143807",
+    "municipio": "Munhoz"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3143906",
+    "municipio": "Muriaé"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144003",
+    "municipio": "Mutum"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144102",
+    "municipio": "Muzambinho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144201",
+    "municipio": "Nacip Raydan"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144300",
+    "municipio": "Nanuque"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144359",
+    "municipio": "Naque"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144375",
+    "municipio": "Natalândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144409",
+    "municipio": "Natércia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144508",
+    "municipio": "Nazareno"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144607",
+    "municipio": "Nepomuceno"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144656",
+    "municipio": "Ninheira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144672",
+    "municipio": "Nova Belém"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144706",
+    "municipio": "Nova Era"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144805",
+    "municipio": "Nova Lima"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3144904",
+    "municipio": "Nova Módica"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145000",
+    "municipio": "Nova Ponte"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145059",
+    "municipio": "Nova Porteirinha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145109",
+    "municipio": "Nova Resende"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145208",
+    "municipio": "Nova Serrana"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3136603",
+    "municipio": "Nova União"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145307",
+    "municipio": "Novo Cruzeiro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145356",
+    "municipio": "Novo Oriente de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145372",
+    "municipio": "Novorizonte"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145406",
+    "municipio": "Olaria"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145455",
+    "municipio": "Olhos-d'Água"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145505",
+    "municipio": "Olímpio Noronha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145604",
+    "municipio": "Oliveira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145703",
+    "municipio": "Oliveira Fortes"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145802",
+    "municipio": "Onça de Pitangui"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145851",
+    "municipio": "Oratórios"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145877",
+    "municipio": "Orizânia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3145901",
+    "municipio": "Ouro Branco"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3146008",
+    "municipio": "Ouro Fino"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3146107",
+    "municipio": "Ouro Preto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3146206",
+    "municipio": "Ouro Verde de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3146255",
+    "municipio": "Padre Carvalho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3146305",
+    "municipio": "Padre Paraíso"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3146552",
+    "municipio": "Pai Pedro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3146404",
+    "municipio": "Paineiras"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3146503",
+    "municipio": "Pains"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3146602",
+    "municipio": "Paiva"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3146701",
+    "municipio": "Palma"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3146750",
+    "municipio": "Palmópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3146909",
+    "municipio": "Papagaios"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3147105",
+    "municipio": "Pará de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3147006",
+    "municipio": "Paracatu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3147204",
+    "municipio": "Paraguaçu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3147303",
+    "municipio": "Paraisópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3147402",
+    "municipio": "Paraopeba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3147600",
+    "municipio": "Passa Quatro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3147709",
+    "municipio": "Passa Tempo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3147808",
+    "municipio": "Passa Vinte"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3147501",
+    "municipio": "Passabém"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3147907",
+    "municipio": "Passos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3147956",
+    "municipio": "Patis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3148004",
+    "municipio": "Patos de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3148103",
+    "municipio": "Patrocínio"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3148202",
+    "municipio": "Patrocínio do Muriaé"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3148301",
+    "municipio": "Paula Cândido"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3148400",
+    "municipio": "Paulistas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3148509",
+    "municipio": "Pavão"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3148608",
+    "municipio": "Peçanha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3148707",
+    "municipio": "Pedra Azul"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3148756",
+    "municipio": "Pedra Bonita"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3148806",
+    "municipio": "Pedra do Anta"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3148905",
+    "municipio": "Pedra do Indaiá"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3149002",
+    "municipio": "Pedra Dourada"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3149101",
+    "municipio": "Pedralva"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3149150",
+    "municipio": "Pedras de Maria da Cruz"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3149200",
+    "municipio": "Pedrinópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3149309",
+    "municipio": "Pedro Leopoldo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3149408",
+    "municipio": "Pedro Teixeira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3149507",
+    "municipio": "Pequeri"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3149606",
+    "municipio": "Pequi"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3149705",
+    "municipio": "Perdigão"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3149804",
+    "municipio": "Perdizes"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3149903",
+    "municipio": "Perdões"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3149952",
+    "municipio": "Periquito"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3150000",
+    "municipio": "Pescador"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3150109",
+    "municipio": "Piau"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3150158",
+    "municipio": "Piedade de Caratinga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3150208",
+    "municipio": "Piedade de Ponte Nova"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3150307",
+    "municipio": "Piedade do Rio Grande"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3150406",
+    "municipio": "Piedade dos Gerais"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3150505",
+    "municipio": "Pimenta"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3150539",
+    "municipio": "Pingo-d'Água"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3150570",
+    "municipio": "Pintópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3150604",
+    "municipio": "Piracema"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3150703",
+    "municipio": "Pirajuba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3150802",
+    "municipio": "Piranga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3150901",
+    "municipio": "Piranguçu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3151008",
+    "municipio": "Piranguinho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3151107",
+    "municipio": "Pirapetinga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3151206",
+    "municipio": "Pirapora"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3151305",
+    "municipio": "Piraúba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3151404",
+    "municipio": "Pitangui"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3151503",
+    "municipio": "Piumhi"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3151602",
+    "municipio": "Planura"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3151701",
+    "municipio": "Poço Fundo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3151800",
+    "municipio": "Poços de Caldas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3151909",
+    "municipio": "Pocrane"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3152006",
+    "municipio": "Pompéu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3152105",
+    "municipio": "Ponte Nova"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3152131",
+    "municipio": "Ponto Chique"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3152170",
+    "municipio": "Ponto dos Volantes"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3152204",
+    "municipio": "Porteirinha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3152303",
+    "municipio": "Porto Firme"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3152402",
+    "municipio": "Poté"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3152501",
+    "municipio": "Pouso Alegre"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3152600",
+    "municipio": "Pouso Alto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3152709",
+    "municipio": "Prados"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3152808",
+    "municipio": "Prata"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3152907",
+    "municipio": "Pratápolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3153004",
+    "municipio": "Pratinha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3153103",
+    "municipio": "Presidente Bernardes"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3153202",
+    "municipio": "Presidente Juscelino"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3153301",
+    "municipio": "Presidente Kubitschek"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3153400",
+    "municipio": "Presidente Olegário"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3153608",
+    "municipio": "Prudente de Morais"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3153707",
+    "municipio": "Quartel Geral"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3153806",
+    "municipio": "Queluzito"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3153905",
+    "municipio": "Raposos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3154002",
+    "municipio": "Raul Soares"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3154101",
+    "municipio": "Recreio"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3154150",
+    "municipio": "Reduto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3154200",
+    "municipio": "Resende Costa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3154309",
+    "municipio": "Resplendor"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3154408",
+    "municipio": "Ressaquinha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3154457",
+    "municipio": "Riachinho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3154507",
+    "municipio": "Riacho dos Machados"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3154606",
+    "municipio": "Ribeirão das Neves"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3154705",
+    "municipio": "Ribeirão Vermelho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3154804",
+    "municipio": "Rio Acima"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3154903",
+    "municipio": "Rio Casca"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3155108",
+    "municipio": "Rio do Prado"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3155009",
+    "municipio": "Rio Doce"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3155207",
+    "municipio": "Rio Espera"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3155306",
+    "municipio": "Rio Manso"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3155405",
+    "municipio": "Rio Novo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3155504",
+    "municipio": "Rio Paranaíba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3155603",
+    "municipio": "Rio Pardo de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3155702",
+    "municipio": "Rio Piracicaba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3155801",
+    "municipio": "Rio Pomba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3155900",
+    "municipio": "Rio Preto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3156007",
+    "municipio": "Rio Vermelho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3156106",
+    "municipio": "Ritápolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3156205",
+    "municipio": "Rochedo de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3156304",
+    "municipio": "Rodeiro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3156403",
+    "municipio": "Romaria"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3156452",
+    "municipio": "Rosário da Limeira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3156502",
+    "municipio": "Rubelita"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3156601",
+    "municipio": "Rubim"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3156700",
+    "municipio": "Sabará"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3156809",
+    "municipio": "Sabinópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3156908",
+    "municipio": "Sacramento"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157005",
+    "municipio": "Salinas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157104",
+    "municipio": "Salto da Divisa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157203",
+    "municipio": "Santa Bárbara"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157252",
+    "municipio": "Santa Bárbara do Leste"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157278",
+    "municipio": "Santa Bárbara do Monte Verde"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157302",
+    "municipio": "Santa Bárbara do Tugúrio"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157336",
+    "municipio": "Santa Cruz de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157377",
+    "municipio": "Santa Cruz de Salinas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157401",
+    "municipio": "Santa Cruz do Escalvado"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157500",
+    "municipio": "Santa Efigênia de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157609",
+    "municipio": "Santa Fé de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157658",
+    "municipio": "Santa Helena de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157708",
+    "municipio": "Santa Juliana"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157807",
+    "municipio": "Santa Luzia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3157906",
+    "municipio": "Santa Margarida"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3158003",
+    "municipio": "Santa Maria de Itabira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3158102",
+    "municipio": "Santa Maria do Salto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3158201",
+    "municipio": "Santa Maria do Suaçuí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3159209",
+    "municipio": "Santa Rita de Caldas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3159407",
+    "municipio": "Santa Rita de Ibitipoca"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3159308",
+    "municipio": "Santa Rita de Jacutinga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3159357",
+    "municipio": "Santa Rita de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3159506",
+    "municipio": "Santa Rita do Itueto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3159605",
+    "municipio": "Santa Rita do Sapucaí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3159704",
+    "municipio": "Santa Rosa da Serra"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3159803",
+    "municipio": "Santa Vitória"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3158300",
+    "municipio": "Santana da Vargem"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3158409",
+    "municipio": "Santana de Cataguases"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3158508",
+    "municipio": "Santana de Pirapama"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3158607",
+    "municipio": "Santana do Deserto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3158706",
+    "municipio": "Santana do Garambéu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3158805",
+    "municipio": "Santana do Jacaré"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3158904",
+    "municipio": "Santana do Manhuaçu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3158953",
+    "municipio": "Santana do Paraíso"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3159001",
+    "municipio": "Santana do Riacho"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3159100",
+    "municipio": "Santana dos Montes"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3159902",
+    "municipio": "Santo Antônio do Amparo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3160009",
+    "municipio": "Santo Antônio do Aventureiro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3160108",
+    "municipio": "Santo Antônio do Grama"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3160207",
+    "municipio": "Santo Antônio do Itambé"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3160306",
+    "municipio": "Santo Antônio do Jacinto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3160405",
+    "municipio": "Santo Antônio do Monte"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3160454",
+    "municipio": "Santo Antônio do Retiro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3160504",
+    "municipio": "Santo Antônio do Rio Abaixo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3160603",
+    "municipio": "Santo Hipólito"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3160702",
+    "municipio": "Santos Dumont"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3160801",
+    "municipio": "São Bento Abade"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3160900",
+    "municipio": "São Brás do Suaçuí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3160959",
+    "municipio": "São Domingos das Dores"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3161007",
+    "municipio": "São Domingos do Prata"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3161056",
+    "municipio": "São Félix de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3161106",
+    "municipio": "São Francisco"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3161205",
+    "municipio": "São Francisco de Paula"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3161304",
+    "municipio": "São Francisco de Sales"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3161403",
+    "municipio": "São Francisco do Glória"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3161502",
+    "municipio": "São Geraldo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3161601",
+    "municipio": "São Geraldo da Piedade"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3161650",
+    "municipio": "São Geraldo do Baixio"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3161700",
+    "municipio": "São Gonçalo do Abaeté"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3161809",
+    "municipio": "São Gonçalo do Pará"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3161908",
+    "municipio": "São Gonçalo do Rio Abaixo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3125507",
+    "municipio": "São Gonçalo do Rio Preto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162005",
+    "municipio": "São Gonçalo do Sapucaí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162104",
+    "municipio": "São Gotardo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162203",
+    "municipio": "São João Batista do Glória"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162252",
+    "municipio": "São João da Lagoa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162302",
+    "municipio": "São João da Mata"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162401",
+    "municipio": "São João da Ponte"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162450",
+    "municipio": "São João das Missões"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162500",
+    "municipio": "São João del Rei"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162559",
+    "municipio": "São João do Manhuaçu"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162575",
+    "municipio": "São João do Manteninha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162609",
+    "municipio": "São João do Oriente"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162658",
+    "municipio": "São João do Pacuí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162708",
+    "municipio": "São João do Paraíso"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162807",
+    "municipio": "São João Evangelista"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162906",
+    "municipio": "São João Nepomuceno"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162922",
+    "municipio": "São Joaquim de Bicas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162948",
+    "municipio": "São José da Barra"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3162955",
+    "municipio": "São José da Lapa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3163003",
+    "municipio": "São José da Safira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3163102",
+    "municipio": "São José da Varginha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3163201",
+    "municipio": "São José do Alegre"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3163300",
+    "municipio": "São José do Divino"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3163409",
+    "municipio": "São José do Goiabal"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3163508",
+    "municipio": "São José do Jacuri"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3163607",
+    "municipio": "São José do Mantimento"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3163706",
+    "municipio": "São Lourenço"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3163805",
+    "municipio": "São Miguel do Anta"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3163904",
+    "municipio": "São Pedro da União"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3164100",
+    "municipio": "São Pedro do Suaçuí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3164001",
+    "municipio": "São Pedro dos Ferros"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3164209",
+    "municipio": "São Romão"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3164308",
+    "municipio": "São Roque de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3164407",
+    "municipio": "São Sebastião da Bela Vista"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3164431",
+    "municipio": "São Sebastião da Vargem Alegre"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3164472",
+    "municipio": "São Sebastião do Anta"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3164506",
+    "municipio": "São Sebastião do Maranhão"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3164605",
+    "municipio": "São Sebastião do Oeste"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3164704",
+    "municipio": "São Sebastião do Paraíso"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3164803",
+    "municipio": "São Sebastião do Rio Preto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3164902",
+    "municipio": "São Sebastião do Rio Verde"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165008",
+    "municipio": "São Tiago"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165107",
+    "municipio": "São Tomás de Aquino"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165206",
+    "municipio": "São Tomé das Letras"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165305",
+    "municipio": "São Vicente de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165404",
+    "municipio": "Sapucaí-Mirim"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165503",
+    "municipio": "Sardoá"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165537",
+    "municipio": "Sarzedo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165560",
+    "municipio": "Sem-Peixe"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165578",
+    "municipio": "Senador Amaral"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165602",
+    "municipio": "Senador Cortes"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165701",
+    "municipio": "Senador Firmino"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165800",
+    "municipio": "Senador José Bento"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165909",
+    "municipio": "Senador Modestino Gonçalves"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3166006",
+    "municipio": "Senhora de Oliveira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3166105",
+    "municipio": "Senhora do Porto"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3166204",
+    "municipio": "Senhora dos Remédios"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3166303",
+    "municipio": "Sericita"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3166402",
+    "municipio": "Seritinga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3166501",
+    "municipio": "Serra Azul de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3166600",
+    "municipio": "Serra da Saudade"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3166808",
+    "municipio": "Serra do Salitre"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3166709",
+    "municipio": "Serra dos Aimorés"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3166907",
+    "municipio": "Serrania"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3166956",
+    "municipio": "Serranópolis de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3167004",
+    "municipio": "Serranos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3167103",
+    "municipio": "Serro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3167202",
+    "municipio": "Sete Lagoas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3165552",
+    "municipio": "Setubinha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3167301",
+    "municipio": "Silveirânia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3167400",
+    "municipio": "Silvianópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3167509",
+    "municipio": "Simão Pereira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3167608",
+    "municipio": "Simonésia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3167707",
+    "municipio": "Sobrália"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3167806",
+    "municipio": "Soledade de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3167905",
+    "municipio": "Tabuleiro"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3168002",
+    "municipio": "Taiobeiras"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3168051",
+    "municipio": "Taparuba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3168101",
+    "municipio": "Tapira"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3168200",
+    "municipio": "Tapiraí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3168309",
+    "municipio": "Taquaraçu de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3168408",
+    "municipio": "Tarumirim"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3168507",
+    "municipio": "Teixeiras"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3168606",
+    "municipio": "Teófilo Otoni"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3168705",
+    "municipio": "Timóteo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3168804",
+    "municipio": "Tiradentes"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3168903",
+    "municipio": "Tiros"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3169000",
+    "municipio": "Tocantins"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3169059",
+    "municipio": "Tocos do Moji"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3169109",
+    "municipio": "Toledo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3169208",
+    "municipio": "Tombos"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3169307",
+    "municipio": "Três Corações"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3169356",
+    "municipio": "Três Marias"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3169406",
+    "municipio": "Três Pontas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3169505",
+    "municipio": "Tumiritinga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3169604",
+    "municipio": "Tupaciguara"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3169703",
+    "municipio": "Turmalina"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3169802",
+    "municipio": "Turvolândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3169901",
+    "municipio": "Ubá"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170008",
+    "municipio": "Ubaí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170057",
+    "municipio": "Ubaporanga"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170107",
+    "municipio": "Uberaba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170206",
+    "municipio": "Uberlândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170305",
+    "municipio": "Umburatiba"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170404",
+    "municipio": "Unaí"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170438",
+    "municipio": "União de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170479",
+    "municipio": "Uruana de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170503",
+    "municipio": "Urucânia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170529",
+    "municipio": "Urucuia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170578",
+    "municipio": "Vargem Alegre"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170602",
+    "municipio": "Vargem Bonita"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170651",
+    "municipio": "Vargem Grande do Rio Pardo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170701",
+    "municipio": "Varginha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170750",
+    "municipio": "Varjão de Minas"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170800",
+    "municipio": "Várzea da Palma"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3170909",
+    "municipio": "Varzelândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3171006",
+    "municipio": "Vazante"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3171030",
+    "municipio": "Verdelândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3171071",
+    "municipio": "Veredinha"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3171105",
+    "municipio": "Veríssimo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3171154",
+    "municipio": "Vermelho Novo"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3171204",
+    "municipio": "Vespasiano"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3171303",
+    "municipio": "Viçosa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3171402",
+    "municipio": "Vieiras"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3171600",
+    "municipio": "Virgem da Lapa"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3171709",
+    "municipio": "Virgínia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3171808",
+    "municipio": "Virginópolis"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3171907",
+    "municipio": "Virgolândia"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3172004",
+    "municipio": "Visconde do Rio Branco"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3172103",
+    "municipio": "Volta Grande"
+  },
+  {
+    "uf": "MG",
+    "codigo": "3172202",
+    "municipio": "Wenceslau Braz"
+  }
+]

@@ -1,0 +1,707 @@
+[
+  {
+    "uf": "MT",
+    "codigo": "5100102",
+    "municipio": "Acorizal"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5100201",
+    "municipio": "Água Boa"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5100250",
+    "municipio": "Alta Floresta"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5100300",
+    "municipio": "Alto Araguaia"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5100359",
+    "municipio": "Alto Boa Vista"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5100409",
+    "municipio": "Alto Garças"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5100508",
+    "municipio": "Alto Paraguai"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5100607",
+    "municipio": "Alto Taquari"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5100805",
+    "municipio": "Apiacás"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5101001",
+    "municipio": "Araguaiana"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5101209",
+    "municipio": "Araguainha"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5101258",
+    "municipio": "Araputanga"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5101308",
+    "municipio": "Arenápolis"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5101407",
+    "municipio": "Aripuanã"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5101605",
+    "municipio": "Barão de Melgaço"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5101704",
+    "municipio": "Barra do Bugres"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5101803",
+    "municipio": "Barra do Garças"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5101852",
+    "municipio": "Bom Jesus do Araguaia"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5101902",
+    "municipio": "Brasnorte"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5102504",
+    "municipio": "Cáceres"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5102603",
+    "municipio": "Campinápolis"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5102637",
+    "municipio": "Campo Novo do Parecis"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5102678",
+    "municipio": "Campo Verde"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5102686",
+    "municipio": "Campos de Júlio"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5102694",
+    "municipio": "Canabrava do Norte"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5102702",
+    "municipio": "Canarana"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5102793",
+    "municipio": "Carlinda"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5102850",
+    "municipio": "Castanheira"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103007",
+    "municipio": "Chapada dos Guimarães"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103056",
+    "municipio": "Cláudia"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103106",
+    "municipio": "Cocalinho"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103205",
+    "municipio": "Colíder"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103254",
+    "municipio": "Colniza"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103304",
+    "municipio": "Comodoro"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103353",
+    "municipio": "Confresa"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103361",
+    "municipio": "Conquista D'Oeste"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103379",
+    "municipio": "Cotriguaçu"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103403",
+    "municipio": "Cuiabá"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103437",
+    "municipio": "Curvelândia"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103452",
+    "municipio": "Denise"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103502",
+    "municipio": "Diamantino"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103601",
+    "municipio": "Dom Aquino"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103700",
+    "municipio": "Feliz Natal"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103809",
+    "municipio": "Figueirópolis D'Oeste"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103858",
+    "municipio": "Gaúcha do Norte"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103908",
+    "municipio": "General Carneiro"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5103957",
+    "municipio": "Glória D'Oeste"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5104104",
+    "municipio": "Guarantã do Norte"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5104203",
+    "municipio": "Guiratinga"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5104500",
+    "municipio": "Indiavaí"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5104526",
+    "municipio": "Ipiranga do Norte"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5104542",
+    "municipio": "Itanhangá"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5104559",
+    "municipio": "Itaúba"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5104609",
+    "municipio": "Itiquira"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5104807",
+    "municipio": "Jaciara"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5104906",
+    "municipio": "Jangada"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5105002",
+    "municipio": "Jauru"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5105101",
+    "municipio": "Juara"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5105150",
+    "municipio": "Juína"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5105176",
+    "municipio": "Juruena"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5105200",
+    "municipio": "Juscimeira"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5105234",
+    "municipio": "Lambari D'Oeste"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5105259",
+    "municipio": "Lucas do Rio Verde"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5105309",
+    "municipio": "Luciara"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5105580",
+    "municipio": "Marcelândia"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5105606",
+    "municipio": "Matupá"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5105622",
+    "municipio": "Mirassol d'Oeste"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5105903",
+    "municipio": "Nobres"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106000",
+    "municipio": "Nortelândia"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106109",
+    "municipio": "Nossa Senhora do Livramento"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106158",
+    "municipio": "Nova Bandeirantes"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106208",
+    "municipio": "Nova Brasilândia"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106216",
+    "municipio": "Nova Canaã do Norte"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5108808",
+    "municipio": "Nova Guarita"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106182",
+    "municipio": "Nova Lacerda"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5108857",
+    "municipio": "Nova Marilândia"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5108907",
+    "municipio": "Nova Maringá"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5108956",
+    "municipio": "Nova Monte Verde"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106224",
+    "municipio": "Nova Mutum"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106174",
+    "municipio": "Nova Nazaré"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106232",
+    "municipio": "Nova Olímpia"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106190",
+    "municipio": "Nova Santa Helena"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106240",
+    "municipio": "Nova Ubiratã"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106257",
+    "municipio": "Nova Xavantina"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106273",
+    "municipio": "Novo Horizonte do Norte"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106265",
+    "municipio": "Novo Mundo"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106315",
+    "municipio": "Novo Santo Antônio"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106281",
+    "municipio": "Novo São Joaquim"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106299",
+    "municipio": "Paranaíta"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106307",
+    "municipio": "Paranatinga"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106372",
+    "municipio": "Pedra Preta"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106422",
+    "municipio": "Peixoto de Azevedo"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106455",
+    "municipio": "Planalto da Serra"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106505",
+    "municipio": "Poconé"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106653",
+    "municipio": "Pontal do Araguaia"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106703",
+    "municipio": "Ponte Branca"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106752",
+    "municipio": "Pontes e Lacerda"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106778",
+    "municipio": "Porto Alegre do Norte"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106802",
+    "municipio": "Porto dos Gaúchos"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106828",
+    "municipio": "Porto Esperidião"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5106851",
+    "municipio": "Porto Estrela"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107008",
+    "municipio": "Poxoréu"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107040",
+    "municipio": "Primavera do Leste"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107065",
+    "municipio": "Querência"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107156",
+    "municipio": "Reserva do Cabaçal"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107180",
+    "municipio": "Ribeirão Cascalheira"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107198",
+    "municipio": "Ribeirãozinho"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107206",
+    "municipio": "Rio Branco"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107578",
+    "municipio": "Rondolândia"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107602",
+    "municipio": "Rondonópolis"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107701",
+    "municipio": "Rosário Oeste"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107750",
+    "municipio": "Salto do Céu"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107248",
+    "municipio": "Santa Carmem"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107743",
+    "municipio": "Santa Cruz do Xingu"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107768",
+    "municipio": "Santa Rita do Trivelato"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107776",
+    "municipio": "Santa Terezinha"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107263",
+    "municipio": "Santo Afonso"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107800",
+    "municipio": "Santo Antônio de Leverger"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107792",
+    "municipio": "Santo Antônio do Leste"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107859",
+    "municipio": "São Félix do Araguaia"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107297",
+    "municipio": "São José do Povo"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107305",
+    "municipio": "São José do Rio Claro"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107354",
+    "municipio": "São José do Xingu"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107107",
+    "municipio": "São José dos Quatro Marcos"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107404",
+    "municipio": "São Pedro da Cipa"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107875",
+    "municipio": "Sapezal"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107883",
+    "municipio": "Serra Nova Dourada"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107909",
+    "municipio": "Sinop"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107925",
+    "municipio": "Sorriso"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107941",
+    "municipio": "Tabaporã"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5107958",
+    "municipio": "Tangará da Serra"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5108006",
+    "municipio": "Tapurah"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5108055",
+    "municipio": "Terra Nova do Norte"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5108105",
+    "municipio": "Tesouro"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5108204",
+    "municipio": "Torixoréu"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5108303",
+    "municipio": "União do Sul"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5108352",
+    "municipio": "Vale de São Domingos"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5108402",
+    "municipio": "Várzea Grande"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5108501",
+    "municipio": "Vera"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5105507",
+    "municipio": "Vila Bela da Santíssima Trindade"
+  },
+  {
+    "uf": "MT",
+    "codigo": "5108600",
+    "municipio": "Vila Rica"
+  }
+]

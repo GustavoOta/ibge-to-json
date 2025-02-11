@@ -1,0 +1,3227 @@
+[
+  {
+    "uf": "SP",
+    "codigo": "3500105",
+    "municipio": "Adamantina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3500204",
+    "municipio": "Adolfo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3500303",
+    "municipio": "Aguaí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3500402",
+    "municipio": "Águas da Prata"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3500501",
+    "municipio": "Águas de Lindóia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3500550",
+    "municipio": "Águas de Santa Bárbara"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3500600",
+    "municipio": "Águas de São Pedro"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3500709",
+    "municipio": "Agudos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3500758",
+    "municipio": "Alambari"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3500808",
+    "municipio": "Alfredo Marcondes"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3500907",
+    "municipio": "Altair"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3501004",
+    "municipio": "Altinópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3501103",
+    "municipio": "Alto Alegre"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3501152",
+    "municipio": "Alumínio"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3501202",
+    "municipio": "Álvares Florence"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3501301",
+    "municipio": "Álvares Machado"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3501400",
+    "municipio": "Álvaro de Carvalho"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3501509",
+    "municipio": "Alvinlândia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3501608",
+    "municipio": "Americana"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3501707",
+    "municipio": "Américo Brasiliense"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3501806",
+    "municipio": "Américo de Campos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3501905",
+    "municipio": "Amparo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3502002",
+    "municipio": "Analândia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3502101",
+    "municipio": "Andradina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3502200",
+    "municipio": "Angatuba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3502309",
+    "municipio": "Anhembi"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3502408",
+    "municipio": "Anhumas"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3502507",
+    "municipio": "Aparecida"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3502606",
+    "municipio": "Aparecida d'Oeste"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3502705",
+    "municipio": "Apiaí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3502754",
+    "municipio": "Araçariguama"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3502804",
+    "municipio": "Araçatuba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3502903",
+    "municipio": "Araçoiaba da Serra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3503000",
+    "municipio": "Aramina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3503109",
+    "municipio": "Arandu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3503158",
+    "municipio": "Arapeí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3503208",
+    "municipio": "Araraquara"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3503307",
+    "municipio": "Araras"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3503356",
+    "municipio": "Arco-Íris"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3503406",
+    "municipio": "Arealva"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3503505",
+    "municipio": "Areias"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3503604",
+    "municipio": "Areiópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3503703",
+    "municipio": "Ariranha"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3503802",
+    "municipio": "Artur Nogueira"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3503901",
+    "municipio": "Arujá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3503950",
+    "municipio": "Aspásia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3504008",
+    "municipio": "Assis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3504107",
+    "municipio": "Atibaia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3504206",
+    "municipio": "Auriflama"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3504305",
+    "municipio": "Avaí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3504404",
+    "municipio": "Avanhandava"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3504503",
+    "municipio": "Avaré"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3504602",
+    "municipio": "Bady Bassitt"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3504701",
+    "municipio": "Balbinos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3504800",
+    "municipio": "Bálsamo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3504909",
+    "municipio": "Bananal"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3505005",
+    "municipio": "Barão de Antonina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3505104",
+    "municipio": "Barbosa"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3505203",
+    "municipio": "Bariri"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3505302",
+    "municipio": "Barra Bonita"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3505351",
+    "municipio": "Barra do Chapéu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3505401",
+    "municipio": "Barra do Turvo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3505500",
+    "municipio": "Barretos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3505609",
+    "municipio": "Barrinha"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3505708",
+    "municipio": "Barueri"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3505807",
+    "municipio": "Bastos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3505906",
+    "municipio": "Batatais"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3506003",
+    "municipio": "Bauru"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3506102",
+    "municipio": "Bebedouro"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3506201",
+    "municipio": "Bento de Abreu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3506300",
+    "municipio": "Bernardino de Campos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3506359",
+    "municipio": "Bertioga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3506409",
+    "municipio": "Bilac"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3506508",
+    "municipio": "Birigui"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3506607",
+    "municipio": "Biritiba Mirim"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3506706",
+    "municipio": "Boa Esperança do Sul"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3506805",
+    "municipio": "Bocaina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3506904",
+    "municipio": "Bofete"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3507001",
+    "municipio": "Boituva"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3507100",
+    "municipio": "Bom Jesus dos Perdões"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3507159",
+    "municipio": "Bom Sucesso de Itararé"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3507209",
+    "municipio": "Borá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3507308",
+    "municipio": "Boracéia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3507407",
+    "municipio": "Borborema"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3507456",
+    "municipio": "Borebi"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3507506",
+    "municipio": "Botucatu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3507605",
+    "municipio": "Bragança Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3507704",
+    "municipio": "Braúna"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3507753",
+    "municipio": "Brejo Alegre"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3507803",
+    "municipio": "Brodowski"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3507902",
+    "municipio": "Brotas"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3508009",
+    "municipio": "Buri"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3508108",
+    "municipio": "Buritama"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3508207",
+    "municipio": "Buritizal"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3508306",
+    "municipio": "Cabrália Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3508405",
+    "municipio": "Cabreúva"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3508504",
+    "municipio": "Caçapava"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3508603",
+    "municipio": "Cachoeira Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3508702",
+    "municipio": "Caconde"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3508801",
+    "municipio": "Cafelândia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3508900",
+    "municipio": "Caiabu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3509007",
+    "municipio": "Caieiras"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3509106",
+    "municipio": "Caiuá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3509205",
+    "municipio": "Cajamar"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3509254",
+    "municipio": "Cajati"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3509304",
+    "municipio": "Cajobi"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3509403",
+    "municipio": "Cajuru"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3509452",
+    "municipio": "Campina do Monte Alegre"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3509502",
+    "municipio": "Campinas"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3509601",
+    "municipio": "Campo Limpo Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3509700",
+    "municipio": "Campos do Jordão"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3509809",
+    "municipio": "Campos Novos Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3509908",
+    "municipio": "Cananéia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3509957",
+    "municipio": "Canas"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3510005",
+    "municipio": "Cândido Mota"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3510104",
+    "municipio": "Cândido Rodrigues"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3510153",
+    "municipio": "Canitar"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3510203",
+    "municipio": "Capão Bonito"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3510302",
+    "municipio": "Capela do Alto"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3510401",
+    "municipio": "Capivari"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3510500",
+    "municipio": "Caraguatatuba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3510609",
+    "municipio": "Carapicuíba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3510708",
+    "municipio": "Cardoso"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3510807",
+    "municipio": "Casa Branca"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3510906",
+    "municipio": "Cássia dos Coqueiros"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3511003",
+    "municipio": "Castilho"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3511102",
+    "municipio": "Catanduva"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3511201",
+    "municipio": "Catiguá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3511300",
+    "municipio": "Cedral"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3511409",
+    "municipio": "Cerqueira César"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3511508",
+    "municipio": "Cerquilho"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3511607",
+    "municipio": "Cesário Lange"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3511706",
+    "municipio": "Charqueada"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3557204",
+    "municipio": "Chavantes"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3511904",
+    "municipio": "Clementina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3512001",
+    "municipio": "Colina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3512100",
+    "municipio": "Colômbia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3512209",
+    "municipio": "Conchal"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3512308",
+    "municipio": "Conchas"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3512407",
+    "municipio": "Cordeirópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3512506",
+    "municipio": "Coroados"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3512605",
+    "municipio": "Coronel Macedo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3512704",
+    "municipio": "Corumbataí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3512803",
+    "municipio": "Cosmópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3512902",
+    "municipio": "Cosmorama"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3513009",
+    "municipio": "Cotia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3513108",
+    "municipio": "Cravinhos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3513207",
+    "municipio": "Cristais Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3513306",
+    "municipio": "Cruzália"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3513405",
+    "municipio": "Cruzeiro"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3513504",
+    "municipio": "Cubatão"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3513603",
+    "municipio": "Cunha"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3513702",
+    "municipio": "Descalvado"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3513801",
+    "municipio": "Diadema"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3513850",
+    "municipio": "Dirce Reis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3513900",
+    "municipio": "Divinolândia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3514007",
+    "municipio": "Dobrada"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3514106",
+    "municipio": "Dois Córregos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3514205",
+    "municipio": "Dolcinópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3514304",
+    "municipio": "Dourado"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3514403",
+    "municipio": "Dracena"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3514502",
+    "municipio": "Duartina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3514601",
+    "municipio": "Dumont"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3514700",
+    "municipio": "Echaporã"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3514809",
+    "municipio": "Eldorado"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3514908",
+    "municipio": "Elias Fausto"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3514924",
+    "municipio": "Elisiário"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3514957",
+    "municipio": "Embaúba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515004",
+    "municipio": "Embu das Artes"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515103",
+    "municipio": "Embu-Guaçu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515129",
+    "municipio": "Emilianópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515152",
+    "municipio": "Engenheiro Coelho"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515186",
+    "municipio": "Espírito Santo do Pinhal"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515194",
+    "municipio": "Espírito Santo do Turvo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3557303",
+    "municipio": "Estiva Gerbi"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515301",
+    "municipio": "Estrela do Norte"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515202",
+    "municipio": "Estrela d'Oeste"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515350",
+    "municipio": "Euclides da Cunha Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515400",
+    "municipio": "Fartura"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515608",
+    "municipio": "Fernando Prestes"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515509",
+    "municipio": "Fernandópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515657",
+    "municipio": "Fernão"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515707",
+    "municipio": "Ferraz de Vasconcelos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515806",
+    "municipio": "Flora Rica"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3515905",
+    "municipio": "Floreal"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3516002",
+    "municipio": "Flórida Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3516101",
+    "municipio": "Florínea"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3516200",
+    "municipio": "Franca"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3516309",
+    "municipio": "Francisco Morato"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3516408",
+    "municipio": "Franco da Rocha"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3516507",
+    "municipio": "Gabriel Monteiro"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3516606",
+    "municipio": "Gália"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3516705",
+    "municipio": "Garça"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3516804",
+    "municipio": "Gastão Vidigal"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3516853",
+    "municipio": "Gavião Peixoto"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3516903",
+    "municipio": "General Salgado"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3517000",
+    "municipio": "Getulina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3517109",
+    "municipio": "Glicério"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3517208",
+    "municipio": "Guaiçara"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3517307",
+    "municipio": "Guaimbê"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3517406",
+    "municipio": "Guaíra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3517505",
+    "municipio": "Guapiaçu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3517604",
+    "municipio": "Guapiara"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3517703",
+    "municipio": "Guará"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3517802",
+    "municipio": "Guaraçaí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3517901",
+    "municipio": "Guaraci"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3518008",
+    "municipio": "Guarani d'Oeste"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3518107",
+    "municipio": "Guarantã"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3518206",
+    "municipio": "Guararapes"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3518305",
+    "municipio": "Guararema"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3518404",
+    "municipio": "Guaratinguetá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3518503",
+    "municipio": "Guareí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3518602",
+    "municipio": "Guariba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3518701",
+    "municipio": "Guarujá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3518800",
+    "municipio": "Guarulhos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3518859",
+    "municipio": "Guatapará"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3518909",
+    "municipio": "Guzolândia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3519006",
+    "municipio": "Herculândia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3519055",
+    "municipio": "Holambra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3519071",
+    "municipio": "Hortolândia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3519105",
+    "municipio": "Iacanga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3519204",
+    "municipio": "Iacri"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3519253",
+    "municipio": "Iaras"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3519303",
+    "municipio": "Ibaté"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3519402",
+    "municipio": "Ibirá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3519501",
+    "municipio": "Ibirarema"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3519600",
+    "municipio": "Ibitinga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3519709",
+    "municipio": "Ibiúna"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3519808",
+    "municipio": "Icém"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3519907",
+    "municipio": "Iepê"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3520004",
+    "municipio": "Igaraçu do Tietê"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3520103",
+    "municipio": "Igarapava"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3520202",
+    "municipio": "Igaratá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3520301",
+    "municipio": "Iguape"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3520426",
+    "municipio": "Ilha Comprida"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3520442",
+    "municipio": "Ilha Solteira"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3520400",
+    "municipio": "Ilhabela"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3520509",
+    "municipio": "Indaiatuba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3520608",
+    "municipio": "Indiana"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3520707",
+    "municipio": "Indiaporã"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3520806",
+    "municipio": "Inúbia Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3520905",
+    "municipio": "Ipaussu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3521002",
+    "municipio": "Iperó"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3521101",
+    "municipio": "Ipeúna"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3521150",
+    "municipio": "Ipiguá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3521200",
+    "municipio": "Iporanga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3521309",
+    "municipio": "Ipuã"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3521408",
+    "municipio": "Iracemápolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3521507",
+    "municipio": "Irapuã"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3521606",
+    "municipio": "Irapuru"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3521705",
+    "municipio": "Itaberá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3521804",
+    "municipio": "Itaí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3521903",
+    "municipio": "Itajobi"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3522000",
+    "municipio": "Itaju"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3522109",
+    "municipio": "Itanhaém"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3522158",
+    "municipio": "Itaoca"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3522208",
+    "municipio": "Itapecerica da Serra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3522307",
+    "municipio": "Itapetininga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3522406",
+    "municipio": "Itapeva"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3522505",
+    "municipio": "Itapevi"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3522604",
+    "municipio": "Itapira"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3522653",
+    "municipio": "Itapirapuã Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3522703",
+    "municipio": "Itápolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3522802",
+    "municipio": "Itaporanga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3522901",
+    "municipio": "Itapuí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3523008",
+    "municipio": "Itapura"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3523107",
+    "municipio": "Itaquaquecetuba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3523206",
+    "municipio": "Itararé"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3523305",
+    "municipio": "Itariri"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3523404",
+    "municipio": "Itatiba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3523503",
+    "municipio": "Itatinga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3523602",
+    "municipio": "Itirapina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3523701",
+    "municipio": "Itirapuã"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3523800",
+    "municipio": "Itobi"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3523909",
+    "municipio": "Itu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3524006",
+    "municipio": "Itupeva"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3524105",
+    "municipio": "Ituverava"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3524204",
+    "municipio": "Jaborandi"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3524303",
+    "municipio": "Jaboticabal"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3524402",
+    "municipio": "Jacareí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3524501",
+    "municipio": "Jaci"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3524600",
+    "municipio": "Jacupiranga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3524709",
+    "municipio": "Jaguariúna"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3524808",
+    "municipio": "Jales"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3524907",
+    "municipio": "Jambeiro"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3525003",
+    "municipio": "Jandira"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3525102",
+    "municipio": "Jardinópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3525201",
+    "municipio": "Jarinu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3525300",
+    "municipio": "Jaú"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3525409",
+    "municipio": "Jeriquara"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3525508",
+    "municipio": "Joanópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3525607",
+    "municipio": "João Ramalho"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3525706",
+    "municipio": "José Bonifácio"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3525805",
+    "municipio": "Júlio Mesquita"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3525854",
+    "municipio": "Jumirim"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3525904",
+    "municipio": "Jundiaí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3526001",
+    "municipio": "Junqueirópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3526100",
+    "municipio": "Juquiá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3526209",
+    "municipio": "Juquitiba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3526308",
+    "municipio": "Lagoinha"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3526407",
+    "municipio": "Laranjal Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3526506",
+    "municipio": "Lavínia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3526605",
+    "municipio": "Lavrinhas"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3526704",
+    "municipio": "Leme"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3526803",
+    "municipio": "Lençóis Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3526902",
+    "municipio": "Limeira"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3527009",
+    "municipio": "Lindóia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3527108",
+    "municipio": "Lins"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3527207",
+    "municipio": "Lorena"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3527256",
+    "municipio": "Lourdes"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3527306",
+    "municipio": "Louveira"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3527405",
+    "municipio": "Lucélia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3527504",
+    "municipio": "Lucianópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3527603",
+    "municipio": "Luís Antônio"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3527702",
+    "municipio": "Luiziânia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3527801",
+    "municipio": "Lupércio"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3527900",
+    "municipio": "Lutécia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3528007",
+    "municipio": "Macatuba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3528106",
+    "municipio": "Macaubal"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3528205",
+    "municipio": "Macedônia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3528304",
+    "municipio": "Magda"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3528403",
+    "municipio": "Mairinque"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3528502",
+    "municipio": "Mairiporã"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3528601",
+    "municipio": "Manduri"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3528700",
+    "municipio": "Marabá Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3528809",
+    "municipio": "Maracaí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3528858",
+    "municipio": "Marapoama"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3528908",
+    "municipio": "Mariápolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3529005",
+    "municipio": "Marília"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3529104",
+    "municipio": "Marinópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3529203",
+    "municipio": "Martinópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3529302",
+    "municipio": "Matão"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3529401",
+    "municipio": "Mauá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3529500",
+    "municipio": "Mendonça"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3529609",
+    "municipio": "Meridiano"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3529658",
+    "municipio": "Mesópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3529708",
+    "municipio": "Miguelópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3529807",
+    "municipio": "Mineiros do Tietê"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3530003",
+    "municipio": "Mira Estrela"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3529906",
+    "municipio": "Miracatu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3530102",
+    "municipio": "Mirandópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3530201",
+    "municipio": "Mirante do Paranapanema"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3530300",
+    "municipio": "Mirassol"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3530409",
+    "municipio": "Mirassolândia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3530508",
+    "municipio": "Mococa"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3530607",
+    "municipio": "Mogi das Cruzes"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3530706",
+    "municipio": "Mogi Guaçu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3530805",
+    "municipio": "Mogi Mirim"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3530904",
+    "municipio": "Mombuca"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3531001",
+    "municipio": "Monções"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3531100",
+    "municipio": "Mongaguá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3531209",
+    "municipio": "Monte Alegre do Sul"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3531308",
+    "municipio": "Monte Alto"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3531407",
+    "municipio": "Monte Aprazível"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3531506",
+    "municipio": "Monte Azul Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3531605",
+    "municipio": "Monte Castelo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3531803",
+    "municipio": "Monte Mor"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3531704",
+    "municipio": "Monteiro Lobato"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3531902",
+    "municipio": "Morro Agudo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532009",
+    "municipio": "Morungaba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532058",
+    "municipio": "Motuca"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532108",
+    "municipio": "Murutinga do Sul"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532157",
+    "municipio": "Nantes"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532207",
+    "municipio": "Narandiba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532306",
+    "municipio": "Natividade da Serra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532405",
+    "municipio": "Nazaré Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532504",
+    "municipio": "Neves Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532603",
+    "municipio": "Nhandeara"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532702",
+    "municipio": "Nipoã"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532801",
+    "municipio": "Nova Aliança"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532827",
+    "municipio": "Nova Campina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532843",
+    "municipio": "Nova Canaã Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532868",
+    "municipio": "Nova Castilho"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3532900",
+    "municipio": "Nova Europa"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3533007",
+    "municipio": "Nova Granada"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3533106",
+    "municipio": "Nova Guataporanga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3533205",
+    "municipio": "Nova Independência"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3533304",
+    "municipio": "Nova Luzitânia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3533403",
+    "municipio": "Nova Odessa"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3533254",
+    "municipio": "Novais"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3533502",
+    "municipio": "Novo Horizonte"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3533601",
+    "municipio": "Nuporanga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3533700",
+    "municipio": "Ocauçu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3533809",
+    "municipio": "Óleo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3533908",
+    "municipio": "Olímpia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3534005",
+    "municipio": "Onda Verde"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3534104",
+    "municipio": "Oriente"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3534203",
+    "municipio": "Orindiúva"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3534302",
+    "municipio": "Orlândia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3534401",
+    "municipio": "Osasco"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3534500",
+    "municipio": "Oscar Bressane"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3534609",
+    "municipio": "Osvaldo Cruz"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3534708",
+    "municipio": "Ourinhos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3534807",
+    "municipio": "Ouro Verde"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3534757",
+    "municipio": "Ouroeste"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3534906",
+    "municipio": "Pacaembu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3535002",
+    "municipio": "Palestina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3535101",
+    "municipio": "Palmares Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3535200",
+    "municipio": "Palmeira d'Oeste"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3535309",
+    "municipio": "Palmital"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3535408",
+    "municipio": "Panorama"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3535507",
+    "municipio": "Paraguaçu Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3535606",
+    "municipio": "Paraibuna"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3535705",
+    "municipio": "Paraíso"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3535804",
+    "municipio": "Paranapanema"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3535903",
+    "municipio": "Paranapuã"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3536000",
+    "municipio": "Parapuã"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3536109",
+    "municipio": "Pardinho"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3536208",
+    "municipio": "Pariquera-Açu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3536257",
+    "municipio": "Parisi"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3536307",
+    "municipio": "Patrocínio Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3536406",
+    "municipio": "Paulicéia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3536505",
+    "municipio": "Paulínia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3536570",
+    "municipio": "Paulistânia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3536604",
+    "municipio": "Paulo de Faria"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3536703",
+    "municipio": "Pederneiras"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3536802",
+    "municipio": "Pedra Bela"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3536901",
+    "municipio": "Pedranópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3537008",
+    "municipio": "Pedregulho"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3537107",
+    "municipio": "Pedreira"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3537156",
+    "municipio": "Pedrinhas Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3537206",
+    "municipio": "Pedro de Toledo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3537305",
+    "municipio": "Penápolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3537404",
+    "municipio": "Pereira Barreto"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3537503",
+    "municipio": "Pereiras"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3537602",
+    "municipio": "Peruíbe"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3537701",
+    "municipio": "Piacatu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3537800",
+    "municipio": "Piedade"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3537909",
+    "municipio": "Pilar do Sul"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3538006",
+    "municipio": "Pindamonhangaba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3538105",
+    "municipio": "Pindorama"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3538204",
+    "municipio": "Pinhalzinho"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3538303",
+    "municipio": "Piquerobi"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3538501",
+    "municipio": "Piquete"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3538600",
+    "municipio": "Piracaia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3538709",
+    "municipio": "Piracicaba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3538808",
+    "municipio": "Piraju"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3538907",
+    "municipio": "Pirajuí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3539004",
+    "municipio": "Pirangi"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3539103",
+    "municipio": "Pirapora do Bom Jesus"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3539202",
+    "municipio": "Pirapozinho"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3539301",
+    "municipio": "Pirassununga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3539400",
+    "municipio": "Piratininga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3539509",
+    "municipio": "Pitangueiras"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3539608",
+    "municipio": "Planalto"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3539707",
+    "municipio": "Platina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3539806",
+    "municipio": "Poá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3539905",
+    "municipio": "Poloni"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3540002",
+    "municipio": "Pompéia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3540101",
+    "municipio": "Pongaí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3540200",
+    "municipio": "Pontal"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3540259",
+    "municipio": "Pontalinda"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3540309",
+    "municipio": "Pontes Gestal"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3540408",
+    "municipio": "Populina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3540507",
+    "municipio": "Porangaba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3540606",
+    "municipio": "Porto Feliz"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3540705",
+    "municipio": "Porto Ferreira"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3540754",
+    "municipio": "Potim"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3540804",
+    "municipio": "Potirendaba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3540853",
+    "municipio": "Pracinha"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3540903",
+    "municipio": "Pradópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3541000",
+    "municipio": "Praia Grande"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3541059",
+    "municipio": "Pratânia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3541109",
+    "municipio": "Presidente Alves"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3541208",
+    "municipio": "Presidente Bernardes"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3541307",
+    "municipio": "Presidente Epitácio"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3541406",
+    "municipio": "Presidente Prudente"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3541505",
+    "municipio": "Presidente Venceslau"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3541604",
+    "municipio": "Promissão"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3541653",
+    "municipio": "Quadra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3541703",
+    "municipio": "Quatá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3541802",
+    "municipio": "Queiroz"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3541901",
+    "municipio": "Queluz"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3542008",
+    "municipio": "Quintana"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3542107",
+    "municipio": "Rafard"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3542206",
+    "municipio": "Rancharia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3542305",
+    "municipio": "Redenção da Serra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3542404",
+    "municipio": "Regente Feijó"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3542503",
+    "municipio": "Reginópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3542602",
+    "municipio": "Registro"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3542701",
+    "municipio": "Restinga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3542800",
+    "municipio": "Ribeira"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3542909",
+    "municipio": "Ribeirão Bonito"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3543006",
+    "municipio": "Ribeirão Branco"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3543105",
+    "municipio": "Ribeirão Corrente"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3543204",
+    "municipio": "Ribeirão do Sul"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3543238",
+    "municipio": "Ribeirão dos Índios"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3543253",
+    "municipio": "Ribeirão Grande"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3543303",
+    "municipio": "Ribeirão Pires"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3543402",
+    "municipio": "Ribeirão Preto"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3543600",
+    "municipio": "Rifaina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3543709",
+    "municipio": "Rincão"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3543808",
+    "municipio": "Rinópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3543907",
+    "municipio": "Rio Claro"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3544004",
+    "municipio": "Rio das Pedras"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3544103",
+    "municipio": "Rio Grande da Serra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3544202",
+    "municipio": "Riolândia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3543501",
+    "municipio": "Riversul"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3544251",
+    "municipio": "Rosana"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3544301",
+    "municipio": "Roseira"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3544400",
+    "municipio": "Rubiácea"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3544509",
+    "municipio": "Rubinéia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3544608",
+    "municipio": "Sabino"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3544707",
+    "municipio": "Sagres"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3544806",
+    "municipio": "Sales"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3544905",
+    "municipio": "Sales Oliveira"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3545001",
+    "municipio": "Salesópolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3545100",
+    "municipio": "Salmourão"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3545159",
+    "municipio": "Saltinho"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3545209",
+    "municipio": "Salto"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3545308",
+    "municipio": "Salto de Pirapora"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3545407",
+    "municipio": "Salto Grande"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3545506",
+    "municipio": "Sandovalina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3545605",
+    "municipio": "Santa Adélia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3545704",
+    "municipio": "Santa Albertina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3545803",
+    "municipio": "Santa Bárbara d'Oeste"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3546009",
+    "municipio": "Santa Branca"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3546108",
+    "municipio": "Santa Clara d'Oeste"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3546207",
+    "municipio": "Santa Cruz da Conceição"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3546256",
+    "municipio": "Santa Cruz da Esperança"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3546306",
+    "municipio": "Santa Cruz das Palmeiras"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3546405",
+    "municipio": "Santa Cruz do Rio Pardo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3546504",
+    "municipio": "Santa Ernestina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3546603",
+    "municipio": "Santa Fé do Sul"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3546702",
+    "municipio": "Santa Gertrudes"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3546801",
+    "municipio": "Santa Isabel"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3546900",
+    "municipio": "Santa Lúcia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3547007",
+    "municipio": "Santa Maria da Serra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3547106",
+    "municipio": "Santa Mercedes"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3547502",
+    "municipio": "Santa Rita do Passa Quatro"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3547403",
+    "municipio": "Santa Rita d'Oeste"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3547601",
+    "municipio": "Santa Rosa de Viterbo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3547650",
+    "municipio": "Santa Salete"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3547205",
+    "municipio": "Santana da Ponte Pensa"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3547304",
+    "municipio": "Santana de Parnaíba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3547700",
+    "municipio": "Santo Anastácio"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3547809",
+    "municipio": "Santo André"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3547908",
+    "municipio": "Santo Antônio da Alegria"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3548005",
+    "municipio": "Santo Antônio de Posse"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3548054",
+    "municipio": "Santo Antônio do Aracanguá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3548104",
+    "municipio": "Santo Antônio do Jardim"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3548203",
+    "municipio": "Santo Antônio do Pinhal"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3548302",
+    "municipio": "Santo Expedito"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3548401",
+    "municipio": "Santópolis do Aguapeí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3548500",
+    "municipio": "Santos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3548609",
+    "municipio": "São Bento do Sapucaí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3548708",
+    "municipio": "São Bernardo do Campo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3548807",
+    "municipio": "São Caetano do Sul"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3548906",
+    "municipio": "São Carlos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3549003",
+    "municipio": "São Francisco"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3549102",
+    "municipio": "São João da Boa Vista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3549201",
+    "municipio": "São João das Duas Pontes"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3549250",
+    "municipio": "São João de Iracema"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3549300",
+    "municipio": "São João do Pau d'Alho"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3549409",
+    "municipio": "São Joaquim da Barra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3549508",
+    "municipio": "São José da Bela Vista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3549607",
+    "municipio": "São José do Barreiro"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3549706",
+    "municipio": "São José do Rio Pardo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3549805",
+    "municipio": "São José do Rio Preto"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3549904",
+    "municipio": "São José dos Campos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3549953",
+    "municipio": "São Lourenço da Serra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3550001",
+    "municipio": "São Luiz do Paraitinga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3550100",
+    "municipio": "São Manuel"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3550209",
+    "municipio": "São Miguel Arcanjo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3550308",
+    "municipio": "São Paulo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3550407",
+    "municipio": "São Pedro"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3550506",
+    "municipio": "São Pedro do Turvo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3550605",
+    "municipio": "São Roque"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3550704",
+    "municipio": "São Sebastião"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3550803",
+    "municipio": "São Sebastião da Grama"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3550902",
+    "municipio": "São Simão"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3551009",
+    "municipio": "São Vicente"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3551108",
+    "municipio": "Sarapuí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3551207",
+    "municipio": "Sarutaiá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3551306",
+    "municipio": "Sebastianópolis do Sul"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3551405",
+    "municipio": "Serra Azul"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3551603",
+    "municipio": "Serra Negra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3551504",
+    "municipio": "Serrana"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3551702",
+    "municipio": "Sertãozinho"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3551801",
+    "municipio": "Sete Barras"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3551900",
+    "municipio": "Severínia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3552007",
+    "municipio": "Silveiras"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3552106",
+    "municipio": "Socorro"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3552205",
+    "municipio": "Sorocaba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3552304",
+    "municipio": "Sud Mennucci"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3552403",
+    "municipio": "Sumaré"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3552551",
+    "municipio": "Suzanápolis"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3552502",
+    "municipio": "Suzano"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3552601",
+    "municipio": "Tabapuã"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3552700",
+    "municipio": "Tabatinga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3552809",
+    "municipio": "Taboão da Serra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3552908",
+    "municipio": "Taciba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3553005",
+    "municipio": "Taguaí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3553104",
+    "municipio": "Taiaçu"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3553203",
+    "municipio": "Taiúva"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3553302",
+    "municipio": "Tambaú"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3553401",
+    "municipio": "Tanabi"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3553500",
+    "municipio": "Tapiraí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3553609",
+    "municipio": "Tapiratiba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3553658",
+    "municipio": "Taquaral"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3553708",
+    "municipio": "Taquaritinga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3553807",
+    "municipio": "Taquarituba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3553856",
+    "municipio": "Taquarivaí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3553906",
+    "municipio": "Tarabai"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3553955",
+    "municipio": "Tarumã"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3554003",
+    "municipio": "Tatuí"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3554102",
+    "municipio": "Taubaté"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3554201",
+    "municipio": "Tejupá"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3554300",
+    "municipio": "Teodoro Sampaio"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3554409",
+    "municipio": "Terra Roxa"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3554508",
+    "municipio": "Tietê"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3554607",
+    "municipio": "Timburi"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3554656",
+    "municipio": "Torre de Pedra"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3554706",
+    "municipio": "Torrinha"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3554755",
+    "municipio": "Trabiju"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3554805",
+    "municipio": "Tremembé"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3554904",
+    "municipio": "Três Fronteiras"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3554953",
+    "municipio": "Tuiuti"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3555000",
+    "municipio": "Tupã"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3555109",
+    "municipio": "Tupi Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3555208",
+    "municipio": "Turiúba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3555307",
+    "municipio": "Turmalina"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3555356",
+    "municipio": "Ubarana"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3555406",
+    "municipio": "Ubatuba"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3555505",
+    "municipio": "Ubirajara"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3555604",
+    "municipio": "Uchoa"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3555703",
+    "municipio": "União Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3555802",
+    "municipio": "Urânia"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3555901",
+    "municipio": "Uru"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3556008",
+    "municipio": "Urupês"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3556107",
+    "municipio": "Valentim Gentil"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3556206",
+    "municipio": "Valinhos"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3556305",
+    "municipio": "Valparaíso"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3556354",
+    "municipio": "Vargem"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3556404",
+    "municipio": "Vargem Grande do Sul"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3556453",
+    "municipio": "Vargem Grande Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3556503",
+    "municipio": "Várzea Paulista"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3556602",
+    "municipio": "Vera Cruz"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3556701",
+    "municipio": "Vinhedo"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3556800",
+    "municipio": "Viradouro"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3556909",
+    "municipio": "Vista Alegre do Alto"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3556958",
+    "municipio": "Vitória Brasil"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3557006",
+    "municipio": "Votorantim"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3557105",
+    "municipio": "Votuporanga"
+  },
+  {
+    "uf": "SP",
+    "codigo": "3557154",
+    "municipio": "Zacarias"
+  }
+]

@@ -1,0 +1,1122 @@
+[
+  {
+    "uf": "PI",
+    "codigo": "2200053",
+    "municipio": "Acauã"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2200103",
+    "municipio": "Agricolândia"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2200202",
+    "municipio": "Água Branca"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2200251",
+    "municipio": "Alagoinha do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2200277",
+    "municipio": "Alegrete do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2200301",
+    "municipio": "Alto Longá"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2200400",
+    "municipio": "Altos"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2200459",
+    "municipio": "Alvorada do Gurguéia"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2200509",
+    "municipio": "Amarante"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2200608",
+    "municipio": "Angical do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2200707",
+    "municipio": "Anísio de Abreu"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2200806",
+    "municipio": "Antônio Almeida"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2200905",
+    "municipio": "Aroazes"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2200954",
+    "municipio": "Aroeiras do Itaim"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201002",
+    "municipio": "Arraial"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201051",
+    "municipio": "Assunção do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201101",
+    "municipio": "Avelino Lopes"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201150",
+    "municipio": "Baixa Grande do Ribeiro"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201176",
+    "municipio": "Barra D'Alcântara"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201200",
+    "municipio": "Barras"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201309",
+    "municipio": "Barreiras do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201408",
+    "municipio": "Barro Duro"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201507",
+    "municipio": "Batalha"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201556",
+    "municipio": "Bela Vista do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201572",
+    "municipio": "Belém do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201606",
+    "municipio": "Beneditinos"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201705",
+    "municipio": "Bertolínia"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201739",
+    "municipio": "Betânia do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201770",
+    "municipio": "Boa Hora"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201804",
+    "municipio": "Bocaina"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201903",
+    "municipio": "Bom Jesus"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201919",
+    "municipio": "Bom Princípio do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201929",
+    "municipio": "Bonfim do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201945",
+    "municipio": "Boqueirão do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201960",
+    "municipio": "Brasileira"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2201988",
+    "municipio": "Brejo do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202000",
+    "municipio": "Buriti dos Lopes"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202026",
+    "municipio": "Buriti dos Montes"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202059",
+    "municipio": "Cabeceiras do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202075",
+    "municipio": "Cajazeiras do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202083",
+    "municipio": "Cajueiro da Praia"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202091",
+    "municipio": "Caldeirão Grande do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202109",
+    "municipio": "Campinas do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202117",
+    "municipio": "Campo Alegre do Fidalgo"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202133",
+    "municipio": "Campo Grande do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202174",
+    "municipio": "Campo Largo do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202208",
+    "municipio": "Campo Maior"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202251",
+    "municipio": "Canavieira"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202307",
+    "municipio": "Canto do Buriti"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202406",
+    "municipio": "Capitão de Campos"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202455",
+    "municipio": "Capitão Gervásio Oliveira"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202505",
+    "municipio": "Caracol"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202539",
+    "municipio": "Caraúbas do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202554",
+    "municipio": "Caridade do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202604",
+    "municipio": "Castelo do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202653",
+    "municipio": "Caxingó"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202703",
+    "municipio": "Cocal"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202711",
+    "municipio": "Cocal de Telha"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202729",
+    "municipio": "Cocal dos Alves"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202737",
+    "municipio": "Coivaras"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202752",
+    "municipio": "Colônia do Gurguéia"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202778",
+    "municipio": "Colônia do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202802",
+    "municipio": "Conceição do Canindé"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202851",
+    "municipio": "Coronel José Dias"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2202901",
+    "municipio": "Corrente"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203008",
+    "municipio": "Cristalândia do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203107",
+    "municipio": "Cristino Castro"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203206",
+    "municipio": "Curimatá"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203230",
+    "municipio": "Currais"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203271",
+    "municipio": "Curral Novo do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203255",
+    "municipio": "Curralinhos"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203305",
+    "municipio": "Demerval Lobão"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203354",
+    "municipio": "Dirceu Arcoverde"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203404",
+    "municipio": "Dom Expedito Lopes"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203453",
+    "municipio": "Dom Inocêncio"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203420",
+    "municipio": "Domingos Mourão"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203503",
+    "municipio": "Elesbão Veloso"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203602",
+    "municipio": "Eliseu Martins"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203701",
+    "municipio": "Esperantina"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203750",
+    "municipio": "Fartura do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203800",
+    "municipio": "Flores do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203859",
+    "municipio": "Floresta do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2203909",
+    "municipio": "Floriano"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204006",
+    "municipio": "Francinópolis"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204105",
+    "municipio": "Francisco Ayres"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204154",
+    "municipio": "Francisco Macedo"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204204",
+    "municipio": "Francisco Santos"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204303",
+    "municipio": "Fronteiras"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204352",
+    "municipio": "Geminiano"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204402",
+    "municipio": "Gilbués"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204501",
+    "municipio": "Guadalupe"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204550",
+    "municipio": "Guaribas"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204600",
+    "municipio": "Hugo Napoleão"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204659",
+    "municipio": "Ilha Grande"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204709",
+    "municipio": "Inhuma"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204808",
+    "municipio": "Ipiranga do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2204907",
+    "municipio": "Isaías Coelho"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205003",
+    "municipio": "Itainópolis"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205102",
+    "municipio": "Itaueira"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205151",
+    "municipio": "Jacobina do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205201",
+    "municipio": "Jaicós"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205250",
+    "municipio": "Jardim do Mulato"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205276",
+    "municipio": "Jatobá do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205300",
+    "municipio": "Jerumenha"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205359",
+    "municipio": "João Costa"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205409",
+    "municipio": "Joaquim Pires"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205458",
+    "municipio": "Joca Marques"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205508",
+    "municipio": "José de Freitas"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205516",
+    "municipio": "Juazeiro do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205524",
+    "municipio": "Júlio Borges"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205532",
+    "municipio": "Jurema"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205557",
+    "municipio": "Lagoa Alegre"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205573",
+    "municipio": "Lagoa de São Francisco"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205565",
+    "municipio": "Lagoa do Barro do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205581",
+    "municipio": "Lagoa do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205599",
+    "municipio": "Lagoa do Sítio"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205540",
+    "municipio": "Lagoinha do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205607",
+    "municipio": "Landri Sales"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205706",
+    "municipio": "Luís Correia"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205805",
+    "municipio": "Luzilândia"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205854",
+    "municipio": "Madeiro"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205904",
+    "municipio": "Manoel Emídio"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2205953",
+    "municipio": "Marcolândia"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206001",
+    "municipio": "Marcos Parente"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206050",
+    "municipio": "Massapê do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206100",
+    "municipio": "Matias Olímpio"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206209",
+    "municipio": "Miguel Alves"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206308",
+    "municipio": "Miguel Leão"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206357",
+    "municipio": "Milton Brandão"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206407",
+    "municipio": "Monsenhor Gil"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206506",
+    "municipio": "Monsenhor Hipólito"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206605",
+    "municipio": "Monte Alegre do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206654",
+    "municipio": "Morro Cabeça no Tempo"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206670",
+    "municipio": "Morro do Chapéu do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206696",
+    "municipio": "Murici dos Portelas"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206704",
+    "municipio": "Nazaré do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206720",
+    "municipio": "Nazária"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206753",
+    "municipio": "Nossa Senhora de Nazaré"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206803",
+    "municipio": "Nossa Senhora dos Remédios"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207959",
+    "municipio": "Nova Santa Rita"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206902",
+    "municipio": "Novo Oriente do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2206951",
+    "municipio": "Novo Santo Antônio"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207009",
+    "municipio": "Oeiras"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207108",
+    "municipio": "Olho D'Água do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207207",
+    "municipio": "Padre Marcos"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207306",
+    "municipio": "Paes Landim"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207355",
+    "municipio": "Pajeú do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207405",
+    "municipio": "Palmeira do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207504",
+    "municipio": "Palmeirais"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207553",
+    "municipio": "Paquetá"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207603",
+    "municipio": "Parnaguá"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207702",
+    "municipio": "Parnaíba"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207751",
+    "municipio": "Passagem Franca do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207777",
+    "municipio": "Patos do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207793",
+    "municipio": "Pau D'Arco do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207801",
+    "municipio": "Paulistana"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207850",
+    "municipio": "Pavussu"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207900",
+    "municipio": "Pedro II"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2207934",
+    "municipio": "Pedro Laurentino"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208007",
+    "municipio": "Picos"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208106",
+    "municipio": "Pimenteiras"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208205",
+    "municipio": "Pio IX"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208304",
+    "municipio": "Piracuruca"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208403",
+    "municipio": "Piripiri"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208502",
+    "municipio": "Porto"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208551",
+    "municipio": "Porto Alegre do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208601",
+    "municipio": "Prata do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208650",
+    "municipio": "Queimada Nova"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208700",
+    "municipio": "Redenção do Gurguéia"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208809",
+    "municipio": "Regeneração"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208858",
+    "municipio": "Riacho Frio"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208874",
+    "municipio": "Ribeira do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2208908",
+    "municipio": "Ribeiro Gonçalves"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209005",
+    "municipio": "Rio Grande do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209104",
+    "municipio": "Santa Cruz do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209153",
+    "municipio": "Santa Cruz dos Milagres"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209203",
+    "municipio": "Santa Filomena"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209302",
+    "municipio": "Santa Luz"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209377",
+    "municipio": "Santa Rosa do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209351",
+    "municipio": "Santana do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209401",
+    "municipio": "Santo Antônio de Lisboa"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209450",
+    "municipio": "Santo Antônio dos Milagres"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209500",
+    "municipio": "Santo Inácio do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209559",
+    "municipio": "São Braz do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209609",
+    "municipio": "São Félix do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209658",
+    "municipio": "São Francisco de Assis do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209708",
+    "municipio": "São Francisco do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209757",
+    "municipio": "São Gonçalo do Gurguéia"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209807",
+    "municipio": "São Gonçalo do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209856",
+    "municipio": "São João da Canabrava"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209872",
+    "municipio": "São João da Fronteira"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209906",
+    "municipio": "São João da Serra"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209955",
+    "municipio": "São João da Varjota"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2209971",
+    "municipio": "São João do Arraial"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210003",
+    "municipio": "São João do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210052",
+    "municipio": "São José do Divino"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210102",
+    "municipio": "São José do Peixe"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210201",
+    "municipio": "São José do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210300",
+    "municipio": "São Julião"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210359",
+    "municipio": "São Lourenço do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210375",
+    "municipio": "São Luis do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210383",
+    "municipio": "São Miguel da Baixa Grande"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210391",
+    "municipio": "São Miguel do Fidalgo"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210409",
+    "municipio": "São Miguel do Tapuio"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210508",
+    "municipio": "São Pedro do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210607",
+    "municipio": "São Raimundo Nonato"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210623",
+    "municipio": "Sebastião Barros"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210631",
+    "municipio": "Sebastião Leal"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210656",
+    "municipio": "Sigefredo Pacheco"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210706",
+    "municipio": "Simões"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210805",
+    "municipio": "Simplício Mendes"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210904",
+    "municipio": "Socorro do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210938",
+    "municipio": "Sussuapara"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210953",
+    "municipio": "Tamboril do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2210979",
+    "municipio": "Tanque do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2211001",
+    "municipio": "Teresina"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2211100",
+    "municipio": "União"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2211209",
+    "municipio": "Uruçuí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2211308",
+    "municipio": "Valença do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2211357",
+    "municipio": "Várzea Branca"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2211407",
+    "municipio": "Várzea Grande"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2211506",
+    "municipio": "Vera Mendes"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2211605",
+    "municipio": "Vila Nova do Piauí"
+  },
+  {
+    "uf": "PI",
+    "codigo": "2211704",
+    "municipio": "Wall Ferraz"
+  }
+]

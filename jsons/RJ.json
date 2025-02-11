@@ -1,0 +1,462 @@
+[
+  {
+    "uf": "RJ",
+    "codigo": "3300100",
+    "municipio": "Angra dos Reis"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300159",
+    "municipio": "Aperibé"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300209",
+    "municipio": "Araruama"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300225",
+    "municipio": "Areal"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300233",
+    "municipio": "Armação dos Búzios"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300258",
+    "municipio": "Arraial do Cabo"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300308",
+    "municipio": "Barra do Piraí"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300407",
+    "municipio": "Barra Mansa"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300456",
+    "municipio": "Belford Roxo"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300506",
+    "municipio": "Bom Jardim"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300605",
+    "municipio": "Bom Jesus do Itabapoana"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300704",
+    "municipio": "Cabo Frio"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300803",
+    "municipio": "Cachoeiras de Macacu"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300902",
+    "municipio": "Cambuci"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3301009",
+    "municipio": "Campos dos Goytacazes"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3301108",
+    "municipio": "Cantagalo"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300936",
+    "municipio": "Carapebus"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3301157",
+    "municipio": "Cardoso Moreira"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3301207",
+    "municipio": "Carmo"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3301306",
+    "municipio": "Casimiro de Abreu"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3300951",
+    "municipio": "Comendador Levy Gasparian"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3301405",
+    "municipio": "Conceição de Macabu"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3301504",
+    "municipio": "Cordeiro"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3301603",
+    "municipio": "Duas Barras"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3301702",
+    "municipio": "Duque de Caxias"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3301801",
+    "municipio": "Engenheiro Paulo de Frontin"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3301850",
+    "municipio": "Guapimirim"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3301876",
+    "municipio": "Iguaba Grande"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3301900",
+    "municipio": "Itaboraí"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302007",
+    "municipio": "Itaguaí"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302056",
+    "municipio": "Italva"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302106",
+    "municipio": "Itaocara"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302205",
+    "municipio": "Itaperuna"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302254",
+    "municipio": "Itatiaia"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302270",
+    "municipio": "Japeri"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302304",
+    "municipio": "Laje do Muriaé"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302403",
+    "municipio": "Macaé"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302452",
+    "municipio": "Macuco"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302502",
+    "municipio": "Magé"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302601",
+    "municipio": "Mangaratiba"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302700",
+    "municipio": "Maricá"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302809",
+    "municipio": "Mendes"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302858",
+    "municipio": "Mesquita"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3302908",
+    "municipio": "Miguel Pereira"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3303005",
+    "municipio": "Miracema"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3303104",
+    "municipio": "Natividade"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3303203",
+    "municipio": "Nilópolis"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3303302",
+    "municipio": "Niterói"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3303401",
+    "municipio": "Nova Friburgo"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3303500",
+    "municipio": "Nova Iguaçu"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3303609",
+    "municipio": "Paracambi"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3303708",
+    "municipio": "Paraíba do Sul"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3303807",
+    "municipio": "Paraty"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3303856",
+    "municipio": "Paty do Alferes"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3303906",
+    "municipio": "Petrópolis"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3303955",
+    "municipio": "Pinheiral"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304003",
+    "municipio": "Piraí"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304102",
+    "municipio": "Porciúncula"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304110",
+    "municipio": "Porto Real"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304128",
+    "municipio": "Quatis"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304144",
+    "municipio": "Queimados"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304151",
+    "municipio": "Quissamã"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304201",
+    "municipio": "Resende"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304300",
+    "municipio": "Rio Bonito"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304409",
+    "municipio": "Rio Claro"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304508",
+    "municipio": "Rio das Flores"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304524",
+    "municipio": "Rio das Ostras"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304557",
+    "municipio": "Rio de Janeiro"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304607",
+    "municipio": "Santa Maria Madalena"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304706",
+    "municipio": "Santo Antônio de Pádua"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304805",
+    "municipio": "São Fidélis"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304755",
+    "municipio": "São Francisco de Itabapoana"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3304904",
+    "municipio": "São Gonçalo"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305000",
+    "municipio": "São João da Barra"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305109",
+    "municipio": "São João de Meriti"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305133",
+    "municipio": "São José de Ubá"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305158",
+    "municipio": "São José do Vale do Rio Preto"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305208",
+    "municipio": "São Pedro da Aldeia"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305307",
+    "municipio": "São Sebastião do Alto"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305406",
+    "municipio": "Sapucaia"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305505",
+    "municipio": "Saquarema"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305554",
+    "municipio": "Seropédica"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305604",
+    "municipio": "Silva Jardim"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305703",
+    "municipio": "Sumidouro"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305752",
+    "municipio": "Tanguá"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305802",
+    "municipio": "Teresópolis"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3305901",
+    "municipio": "Trajano de Moraes"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3306008",
+    "municipio": "Três Rios"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3306107",
+    "municipio": "Valença"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3306156",
+    "municipio": "Varre-Sai"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3306206",
+    "municipio": "Vassouras"
+  },
+  {
+    "uf": "RJ",
+    "codigo": "3306305",
+    "municipio": "Volta Redonda"
+  }
+]

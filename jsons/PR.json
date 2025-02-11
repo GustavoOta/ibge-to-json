@@ -1,0 +1,1997 @@
+[
+  {
+    "uf": "PR",
+    "codigo": "4100103",
+    "municipio": "Abatiá"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4100202",
+    "municipio": "Adrianópolis"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4100301",
+    "municipio": "Agudos do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4100400",
+    "municipio": "Almirante Tamandaré"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4100459",
+    "municipio": "Altamira do Paraná"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128625",
+    "municipio": "Alto Paraíso"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4100608",
+    "municipio": "Alto Paraná"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4100707",
+    "municipio": "Alto Piquiri"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4100509",
+    "municipio": "Altônia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4100806",
+    "municipio": "Alvorada do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4100905",
+    "municipio": "Amaporã"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101002",
+    "municipio": "Ampére"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101051",
+    "municipio": "Anahy"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101101",
+    "municipio": "Andirá"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101150",
+    "municipio": "Ângulo"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101200",
+    "municipio": "Antonina"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101309",
+    "municipio": "Antônio Olinto"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101408",
+    "municipio": "Apucarana"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101507",
+    "municipio": "Arapongas"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101606",
+    "municipio": "Arapoti"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101655",
+    "municipio": "Arapuã"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101705",
+    "municipio": "Araruna"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101804",
+    "municipio": "Araucária"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101853",
+    "municipio": "Ariranha do Ivaí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4101903",
+    "municipio": "Assaí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4102000",
+    "municipio": "Assis Chateaubriand"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4102109",
+    "municipio": "Astorga"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4102208",
+    "municipio": "Atalaia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4102307",
+    "municipio": "Balsa Nova"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4102406",
+    "municipio": "Bandeirantes"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4102505",
+    "municipio": "Barbosa Ferraz"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4102703",
+    "municipio": "Barra do Jacaré"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4102604",
+    "municipio": "Barracão"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4102752",
+    "municipio": "Bela Vista da Caroba"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4102802",
+    "municipio": "Bela Vista do Paraíso"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4102901",
+    "municipio": "Bituruna"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103008",
+    "municipio": "Boa Esperança"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103024",
+    "municipio": "Boa Esperança do Iguaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103040",
+    "municipio": "Boa Ventura de São Roque"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103057",
+    "municipio": "Boa Vista da Aparecida"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103107",
+    "municipio": "Bocaiúva do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103156",
+    "municipio": "Bom Jesus do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103206",
+    "municipio": "Bom Sucesso"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103222",
+    "municipio": "Bom Sucesso do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103305",
+    "municipio": "Borrazópolis"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103354",
+    "municipio": "Braganey"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103370",
+    "municipio": "Brasilândia do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103404",
+    "municipio": "Cafeara"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103453",
+    "municipio": "Cafelândia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103479",
+    "municipio": "Cafezal do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103503",
+    "municipio": "Califórnia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103602",
+    "municipio": "Cambará"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103701",
+    "municipio": "Cambé"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103800",
+    "municipio": "Cambira"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103909",
+    "municipio": "Campina da Lagoa"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4103958",
+    "municipio": "Campina do Simão"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104006",
+    "municipio": "Campina Grande do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104055",
+    "municipio": "Campo Bonito"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104105",
+    "municipio": "Campo do Tenente"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104204",
+    "municipio": "Campo Largo"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104253",
+    "municipio": "Campo Magro"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104303",
+    "municipio": "Campo Mourão"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104402",
+    "municipio": "Cândido de Abreu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104428",
+    "municipio": "Candói"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104451",
+    "municipio": "Cantagalo"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104501",
+    "municipio": "Capanema"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104600",
+    "municipio": "Capitão Leônidas Marques"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104659",
+    "municipio": "Carambeí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104709",
+    "municipio": "Carlópolis"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104808",
+    "municipio": "Cascavel"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4104907",
+    "municipio": "Castro"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4105003",
+    "municipio": "Catanduvas"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4105102",
+    "municipio": "Centenário do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4105201",
+    "municipio": "Cerro Azul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4105300",
+    "municipio": "Céu Azul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4105409",
+    "municipio": "Chopinzinho"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4105508",
+    "municipio": "Cianorte"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4105607",
+    "municipio": "Cidade Gaúcha"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4105706",
+    "municipio": "Clevelândia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4105805",
+    "municipio": "Colombo"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4105904",
+    "municipio": "Colorado"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106001",
+    "municipio": "Congonhinhas"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106100",
+    "municipio": "Conselheiro Mairinck"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106209",
+    "municipio": "Contenda"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106308",
+    "municipio": "Corbélia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106407",
+    "municipio": "Cornélio Procópio"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106456",
+    "municipio": "Coronel Domingos Soares"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106506",
+    "municipio": "Coronel Vivida"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106555",
+    "municipio": "Corumbataí do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106803",
+    "municipio": "Cruz Machado"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106571",
+    "municipio": "Cruzeiro do Iguaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106605",
+    "municipio": "Cruzeiro do Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106704",
+    "municipio": "Cruzeiro do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106852",
+    "municipio": "Cruzmaltina"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4106902",
+    "municipio": "Curitiba"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107009",
+    "municipio": "Curiúva"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107108",
+    "municipio": "Diamante do Norte"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107124",
+    "municipio": "Diamante do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107157",
+    "municipio": "Diamante D'Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107207",
+    "municipio": "Dois Vizinhos"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107256",
+    "municipio": "Douradina"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107306",
+    "municipio": "Doutor Camargo"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128633",
+    "municipio": "Doutor Ulysses"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107405",
+    "municipio": "Enéas Marques"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107504",
+    "municipio": "Engenheiro Beltrão"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107538",
+    "municipio": "Entre Rios do Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107520",
+    "municipio": "Esperança Nova"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107546",
+    "municipio": "Espigão Alto do Iguaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107553",
+    "municipio": "Farol"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107603",
+    "municipio": "Faxinal"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107652",
+    "municipio": "Fazenda Rio Grande"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107702",
+    "municipio": "Fênix"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107736",
+    "municipio": "Fernandes Pinheiro"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107751",
+    "municipio": "Figueira"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107850",
+    "municipio": "Flor da Serra do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107801",
+    "municipio": "Floraí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4107900",
+    "municipio": "Floresta"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108007",
+    "municipio": "Florestópolis"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108106",
+    "municipio": "Flórida"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108205",
+    "municipio": "Formosa do Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108304",
+    "municipio": "Foz do Iguaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108452",
+    "municipio": "Foz do Jordão"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108320",
+    "municipio": "Francisco Alves"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108403",
+    "municipio": "Francisco Beltrão"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108502",
+    "municipio": "General Carneiro"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108551",
+    "municipio": "Godoy Moreira"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108601",
+    "municipio": "Goioerê"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108650",
+    "municipio": "Goioxim"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108700",
+    "municipio": "Grandes Rios"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108809",
+    "municipio": "Guaíra"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108908",
+    "municipio": "Guairaçá"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4108957",
+    "municipio": "Guamiranga"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4109005",
+    "municipio": "Guapirama"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4109104",
+    "municipio": "Guaporema"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4109203",
+    "municipio": "Guaraci"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4109302",
+    "municipio": "Guaraniaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4109401",
+    "municipio": "Guarapuava"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4109500",
+    "municipio": "Guaraqueçaba"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4109609",
+    "municipio": "Guaratuba"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4109658",
+    "municipio": "Honório Serpa"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4109708",
+    "municipio": "Ibaiti"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4109757",
+    "municipio": "Ibema"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4109807",
+    "municipio": "Ibiporã"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4109906",
+    "municipio": "Icaraíma"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110003",
+    "municipio": "Iguaraçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110052",
+    "municipio": "Iguatu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110078",
+    "municipio": "Imbaú"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110102",
+    "municipio": "Imbituva"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110201",
+    "municipio": "Inácio Martins"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110300",
+    "municipio": "Inajá"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110409",
+    "municipio": "Indianópolis"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110508",
+    "municipio": "Ipiranga"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110607",
+    "municipio": "Iporã"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110656",
+    "municipio": "Iracema do Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110706",
+    "municipio": "Irati"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110805",
+    "municipio": "Iretama"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110904",
+    "municipio": "Itaguajé"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4110953",
+    "municipio": "Itaipulândia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4111001",
+    "municipio": "Itambaracá"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4111100",
+    "municipio": "Itambé"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4111209",
+    "municipio": "Itapejara d'Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4111258",
+    "municipio": "Itaperuçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4111308",
+    "municipio": "Itaúna do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4111407",
+    "municipio": "Ivaí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4111506",
+    "municipio": "Ivaiporã"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4111555",
+    "municipio": "Ivaté"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4111605",
+    "municipio": "Ivatuba"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4111704",
+    "municipio": "Jaboti"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4111803",
+    "municipio": "Jacarezinho"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4111902",
+    "municipio": "Jaguapitã"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4112009",
+    "municipio": "Jaguariaíva"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4112108",
+    "municipio": "Jandaia do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4112207",
+    "municipio": "Janiópolis"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4112306",
+    "municipio": "Japira"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4112405",
+    "municipio": "Japurá"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4112504",
+    "municipio": "Jardim Alegre"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4112603",
+    "municipio": "Jardim Olinda"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4112702",
+    "municipio": "Jataizinho"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4112751",
+    "municipio": "Jesuítas"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4112801",
+    "municipio": "Joaquim Távora"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4112900",
+    "municipio": "Jundiaí do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4112959",
+    "municipio": "Juranda"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113007",
+    "municipio": "Jussara"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113106",
+    "municipio": "Kaloré"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113205",
+    "municipio": "Lapa"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113254",
+    "municipio": "Laranjal"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113304",
+    "municipio": "Laranjeiras do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113403",
+    "municipio": "Leópolis"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113429",
+    "municipio": "Lidianópolis"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113452",
+    "municipio": "Lindoeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113502",
+    "municipio": "Loanda"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113601",
+    "municipio": "Lobato"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113700",
+    "municipio": "Londrina"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113734",
+    "municipio": "Luiziana"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113759",
+    "municipio": "Lunardelli"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113809",
+    "municipio": "Lupionópolis"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4113908",
+    "municipio": "Mallet"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4114005",
+    "municipio": "Mamborê"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4114104",
+    "municipio": "Mandaguaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4114203",
+    "municipio": "Mandaguari"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4114302",
+    "municipio": "Mandirituba"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4114351",
+    "municipio": "Manfrinópolis"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4114401",
+    "municipio": "Mangueirinha"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4114500",
+    "municipio": "Manoel Ribas"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4114609",
+    "municipio": "Marechal Cândido Rondon"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4114708",
+    "municipio": "Maria Helena"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4114807",
+    "municipio": "Marialva"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4114906",
+    "municipio": "Marilândia do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115002",
+    "municipio": "Marilena"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115101",
+    "municipio": "Mariluz"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115200",
+    "municipio": "Maringá"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115309",
+    "municipio": "Mariópolis"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115358",
+    "municipio": "Maripá"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115408",
+    "municipio": "Marmeleiro"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115457",
+    "municipio": "Marquinho"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115507",
+    "municipio": "Marumbi"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115606",
+    "municipio": "Matelândia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115705",
+    "municipio": "Matinhos"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115739",
+    "municipio": "Mato Rico"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115754",
+    "municipio": "Mauá da Serra"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115804",
+    "municipio": "Medianeira"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115853",
+    "municipio": "Mercedes"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4115903",
+    "municipio": "Mirador"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4116000",
+    "municipio": "Miraselva"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4116059",
+    "municipio": "Missal"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4116109",
+    "municipio": "Moreira Sales"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4116208",
+    "municipio": "Morretes"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4116307",
+    "municipio": "Munhoz de Melo"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4116406",
+    "municipio": "Nossa Senhora das Graças"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4116505",
+    "municipio": "Nova Aliança do Ivaí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4116604",
+    "municipio": "Nova América da Colina"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4116703",
+    "municipio": "Nova Aurora"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4116802",
+    "municipio": "Nova Cantu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4116901",
+    "municipio": "Nova Esperança"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4116950",
+    "municipio": "Nova Esperança do Sudoeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117008",
+    "municipio": "Nova Fátima"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117057",
+    "municipio": "Nova Laranjeiras"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117107",
+    "municipio": "Nova Londrina"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117206",
+    "municipio": "Nova Olímpia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117255",
+    "municipio": "Nova Prata do Iguaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117214",
+    "municipio": "Nova Santa Bárbara"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117222",
+    "municipio": "Nova Santa Rosa"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117271",
+    "municipio": "Nova Tebas"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117297",
+    "municipio": "Novo Itacolomi"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117305",
+    "municipio": "Ortigueira"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117404",
+    "municipio": "Ourizona"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117453",
+    "municipio": "Ouro Verde do Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117503",
+    "municipio": "Paiçandu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117602",
+    "municipio": "Palmas"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117701",
+    "municipio": "Palmeira"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117800",
+    "municipio": "Palmital"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4117909",
+    "municipio": "Palotina"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4118006",
+    "municipio": "Paraíso do Norte"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4118105",
+    "municipio": "Paranacity"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4118204",
+    "municipio": "Paranaguá"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4118303",
+    "municipio": "Paranapoema"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4118402",
+    "municipio": "Paranavaí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4118451",
+    "municipio": "Pato Bragado"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4118501",
+    "municipio": "Pato Branco"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4118600",
+    "municipio": "Paula Freitas"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4118709",
+    "municipio": "Paulo Frontin"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4118808",
+    "municipio": "Peabiru"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4118857",
+    "municipio": "Perobal"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4118907",
+    "municipio": "Pérola"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119004",
+    "municipio": "Pérola d'Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119103",
+    "municipio": "Piên"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119152",
+    "municipio": "Pinhais"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119251",
+    "municipio": "Pinhal de São Bento"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119202",
+    "municipio": "Pinhalão"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119301",
+    "municipio": "Pinhão"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119400",
+    "municipio": "Piraí do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119509",
+    "municipio": "Piraquara"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119608",
+    "municipio": "Pitanga"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119657",
+    "municipio": "Pitangueiras"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119707",
+    "municipio": "Planaltina do Paraná"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119806",
+    "municipio": "Planalto"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119905",
+    "municipio": "Ponta Grossa"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4119954",
+    "municipio": "Pontal do Paraná"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120002",
+    "municipio": "Porecatu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120101",
+    "municipio": "Porto Amazonas"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120150",
+    "municipio": "Porto Barreiro"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120200",
+    "municipio": "Porto Rico"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120309",
+    "municipio": "Porto Vitória"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120333",
+    "municipio": "Prado Ferreira"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120358",
+    "municipio": "Pranchita"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120408",
+    "municipio": "Presidente Castelo Branco"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120507",
+    "municipio": "Primeiro de Maio"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120606",
+    "municipio": "Prudentópolis"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120655",
+    "municipio": "Quarto Centenário"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120705",
+    "municipio": "Quatiguá"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120804",
+    "municipio": "Quatro Barras"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120853",
+    "municipio": "Quatro Pontes"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4120903",
+    "municipio": "Quedas do Iguaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4121000",
+    "municipio": "Querência do Norte"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4121109",
+    "municipio": "Quinta do Sol"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4121208",
+    "municipio": "Quitandinha"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4121257",
+    "municipio": "Ramilândia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4121307",
+    "municipio": "Rancho Alegre"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4121356",
+    "municipio": "Rancho Alegre D'Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4121406",
+    "municipio": "Realeza"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4121505",
+    "municipio": "Rebouças"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4121604",
+    "municipio": "Renascença"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4121703",
+    "municipio": "Reserva"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4121752",
+    "municipio": "Reserva do Iguaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4121802",
+    "municipio": "Ribeirão Claro"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4121901",
+    "municipio": "Ribeirão do Pinhal"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4122008",
+    "municipio": "Rio Azul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4122107",
+    "municipio": "Rio Bom"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4122156",
+    "municipio": "Rio Bonito do Iguaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4122172",
+    "municipio": "Rio Branco do Ivaí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4122206",
+    "municipio": "Rio Branco do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4122305",
+    "municipio": "Rio Negro"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4122404",
+    "municipio": "Rolândia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4122503",
+    "municipio": "Roncador"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4122602",
+    "municipio": "Rondon"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4122651",
+    "municipio": "Rosário do Ivaí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4122701",
+    "municipio": "Sabáudia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4122800",
+    "municipio": "Salgado Filho"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4122909",
+    "municipio": "Salto do Itararé"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4123006",
+    "municipio": "Salto do Lontra"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4123105",
+    "municipio": "Santa Amélia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4123204",
+    "municipio": "Santa Cecília do Pavão"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4123303",
+    "municipio": "Santa Cruz de Monte Castelo"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4123402",
+    "municipio": "Santa Fé"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4123501",
+    "municipio": "Santa Helena"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4123600",
+    "municipio": "Santa Inês"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4123709",
+    "municipio": "Santa Isabel do Ivaí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4123808",
+    "municipio": "Santa Izabel do Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4123824",
+    "municipio": "Santa Lúcia"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4123857",
+    "municipio": "Santa Maria do Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4123907",
+    "municipio": "Santa Mariana"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4123956",
+    "municipio": "Santa Mônica"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4124020",
+    "municipio": "Santa Tereza do Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4124053",
+    "municipio": "Santa Terezinha de Itaipu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4124004",
+    "municipio": "Santana do Itararé"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4124103",
+    "municipio": "Santo Antônio da Platina"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4124202",
+    "municipio": "Santo Antônio do Caiuá"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4124301",
+    "municipio": "Santo Antônio do Paraíso"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4124400",
+    "municipio": "Santo Antônio do Sudoeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4124509",
+    "municipio": "Santo Inácio"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4124608",
+    "municipio": "São Carlos do Ivaí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4124707",
+    "municipio": "São Jerônimo da Serra"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4124806",
+    "municipio": "São João"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4124905",
+    "municipio": "São João do Caiuá"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125001",
+    "municipio": "São João do Ivaí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125100",
+    "municipio": "São João do Triunfo"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125308",
+    "municipio": "São Jorge do Ivaí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125357",
+    "municipio": "São Jorge do Patrocínio"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125209",
+    "municipio": "São Jorge d'Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125407",
+    "municipio": "São José da Boa Vista"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125456",
+    "municipio": "São José das Palmeiras"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125506",
+    "municipio": "São José dos Pinhais"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125555",
+    "municipio": "São Manoel do Paraná"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125605",
+    "municipio": "São Mateus do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125704",
+    "municipio": "São Miguel do Iguaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125753",
+    "municipio": "São Pedro do Iguaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125803",
+    "municipio": "São Pedro do Ivaí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4125902",
+    "municipio": "São Pedro do Paraná"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126009",
+    "municipio": "São Sebastião da Amoreira"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126108",
+    "municipio": "São Tomé"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126207",
+    "municipio": "Sapopema"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126256",
+    "municipio": "Sarandi"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126272",
+    "municipio": "Saudade do Iguaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126306",
+    "municipio": "Sengés"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126355",
+    "municipio": "Serranópolis do Iguaçu"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126405",
+    "municipio": "Sertaneja"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126504",
+    "municipio": "Sertanópolis"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126603",
+    "municipio": "Siqueira Campos"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126652",
+    "municipio": "Sulina"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126678",
+    "municipio": "Tamarana"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126702",
+    "municipio": "Tamboara"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126801",
+    "municipio": "Tapejara"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4126900",
+    "municipio": "Tapira"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127007",
+    "municipio": "Teixeira Soares"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127106",
+    "municipio": "Telêmaco Borba"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127205",
+    "municipio": "Terra Boa"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127304",
+    "municipio": "Terra Rica"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127403",
+    "municipio": "Terra Roxa"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127502",
+    "municipio": "Tibagi"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127601",
+    "municipio": "Tijucas do Sul"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127700",
+    "municipio": "Toledo"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127809",
+    "municipio": "Tomazina"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127858",
+    "municipio": "Três Barras do Paraná"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127882",
+    "municipio": "Tunas do Paraná"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127908",
+    "municipio": "Tuneiras do Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127957",
+    "municipio": "Tupãssi"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4127965",
+    "municipio": "Turvo"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128005",
+    "municipio": "Ubiratã"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128104",
+    "municipio": "Umuarama"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128203",
+    "municipio": "União da Vitória"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128302",
+    "municipio": "Uniflor"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128401",
+    "municipio": "Uraí"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128534",
+    "municipio": "Ventania"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128559",
+    "municipio": "Vera Cruz do Oeste"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128609",
+    "municipio": "Verê"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128658",
+    "municipio": "Virmond"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128708",
+    "municipio": "Vitorino"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128500",
+    "municipio": "Wenceslau Braz"
+  },
+  {
+    "uf": "PR",
+    "codigo": "4128807",
+    "municipio": "Xambrê"
+  }
+]

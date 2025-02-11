@@ -1,0 +1,392 @@
+[
+  {
+    "uf": "ES",
+    "codigo": "3200102",
+    "municipio": "Afonso Cláudio"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3200169",
+    "municipio": "Água Doce do Norte"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3200136",
+    "municipio": "Águia Branca"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3200201",
+    "municipio": "Alegre"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3200300",
+    "municipio": "Alfredo Chaves"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3200359",
+    "municipio": "Alto Rio Novo"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3200409",
+    "municipio": "Anchieta"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3200508",
+    "municipio": "Apiacá"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3200607",
+    "municipio": "Aracruz"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3200706",
+    "municipio": "Atílio Vivácqua"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3200805",
+    "municipio": "Baixo Guandu"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3200904",
+    "municipio": "Barra de São Francisco"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3201001",
+    "municipio": "Boa Esperança"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3201100",
+    "municipio": "Bom Jesus do Norte"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3201159",
+    "municipio": "Brejetuba"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3201209",
+    "municipio": "Cachoeiro de Itapemirim"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3201308",
+    "municipio": "Cariacica"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3201407",
+    "municipio": "Castelo"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3201506",
+    "municipio": "Colatina"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3201605",
+    "municipio": "Conceição da Barra"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3201704",
+    "municipio": "Conceição do Castelo"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3201803",
+    "municipio": "Divino de São Lourenço"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3201902",
+    "municipio": "Domingos Martins"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202009",
+    "municipio": "Dores do Rio Preto"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202108",
+    "municipio": "Ecoporanga"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202207",
+    "municipio": "Fundão"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202256",
+    "municipio": "Governador Lindenberg"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202306",
+    "municipio": "Guaçuí"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202405",
+    "municipio": "Guarapari"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202454",
+    "municipio": "Ibatiba"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202504",
+    "municipio": "Ibiraçu"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202553",
+    "municipio": "Ibitirama"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202603",
+    "municipio": "Iconha"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202652",
+    "municipio": "Irupi"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202702",
+    "municipio": "Itaguaçu"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202801",
+    "municipio": "Itapemirim"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3202900",
+    "municipio": "Itarana"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203007",
+    "municipio": "Iúna"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203056",
+    "municipio": "Jaguaré"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203106",
+    "municipio": "Jerônimo Monteiro"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203130",
+    "municipio": "João Neiva"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203163",
+    "municipio": "Laranja da Terra"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203205",
+    "municipio": "Linhares"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203304",
+    "municipio": "Mantenópolis"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203320",
+    "municipio": "Marataízes"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203346",
+    "municipio": "Marechal Floriano"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203353",
+    "municipio": "Marilândia"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203403",
+    "municipio": "Mimoso do Sul"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203502",
+    "municipio": "Montanha"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203601",
+    "municipio": "Mucurici"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203700",
+    "municipio": "Muniz Freire"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203809",
+    "municipio": "Muqui"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3203908",
+    "municipio": "Nova Venécia"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204005",
+    "municipio": "Pancas"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204054",
+    "municipio": "Pedro Canário"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204104",
+    "municipio": "Pinheiros"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204203",
+    "municipio": "Piúma"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204252",
+    "municipio": "Ponto Belo"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204302",
+    "municipio": "Presidente Kennedy"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204351",
+    "municipio": "Rio Bananal"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204401",
+    "municipio": "Rio Novo do Sul"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204500",
+    "municipio": "Santa Leopoldina"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204559",
+    "municipio": "Santa Maria de Jetibá"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204609",
+    "municipio": "Santa Teresa"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204658",
+    "municipio": "São Domingos do Norte"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204708",
+    "municipio": "São Gabriel da Palha"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204807",
+    "municipio": "São José do Calçado"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204906",
+    "municipio": "São Mateus"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3204955",
+    "municipio": "São Roque do Canaã"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3205002",
+    "municipio": "Serra"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3205010",
+    "municipio": "Sooretama"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3205036",
+    "municipio": "Vargem Alta"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3205069",
+    "municipio": "Venda Nova do Imigrante"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3205101",
+    "municipio": "Viana"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3205150",
+    "municipio": "Vila Pavão"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3205176",
+    "municipio": "Vila Valério"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3205200",
+    "municipio": "Vila Velha"
+  },
+  {
+    "uf": "ES",
+    "codigo": "3205309",
+    "municipio": "Vitória"
+  }
+]

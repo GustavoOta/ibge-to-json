@@ -1,0 +1,397 @@
+[
+  {
+    "uf": "MS",
+    "codigo": "5000203",
+    "municipio": "Água Clara"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5000252",
+    "municipio": "Alcinópolis"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5000609",
+    "municipio": "Amambai"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5000708",
+    "municipio": "Anastácio"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5000807",
+    "municipio": "Anaurilândia"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5000856",
+    "municipio": "Angélica"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5000906",
+    "municipio": "Antônio João"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5001003",
+    "municipio": "Aparecida do Taboado"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5001102",
+    "municipio": "Aquidauana"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5001243",
+    "municipio": "Aral Moreira"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5001508",
+    "municipio": "Bandeirantes"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5001904",
+    "municipio": "Bataguassu"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5002001",
+    "municipio": "Batayporã"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5002100",
+    "municipio": "Bela Vista"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5002159",
+    "municipio": "Bodoquena"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5002209",
+    "municipio": "Bonito"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5002308",
+    "municipio": "Brasilândia"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5002407",
+    "municipio": "Caarapó"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5002605",
+    "municipio": "Camapuã"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5002704",
+    "municipio": "Campo Grande"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5002803",
+    "municipio": "Caracol"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5002902",
+    "municipio": "Cassilândia"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5002951",
+    "municipio": "Chapadão do Sul"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5003108",
+    "municipio": "Corguinho"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5003157",
+    "municipio": "Coronel Sapucaia"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5003207",
+    "municipio": "Corumbá"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5003256",
+    "municipio": "Costa Rica"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5003306",
+    "municipio": "Coxim"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5003454",
+    "municipio": "Deodápolis"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5003488",
+    "municipio": "Dois Irmãos do Buriti"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5003504",
+    "municipio": "Douradina"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5003702",
+    "municipio": "Dourados"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5003751",
+    "municipio": "Eldorado"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5003801",
+    "municipio": "Fátima do Sul"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5003900",
+    "municipio": "Figueirão"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5004007",
+    "municipio": "Glória de Dourados"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5004106",
+    "municipio": "Guia Lopes da Laguna"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5004304",
+    "municipio": "Iguatemi"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5004403",
+    "municipio": "Inocência"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5004502",
+    "municipio": "Itaporã"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5004601",
+    "municipio": "Itaquiraí"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5004700",
+    "municipio": "Ivinhema"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5004809",
+    "municipio": "Japorã"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5004908",
+    "municipio": "Jaraguari"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5005004",
+    "municipio": "Jardim"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5005103",
+    "municipio": "Jateí"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5005152",
+    "municipio": "Juti"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5005202",
+    "municipio": "Ladário"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5005251",
+    "municipio": "Laguna Carapã"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5005400",
+    "municipio": "Maracaju"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5005608",
+    "municipio": "Miranda"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5005681",
+    "municipio": "Mundo Novo"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5005707",
+    "municipio": "Naviraí"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5005806",
+    "municipio": "Nioaque"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5006002",
+    "municipio": "Nova Alvorada do Sul"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5006200",
+    "municipio": "Nova Andradina"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5006259",
+    "municipio": "Novo Horizonte do Sul"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5006275",
+    "municipio": "Paraíso das Águas"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5006309",
+    "municipio": "Paranaíba"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5006358",
+    "municipio": "Paranhos"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5006408",
+    "municipio": "Pedro Gomes"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5006606",
+    "municipio": "Ponta Porã"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5006903",
+    "municipio": "Porto Murtinho"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5007109",
+    "municipio": "Ribas do Rio Pardo"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5007208",
+    "municipio": "Rio Brilhante"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5007307",
+    "municipio": "Rio Negro"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5007406",
+    "municipio": "Rio Verde de Mato Grosso"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5007505",
+    "municipio": "Rochedo"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5007554",
+    "municipio": "Santa Rita do Pardo"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5007695",
+    "municipio": "São Gabriel do Oeste"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5007802",
+    "municipio": "Selvíria"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5007703",
+    "municipio": "Sete Quedas"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5007901",
+    "municipio": "Sidrolândia"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5007935",
+    "municipio": "Sonora"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5007950",
+    "municipio": "Tacuru"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5007976",
+    "municipio": "Taquarussu"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5008008",
+    "municipio": "Terenos"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5008305",
+    "municipio": "Três Lagoas"
+  },
+  {
+    "uf": "MS",
+    "codigo": "5008404",
+    "municipio": "Vicentina"
+  }
+]

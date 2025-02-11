@@ -1,0 +1,312 @@
+[
+  {
+    "uf": "AM",
+    "codigo": "1300029",
+    "municipio": "Alvarães"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300060",
+    "municipio": "Amaturá"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300086",
+    "municipio": "Anamã"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300102",
+    "municipio": "Anori"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300144",
+    "municipio": "Apuí"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300201",
+    "municipio": "Atalaia do Norte"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300300",
+    "municipio": "Autazes"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300409",
+    "municipio": "Barcelos"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300508",
+    "municipio": "Barreirinha"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300607",
+    "municipio": "Benjamin Constant"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300631",
+    "municipio": "Beruri"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300680",
+    "municipio": "Boa Vista do Ramos"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300706",
+    "municipio": "Boca do Acre"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300805",
+    "municipio": "Borba"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300839",
+    "municipio": "Caapiranga"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1300904",
+    "municipio": "Canutama"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301001",
+    "municipio": "Carauari"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301100",
+    "municipio": "Careiro"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301159",
+    "municipio": "Careiro da Várzea"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301209",
+    "municipio": "Coari"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301308",
+    "municipio": "Codajás"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301407",
+    "municipio": "Eirunepé"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301506",
+    "municipio": "Envira"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301605",
+    "municipio": "Fonte Boa"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301654",
+    "municipio": "Guajará"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301704",
+    "municipio": "Humaitá"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301803",
+    "municipio": "Ipixuna"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301852",
+    "municipio": "Iranduba"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301902",
+    "municipio": "Itacoatiara"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1301951",
+    "municipio": "Itamarati"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1302009",
+    "municipio": "Itapiranga"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1302108",
+    "municipio": "Japurá"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1302207",
+    "municipio": "Juruá"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1302306",
+    "municipio": "Jutaí"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1302405",
+    "municipio": "Lábrea"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1302504",
+    "municipio": "Manacapuru"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1302553",
+    "municipio": "Manaquiri"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1302603",
+    "municipio": "Manaus"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1302702",
+    "municipio": "Manicoré"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1302801",
+    "municipio": "Maraã"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1302900",
+    "municipio": "Maués"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1303007",
+    "municipio": "Nhamundá"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1303106",
+    "municipio": "Nova Olinda do Norte"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1303205",
+    "municipio": "Novo Airão"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1303304",
+    "municipio": "Novo Aripuanã"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1303403",
+    "municipio": "Parintins"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1303502",
+    "municipio": "Pauini"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1303536",
+    "municipio": "Presidente Figueiredo"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1303569",
+    "municipio": "Rio Preto da Eva"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1303601",
+    "municipio": "Santa Isabel do Rio Negro"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1303700",
+    "municipio": "Santo Antônio do Içá"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1303809",
+    "municipio": "São Gabriel da Cachoeira"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1303908",
+    "municipio": "São Paulo de Olivença"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1303957",
+    "municipio": "São Sebastião do Uatumã"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1304005",
+    "municipio": "Silves"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1304062",
+    "municipio": "Tabatinga"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1304104",
+    "municipio": "Tapauá"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1304203",
+    "municipio": "Tefé"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1304237",
+    "municipio": "Tonantins"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1304260",
+    "municipio": "Uarini"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1304302",
+    "municipio": "Urucará"
+  },
+  {
+    "uf": "AM",
+    "codigo": "1304401",
+    "municipio": "Urucurituba"
+  }
+]

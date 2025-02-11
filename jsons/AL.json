@@ -1,0 +1,512 @@
+[
+  {
+    "uf": "AL",
+    "codigo": "2700102",
+    "municipio": "Água Branca"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2700201",
+    "municipio": "Anadia"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2700300",
+    "municipio": "Arapiraca"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2700409",
+    "municipio": "Atalaia"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2700508",
+    "municipio": "Barra de Santo Antônio"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2700607",
+    "municipio": "Barra de São Miguel"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2700706",
+    "municipio": "Batalha"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2700805",
+    "municipio": "Belém"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2700904",
+    "municipio": "Belo Monte"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2701001",
+    "municipio": "Boca da Mata"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2701100",
+    "municipio": "Branquinha"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2701209",
+    "municipio": "Cacimbinhas"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2701308",
+    "municipio": "Cajueiro"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2701357",
+    "municipio": "Campestre"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2701407",
+    "municipio": "Campo Alegre"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2701506",
+    "municipio": "Campo Grande"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2701605",
+    "municipio": "Canapi"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2701704",
+    "municipio": "Capela"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2701803",
+    "municipio": "Carneiros"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2701902",
+    "municipio": "Chã Preta"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2702009",
+    "municipio": "Coité do Nóia"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2702108",
+    "municipio": "Colônia Leopoldina"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2702207",
+    "municipio": "Coqueiro Seco"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2702306",
+    "municipio": "Coruripe"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2702355",
+    "municipio": "Craíbas"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2702405",
+    "municipio": "Delmiro Gouveia"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2702504",
+    "municipio": "Dois Riachos"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2702553",
+    "municipio": "Estrela de Alagoas"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2702603",
+    "municipio": "Feira Grande"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2702702",
+    "municipio": "Feliz Deserto"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2702801",
+    "municipio": "Flexeiras"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2702900",
+    "municipio": "Girau do Ponciano"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2703007",
+    "municipio": "Ibateguara"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2703106",
+    "municipio": "Igaci"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2703205",
+    "municipio": "Igreja Nova"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2703304",
+    "municipio": "Inhapi"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2703403",
+    "municipio": "Jacaré dos Homens"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2703502",
+    "municipio": "Jacuípe"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2703601",
+    "municipio": "Japaratinga"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2703700",
+    "municipio": "Jaramataia"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2703759",
+    "municipio": "Jequiá da Praia"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2703809",
+    "municipio": "Joaquim Gomes"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2703908",
+    "municipio": "Jundiá"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2704005",
+    "municipio": "Junqueiro"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2704104",
+    "municipio": "Lagoa da Canoa"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2704203",
+    "municipio": "Limoeiro de Anadia"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2704302",
+    "municipio": "Maceió"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2704401",
+    "municipio": "Major Isidoro"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2704906",
+    "municipio": "Mar Vermelho"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2704500",
+    "municipio": "Maragogi"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2704609",
+    "municipio": "Maravilha"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2704708",
+    "municipio": "Marechal Deodoro"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2704807",
+    "municipio": "Maribondo"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2705002",
+    "municipio": "Mata Grande"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2705101",
+    "municipio": "Matriz de Camaragibe"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2705200",
+    "municipio": "Messias"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2705309",
+    "municipio": "Minador do Negrão"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2705408",
+    "municipio": "Monteirópolis"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2705507",
+    "municipio": "Murici"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2705606",
+    "municipio": "Novo Lino"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2705705",
+    "municipio": "Olho d'Água das Flores"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2705804",
+    "municipio": "Olho d'Água do Casado"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2705903",
+    "municipio": "Olho d'Água Grande"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2706000",
+    "municipio": "Olivença"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2706109",
+    "municipio": "Ouro Branco"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2706208",
+    "municipio": "Palestina"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2706307",
+    "municipio": "Palmeira dos Índios"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2706406",
+    "municipio": "Pão de Açúcar"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2706422",
+    "municipio": "Pariconha"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2706448",
+    "municipio": "Paripueira"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2706505",
+    "municipio": "Passo de Camaragibe"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2706604",
+    "municipio": "Paulo Jacinto"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2706703",
+    "municipio": "Penedo"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2706802",
+    "municipio": "Piaçabuçu"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2706901",
+    "municipio": "Pilar"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2707008",
+    "municipio": "Pindoba"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2707107",
+    "municipio": "Piranhas"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2707206",
+    "municipio": "Poço das Trincheiras"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2707305",
+    "municipio": "Porto Calvo"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2707404",
+    "municipio": "Porto de Pedras"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2707503",
+    "municipio": "Porto Real do Colégio"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2707602",
+    "municipio": "Quebrangulo"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2707701",
+    "municipio": "Rio Largo"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2707800",
+    "municipio": "Roteiro"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2707909",
+    "municipio": "Santa Luzia do Norte"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2708006",
+    "municipio": "Santana do Ipanema"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2708105",
+    "municipio": "Santana do Mundaú"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2708204",
+    "municipio": "São Brás"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2708303",
+    "municipio": "São José da Laje"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2708402",
+    "municipio": "São José da Tapera"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2708501",
+    "municipio": "São Luís do Quitunde"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2708600",
+    "municipio": "São Miguel dos Campos"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2708709",
+    "municipio": "São Miguel dos Milagres"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2708808",
+    "municipio": "São Sebastião"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2708907",
+    "municipio": "Satuba"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2708956",
+    "municipio": "Senador Rui Palmeira"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2709004",
+    "municipio": "Tanque d'Arca"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2709103",
+    "municipio": "Taquarana"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2709152",
+    "municipio": "Teotônio Vilela"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2709202",
+    "municipio": "Traipu"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2709301",
+    "municipio": "União dos Palmares"
+  },
+  {
+    "uf": "AL",
+    "codigo": "2709400",
+    "municipio": "Viçosa"
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "uf": "SE",
+    "codigo": "2800100",
+    "municipio": "Amparo do São Francisco"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2800209",
+    "municipio": "Aquidabã"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2800308",
+    "municipio": "Aracaju"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2800407",
+    "municipio": "Arauá"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2800506",
+    "municipio": "Areia Branca"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2800605",
+    "municipio": "Barra dos Coqueiros"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2800670",
+    "municipio": "Boquim"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2800704",
+    "municipio": "Brejo Grande"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2801009",
+    "municipio": "Campo do Brito"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2801108",
+    "municipio": "Canhoba"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2801207",
+    "municipio": "Canindé de São Francisco"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2801306",
+    "municipio": "Capela"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2801405",
+    "municipio": "Carira"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2801504",
+    "municipio": "Carmópolis"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2801603",
+    "municipio": "Cedro de São João"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2801702",
+    "municipio": "Cristinápolis"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2801900",
+    "municipio": "Cumbe"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2802007",
+    "municipio": "Divina Pastora"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2802106",
+    "municipio": "Estância"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2802205",
+    "municipio": "Feira Nova"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2802304",
+    "municipio": "Frei Paulo"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2802403",
+    "municipio": "Gararu"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2802502",
+    "municipio": "General Maynard"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2802601",
+    "municipio": "Gracho Cardoso"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2802700",
+    "municipio": "Ilha das Flores"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2802809",
+    "municipio": "Indiaroba"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2802908",
+    "municipio": "Itabaiana"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2803005",
+    "municipio": "Itabaianinha"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2803104",
+    "municipio": "Itabi"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2803203",
+    "municipio": "Itaporanga d'Ajuda"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2803302",
+    "municipio": "Japaratuba"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2803401",
+    "municipio": "Japoatã"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2803500",
+    "municipio": "Lagarto"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2803609",
+    "municipio": "Laranjeiras"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2803708",
+    "municipio": "Macambira"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2803807",
+    "municipio": "Malhada dos Bois"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2803906",
+    "municipio": "Malhador"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2804003",
+    "municipio": "Maruim"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2804102",
+    "municipio": "Moita Bonita"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2804201",
+    "municipio": "Monte Alegre de Sergipe"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2804300",
+    "municipio": "Muribeca"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2804409",
+    "municipio": "Neópolis"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2804458",
+    "municipio": "Nossa Senhora Aparecida"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2804508",
+    "municipio": "Nossa Senhora da Glória"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2804607",
+    "municipio": "Nossa Senhora das Dores"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2804706",
+    "municipio": "Nossa Senhora de Lourdes"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2804805",
+    "municipio": "Nossa Senhora do Socorro"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2804904",
+    "municipio": "Pacatuba"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2805000",
+    "municipio": "Pedra Mole"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2805109",
+    "municipio": "Pedrinhas"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2805208",
+    "municipio": "Pinhão"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2805307",
+    "municipio": "Pirambu"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2805406",
+    "municipio": "Poço Redondo"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2805505",
+    "municipio": "Poço Verde"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2805604",
+    "municipio": "Porto da Folha"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2805703",
+    "municipio": "Propriá"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2805802",
+    "municipio": "Riachão do Dantas"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2805901",
+    "municipio": "Riachuelo"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2806008",
+    "municipio": "Ribeirópolis"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2806107",
+    "municipio": "Rosário do Catete"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2806206",
+    "municipio": "Salgado"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2806305",
+    "municipio": "Santa Luzia do Itanhy"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2806503",
+    "municipio": "Santa Rosa de Lima"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2806404",
+    "municipio": "Santana do São Francisco"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2806602",
+    "municipio": "Santo Amaro das Brotas"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2806701",
+    "municipio": "São Cristóvão"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2806800",
+    "municipio": "São Domingos"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2806909",
+    "municipio": "São Francisco"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2807006",
+    "municipio": "São Miguel do Aleixo"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2807105",
+    "municipio": "Simão Dias"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2807204",
+    "municipio": "Siriri"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2807303",
+    "municipio": "Telha"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2807402",
+    "municipio": "Tobias Barreto"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2807501",
+    "municipio": "Tomar do Geru"
+  },
+  {
+    "uf": "SE",
+    "codigo": "2807600",
+    "municipio": "Umbaúba"
+  }
+]

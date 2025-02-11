@@ -1,0 +1,1232 @@
+[
+  {
+    "uf": "GO",
+    "codigo": "5200050",
+    "municipio": "Abadia de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200100",
+    "municipio": "Abadiânia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200134",
+    "municipio": "Acreúna"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200159",
+    "municipio": "Adelândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200175",
+    "municipio": "Água Fria de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200209",
+    "municipio": "Água Limpa"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200258",
+    "municipio": "Águas Lindas de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200308",
+    "municipio": "Alexânia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200506",
+    "municipio": "Aloândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200555",
+    "municipio": "Alto Horizonte"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200605",
+    "municipio": "Alto Paraíso de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200803",
+    "municipio": "Alvorada do Norte"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200829",
+    "municipio": "Amaralina"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200852",
+    "municipio": "Americano do Brasil"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5200902",
+    "municipio": "Amorinópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5201108",
+    "municipio": "Anápolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5201207",
+    "municipio": "Anhanguera"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5201306",
+    "municipio": "Anicuns"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5201405",
+    "municipio": "Aparecida de Goiânia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5201454",
+    "municipio": "Aparecida do Rio Doce"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5201504",
+    "municipio": "Aporé"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5201603",
+    "municipio": "Araçu"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5201702",
+    "municipio": "Aragarças"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5201801",
+    "municipio": "Aragoiânia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5202155",
+    "municipio": "Araguapaz"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5202353",
+    "municipio": "Arenópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5202502",
+    "municipio": "Aruanã"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5202601",
+    "municipio": "Aurilândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5202809",
+    "municipio": "Avelinópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5203104",
+    "municipio": "Baliza"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5203203",
+    "municipio": "Barro Alto"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5203302",
+    "municipio": "Bela Vista de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5203401",
+    "municipio": "Bom Jardim de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5203500",
+    "municipio": "Bom Jesus de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5203559",
+    "municipio": "Bonfinópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5203575",
+    "municipio": "Bonópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5203609",
+    "municipio": "Brazabrantes"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5203807",
+    "municipio": "Britânia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5203906",
+    "municipio": "Buriti Alegre"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5203939",
+    "municipio": "Buriti de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5203962",
+    "municipio": "Buritinópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204003",
+    "municipio": "Cabeceiras"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204102",
+    "municipio": "Cachoeira Alta"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204201",
+    "municipio": "Cachoeira de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204250",
+    "municipio": "Cachoeira Dourada"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204300",
+    "municipio": "Caçu"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204409",
+    "municipio": "Caiapônia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204508",
+    "municipio": "Caldas Novas"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204557",
+    "municipio": "Caldazinha"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204607",
+    "municipio": "Campestre de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204656",
+    "municipio": "Campinaçu"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204706",
+    "municipio": "Campinorte"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204805",
+    "municipio": "Campo Alegre de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204854",
+    "municipio": "Campo Limpo de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204904",
+    "municipio": "Campos Belos"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5204953",
+    "municipio": "Campos Verdes"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205000",
+    "municipio": "Carmo do Rio Verde"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205059",
+    "municipio": "Castelândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205109",
+    "municipio": "Catalão"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205208",
+    "municipio": "Caturaí"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205307",
+    "municipio": "Cavalcante"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205406",
+    "municipio": "Ceres"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205455",
+    "municipio": "Cezarina"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205471",
+    "municipio": "Chapadão do Céu"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205497",
+    "municipio": "Cidade Ocidental"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205513",
+    "municipio": "Cocalzinho de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205521",
+    "municipio": "Colinas do Sul"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205703",
+    "municipio": "Córrego do Ouro"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205802",
+    "municipio": "Corumbá de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5205901",
+    "municipio": "Corumbaíba"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5206206",
+    "municipio": "Cristalina"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5206305",
+    "municipio": "Cristianópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5206404",
+    "municipio": "Crixás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5206503",
+    "municipio": "Cromínia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5206602",
+    "municipio": "Cumari"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5206701",
+    "municipio": "Damianópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5206800",
+    "municipio": "Damolândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5206909",
+    "municipio": "Davinópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5207105",
+    "municipio": "Diorama"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5208301",
+    "municipio": "Divinópolis de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5207253",
+    "municipio": "Doverlândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5207352",
+    "municipio": "Edealina"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5207402",
+    "municipio": "Edéia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5207501",
+    "municipio": "Estrela do Norte"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5207535",
+    "municipio": "Faina"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5207600",
+    "municipio": "Fazenda Nova"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5207808",
+    "municipio": "Firminópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5207907",
+    "municipio": "Flores de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5208004",
+    "municipio": "Formosa"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5208103",
+    "municipio": "Formoso"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5208152",
+    "municipio": "Gameleira de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5208400",
+    "municipio": "Goianápolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5208509",
+    "municipio": "Goiandira"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5208608",
+    "municipio": "Goianésia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5208707",
+    "municipio": "Goiânia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5208806",
+    "municipio": "Goianira"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5208905",
+    "municipio": "Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5209101",
+    "municipio": "Goiatuba"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5209150",
+    "municipio": "Gouvelândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5209200",
+    "municipio": "Guapó"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5209291",
+    "municipio": "Guaraíta"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5209408",
+    "municipio": "Guarani de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5209457",
+    "municipio": "Guarinos"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5209606",
+    "municipio": "Heitoraí"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5209705",
+    "municipio": "Hidrolândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5209804",
+    "municipio": "Hidrolina"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5209903",
+    "municipio": "Iaciara"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5209937",
+    "municipio": "Inaciolândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5209952",
+    "municipio": "Indiara"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5210000",
+    "municipio": "Inhumas"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5210109",
+    "municipio": "Ipameri"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5210158",
+    "municipio": "Ipiranga de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5210208",
+    "municipio": "Iporá"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5210307",
+    "municipio": "Israelândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5210406",
+    "municipio": "Itaberaí"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5210562",
+    "municipio": "Itaguari"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5210604",
+    "municipio": "Itaguaru"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5210802",
+    "municipio": "Itajá"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5210901",
+    "municipio": "Itapaci"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5211008",
+    "municipio": "Itapirapuã"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5211206",
+    "municipio": "Itapuranga"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5211305",
+    "municipio": "Itarumã"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5211404",
+    "municipio": "Itauçu"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5211503",
+    "municipio": "Itumbiara"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5211602",
+    "municipio": "Ivolândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5211701",
+    "municipio": "Jandaia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5211800",
+    "municipio": "Jaraguá"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5211909",
+    "municipio": "Jataí"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5212006",
+    "municipio": "Jaupaci"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5212055",
+    "municipio": "Jesúpolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5212105",
+    "municipio": "Joviânia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5212204",
+    "municipio": "Jussara"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5212253",
+    "municipio": "Lagoa Santa"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5212303",
+    "municipio": "Leopoldo de Bulhões"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5212501",
+    "municipio": "Luziânia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5212600",
+    "municipio": "Mairipotaba"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5212709",
+    "municipio": "Mambaí"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5212808",
+    "municipio": "Mara Rosa"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5212907",
+    "municipio": "Marzagão"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5212956",
+    "municipio": "Matrinchã"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5213004",
+    "municipio": "Maurilândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5213053",
+    "municipio": "Mimoso de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5213087",
+    "municipio": "Minaçu"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5213103",
+    "municipio": "Mineiros"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5213400",
+    "municipio": "Moiporá"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5213509",
+    "municipio": "Monte Alegre de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5213707",
+    "municipio": "Montes Claros de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5213756",
+    "municipio": "Montividiu"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5213772",
+    "municipio": "Montividiu do Norte"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5213806",
+    "municipio": "Morrinhos"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5213855",
+    "municipio": "Morro Agudo de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5213905",
+    "municipio": "Mossâmedes"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5214002",
+    "municipio": "Mozarlândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5214051",
+    "municipio": "Mundo Novo"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5214101",
+    "municipio": "Mutunópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5214408",
+    "municipio": "Nazário"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5214507",
+    "municipio": "Nerópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5214606",
+    "municipio": "Niquelândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5214705",
+    "municipio": "Nova América"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5214804",
+    "municipio": "Nova Aurora"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5214838",
+    "municipio": "Nova Crixás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5214861",
+    "municipio": "Nova Glória"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5214879",
+    "municipio": "Nova Iguaçu de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5214903",
+    "municipio": "Nova Roma"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5215009",
+    "municipio": "Nova Veneza"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5215207",
+    "municipio": "Novo Brasil"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5215231",
+    "municipio": "Novo Gama"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5215256",
+    "municipio": "Novo Planalto"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5215306",
+    "municipio": "Orizona"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5215405",
+    "municipio": "Ouro Verde de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5215504",
+    "municipio": "Ouvidor"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5215603",
+    "municipio": "Padre Bernardo"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5215652",
+    "municipio": "Palestina de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5215702",
+    "municipio": "Palmeiras de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5215801",
+    "municipio": "Palmelo"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5215900",
+    "municipio": "Palminópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5216007",
+    "municipio": "Panamá"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5216304",
+    "municipio": "Paranaiguara"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5216403",
+    "municipio": "Paraúna"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5216452",
+    "municipio": "Perolândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5216809",
+    "municipio": "Petrolina de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5216908",
+    "municipio": "Pilar de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5217104",
+    "municipio": "Piracanjuba"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5217203",
+    "municipio": "Piranhas"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5217302",
+    "municipio": "Pirenópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5217401",
+    "municipio": "Pires do Rio"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5217609",
+    "municipio": "Planaltina"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5217708",
+    "municipio": "Pontalina"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5218003",
+    "municipio": "Porangatu"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5218052",
+    "municipio": "Porteirão"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5218102",
+    "municipio": "Portelândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5218300",
+    "municipio": "Posse"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5218391",
+    "municipio": "Professor Jamil"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5218508",
+    "municipio": "Quirinópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5218607",
+    "municipio": "Rialma"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5218706",
+    "municipio": "Rianápolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5218789",
+    "municipio": "Rio Quente"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5218805",
+    "municipio": "Rio Verde"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5218904",
+    "municipio": "Rubiataba"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219001",
+    "municipio": "Sanclerlândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219100",
+    "municipio": "Santa Bárbara de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219209",
+    "municipio": "Santa Cruz de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219258",
+    "municipio": "Santa Fé de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219308",
+    "municipio": "Santa Helena de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219357",
+    "municipio": "Santa Isabel"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219407",
+    "municipio": "Santa Rita do Araguaia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219456",
+    "municipio": "Santa Rita do Novo Destino"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219506",
+    "municipio": "Santa Rosa de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219605",
+    "municipio": "Santa Tereza de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219704",
+    "municipio": "Santa Terezinha de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219712",
+    "municipio": "Santo Antônio da Barra"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219738",
+    "municipio": "Santo Antônio de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219753",
+    "municipio": "Santo Antônio do Descoberto"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219803",
+    "municipio": "São Domingos"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5219902",
+    "municipio": "São Francisco de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5220058",
+    "municipio": "São João da Paraúna"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5220009",
+    "municipio": "São João d'Aliança"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5220108",
+    "municipio": "São Luís de Montes Belos"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5220157",
+    "municipio": "São Luiz do Norte"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5220207",
+    "municipio": "São Miguel do Araguaia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5220264",
+    "municipio": "São Miguel do Passa Quatro"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5220280",
+    "municipio": "São Patrício"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5220405",
+    "municipio": "São Simão"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5220454",
+    "municipio": "Senador Canedo"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5220504",
+    "municipio": "Serranópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5220603",
+    "municipio": "Silvânia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5220686",
+    "municipio": "Simolândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5220702",
+    "municipio": "Sítio d'Abadia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221007",
+    "municipio": "Taquaral de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221080",
+    "municipio": "Teresina de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221197",
+    "municipio": "Terezópolis de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221304",
+    "municipio": "Três Ranchos"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221403",
+    "municipio": "Trindade"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221452",
+    "municipio": "Trombas"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221502",
+    "municipio": "Turvânia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221551",
+    "municipio": "Turvelândia"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221577",
+    "municipio": "Uirapuru"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221601",
+    "municipio": "Uruaçu"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221700",
+    "municipio": "Uruana"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221809",
+    "municipio": "Urutaí"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221858",
+    "municipio": "Valparaíso de Goiás"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5221908",
+    "municipio": "Varjão"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5222005",
+    "municipio": "Vianópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5222054",
+    "municipio": "Vicentinópolis"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5222203",
+    "municipio": "Vila Boa"
+  },
+  {
+    "uf": "GO",
+    "codigo": "5222302",
+    "municipio": "Vila Propício"
+  }
+]

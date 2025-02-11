@@ -1,0 +1,922 @@
+[
+  {
+    "uf": "CE",
+    "codigo": "2300101",
+    "municipio": "Abaiara"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2300150",
+    "municipio": "Acarape"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2300200",
+    "municipio": "Acaraú"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2300309",
+    "municipio": "Acopiara"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2300408",
+    "municipio": "Aiuaba"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2300507",
+    "municipio": "Alcântaras"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2300606",
+    "municipio": "Altaneira"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2300705",
+    "municipio": "Alto Santo"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2300754",
+    "municipio": "Amontada"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2300804",
+    "municipio": "Antonina do Norte"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2300903",
+    "municipio": "Apuiarés"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2301000",
+    "municipio": "Aquiraz"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2301109",
+    "municipio": "Aracati"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2301208",
+    "municipio": "Aracoiaba"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2301257",
+    "municipio": "Ararendá"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2301307",
+    "municipio": "Araripe"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2301406",
+    "municipio": "Aratuba"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2301505",
+    "municipio": "Arneiroz"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2301604",
+    "municipio": "Assaré"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2301703",
+    "municipio": "Aurora"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2301802",
+    "municipio": "Baixio"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2301851",
+    "municipio": "Banabuiú"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2301901",
+    "municipio": "Barbalha"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2301950",
+    "municipio": "Barreira"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2302008",
+    "municipio": "Barro"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2302057",
+    "municipio": "Barroquinha"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2302107",
+    "municipio": "Baturité"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2302206",
+    "municipio": "Beberibe"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2302305",
+    "municipio": "Bela Cruz"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2302404",
+    "municipio": "Boa Viagem"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2302503",
+    "municipio": "Brejo Santo"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2302602",
+    "municipio": "Camocim"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2302701",
+    "municipio": "Campos Sales"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2302800",
+    "municipio": "Canindé"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2302909",
+    "municipio": "Capistrano"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2303006",
+    "municipio": "Caridade"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2303105",
+    "municipio": "Cariré"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2303204",
+    "municipio": "Caririaçu"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2303303",
+    "municipio": "Cariús"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2303402",
+    "municipio": "Carnaubal"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2303501",
+    "municipio": "Cascavel"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2303600",
+    "municipio": "Catarina"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2303659",
+    "municipio": "Catunda"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2303709",
+    "municipio": "Caucaia"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2303808",
+    "municipio": "Cedro"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2303907",
+    "municipio": "Chaval"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2303931",
+    "municipio": "Choró"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2303956",
+    "municipio": "Chorozinho"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304004",
+    "municipio": "Coreaú"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304103",
+    "municipio": "Crateús"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304202",
+    "municipio": "Crato"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304236",
+    "municipio": "Croatá"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304251",
+    "municipio": "Cruz"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304269",
+    "municipio": "Deputado Irapuan Pinheiro"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304277",
+    "municipio": "Ereré"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304285",
+    "municipio": "Eusébio"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304301",
+    "municipio": "Farias Brito"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304350",
+    "municipio": "Forquilha"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304400",
+    "municipio": "Fortaleza"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304459",
+    "municipio": "Fortim"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304509",
+    "municipio": "Frecheirinha"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304608",
+    "municipio": "General Sampaio"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304657",
+    "municipio": "Graça"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304707",
+    "municipio": "Granja"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304806",
+    "municipio": "Granjeiro"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304905",
+    "municipio": "Groaíras"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2304954",
+    "municipio": "Guaiúba"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305001",
+    "municipio": "Guaraciaba do Norte"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305100",
+    "municipio": "Guaramiranga"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305209",
+    "municipio": "Hidrolândia"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305233",
+    "municipio": "Horizonte"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305266",
+    "municipio": "Ibaretama"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305308",
+    "municipio": "Ibiapina"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305332",
+    "municipio": "Ibicuitinga"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305357",
+    "municipio": "Icapuí"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305407",
+    "municipio": "Icó"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305506",
+    "municipio": "Iguatu"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305605",
+    "municipio": "Independência"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305654",
+    "municipio": "Ipaporanga"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305704",
+    "municipio": "Ipaumirim"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305803",
+    "municipio": "Ipu"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2305902",
+    "municipio": "Ipueiras"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2306009",
+    "municipio": "Iracema"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2306108",
+    "municipio": "Irauçuba"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2306207",
+    "municipio": "Itaiçaba"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2306256",
+    "municipio": "Itaitinga"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2306306",
+    "municipio": "Itapajé"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2306405",
+    "municipio": "Itapipoca"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2306504",
+    "municipio": "Itapiúna"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2306553",
+    "municipio": "Itarema"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2306603",
+    "municipio": "Itatira"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2306702",
+    "municipio": "Jaguaretama"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2306801",
+    "municipio": "Jaguaribara"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2306900",
+    "municipio": "Jaguaribe"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2307007",
+    "municipio": "Jaguaruana"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2307106",
+    "municipio": "Jardim"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2307205",
+    "municipio": "Jati"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2307254",
+    "municipio": "Jijoca de Jericoacoara"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2307304",
+    "municipio": "Juazeiro do Norte"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2307403",
+    "municipio": "Jucás"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2307502",
+    "municipio": "Lavras da Mangabeira"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2307601",
+    "municipio": "Limoeiro do Norte"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2307635",
+    "municipio": "Madalena"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2307650",
+    "municipio": "Maracanaú"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2307700",
+    "municipio": "Maranguape"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2307809",
+    "municipio": "Marco"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2307908",
+    "municipio": "Martinópole"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2308005",
+    "municipio": "Massapê"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2308104",
+    "municipio": "Mauriti"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2308203",
+    "municipio": "Meruoca"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2308302",
+    "municipio": "Milagres"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2308351",
+    "municipio": "Milhã"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2308377",
+    "municipio": "Miraíma"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2308401",
+    "municipio": "Missão Velha"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2308500",
+    "municipio": "Mombaça"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2308609",
+    "municipio": "Monsenhor Tabosa"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2308708",
+    "municipio": "Morada Nova"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2308807",
+    "municipio": "Moraújo"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2308906",
+    "municipio": "Morrinhos"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2309003",
+    "municipio": "Mucambo"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2309102",
+    "municipio": "Mulungu"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2309201",
+    "municipio": "Nova Olinda"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2309300",
+    "municipio": "Nova Russas"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2309409",
+    "municipio": "Novo Oriente"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2309458",
+    "municipio": "Ocara"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2309508",
+    "municipio": "Orós"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2309607",
+    "municipio": "Pacajus"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2309706",
+    "municipio": "Pacatuba"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2309805",
+    "municipio": "Pacoti"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2309904",
+    "municipio": "Pacujá"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2310001",
+    "municipio": "Palhano"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2310100",
+    "municipio": "Palmácia"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2310209",
+    "municipio": "Paracuru"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2310258",
+    "municipio": "Paraipaba"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2310308",
+    "municipio": "Parambu"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2310407",
+    "municipio": "Paramoti"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2310506",
+    "municipio": "Pedra Branca"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2310605",
+    "municipio": "Penaforte"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2310704",
+    "municipio": "Pentecoste"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2310803",
+    "municipio": "Pereiro"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2310852",
+    "municipio": "Pindoretama"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2310902",
+    "municipio": "Piquet Carneiro"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2310951",
+    "municipio": "Pires Ferreira"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311009",
+    "municipio": "Poranga"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311108",
+    "municipio": "Porteiras"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311207",
+    "municipio": "Potengi"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311231",
+    "municipio": "Potiretama"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311264",
+    "municipio": "Quiterianópolis"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311306",
+    "municipio": "Quixadá"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311355",
+    "municipio": "Quixelô"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311405",
+    "municipio": "Quixeramobim"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311504",
+    "municipio": "Quixeré"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311603",
+    "municipio": "Redenção"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311702",
+    "municipio": "Reriutaba"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311801",
+    "municipio": "Russas"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311900",
+    "municipio": "Saboeiro"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2311959",
+    "municipio": "Salitre"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2312205",
+    "municipio": "Santa Quitéria"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2312007",
+    "municipio": "Santana do Acaraú"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2312106",
+    "municipio": "Santana do Cariri"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2312304",
+    "municipio": "São Benedito"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2312403",
+    "municipio": "São Gonçalo do Amarante"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2312502",
+    "municipio": "São João do Jaguaribe"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2312601",
+    "municipio": "São Luís do Curu"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2312700",
+    "municipio": "Senador Pompeu"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2312809",
+    "municipio": "Senador Sá"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2312908",
+    "municipio": "Sobral"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313005",
+    "municipio": "Solonópole"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313104",
+    "municipio": "Tabuleiro do Norte"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313203",
+    "municipio": "Tamboril"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313252",
+    "municipio": "Tarrafas"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313302",
+    "municipio": "Tauá"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313351",
+    "municipio": "Tejuçuoca"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313401",
+    "municipio": "Tianguá"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313500",
+    "municipio": "Trairi"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313559",
+    "municipio": "Tururu"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313609",
+    "municipio": "Ubajara"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313708",
+    "municipio": "Umari"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313757",
+    "municipio": "Umirim"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313807",
+    "municipio": "Uruburetama"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313906",
+    "municipio": "Uruoca"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2313955",
+    "municipio": "Varjota"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2314003",
+    "municipio": "Várzea Alegre"
+  },
+  {
+    "uf": "CE",
+    "codigo": "2314102",
+    "municipio": "Viçosa do Ceará"
+  }
+]

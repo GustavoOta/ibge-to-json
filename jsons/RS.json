@@ -1,0 +1,2487 @@
+[
+  {
+    "uf": "RS",
+    "codigo": "4300034",
+    "municipio": "Aceguá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300059",
+    "municipio": "Água Santa"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300109",
+    "municipio": "Agudo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300208",
+    "municipio": "Ajuricaba"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300307",
+    "municipio": "Alecrim"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300406",
+    "municipio": "Alegrete"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300455",
+    "municipio": "Alegria"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300471",
+    "municipio": "Almirante Tamandaré do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300505",
+    "municipio": "Alpestre"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300554",
+    "municipio": "Alto Alegre"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300570",
+    "municipio": "Alto Feliz"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300604",
+    "municipio": "Alvorada"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300638",
+    "municipio": "Amaral Ferrador"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300646",
+    "municipio": "Ametista do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300661",
+    "municipio": "André da Rocha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300703",
+    "municipio": "Anta Gorda"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300802",
+    "municipio": "Antônio Prado"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300851",
+    "municipio": "Arambaré"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300877",
+    "municipio": "Araricá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4300901",
+    "municipio": "Aratiba"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301008",
+    "municipio": "Arroio do Meio"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301073",
+    "municipio": "Arroio do Padre"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301057",
+    "municipio": "Arroio do Sal"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301206",
+    "municipio": "Arroio do Tigre"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301107",
+    "municipio": "Arroio dos Ratos"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301305",
+    "municipio": "Arroio Grande"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301404",
+    "municipio": "Arvorezinha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301503",
+    "municipio": "Augusto Pestana"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301552",
+    "municipio": "Áurea"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301602",
+    "municipio": "Bagé"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301636",
+    "municipio": "Balneário Pinhal"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301651",
+    "municipio": "Barão"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301701",
+    "municipio": "Barão de Cotegipe"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301750",
+    "municipio": "Barão do Triunfo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301859",
+    "municipio": "Barra do Guarita"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301875",
+    "municipio": "Barra do Quaraí"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301909",
+    "municipio": "Barra do Ribeiro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301925",
+    "municipio": "Barra do Rio Azul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301958",
+    "municipio": "Barra Funda"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4301800",
+    "municipio": "Barracão"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302006",
+    "municipio": "Barros Cassal"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302055",
+    "municipio": "Benjamin Constant do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302105",
+    "municipio": "Bento Gonçalves"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302154",
+    "municipio": "Boa Vista das Missões"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302204",
+    "municipio": "Boa Vista do Buricá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302220",
+    "municipio": "Boa Vista do Cadeado"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302238",
+    "municipio": "Boa Vista do Incra"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302253",
+    "municipio": "Boa Vista do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302303",
+    "municipio": "Bom Jesus"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302352",
+    "municipio": "Bom Princípio"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302378",
+    "municipio": "Bom Progresso"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302402",
+    "municipio": "Bom Retiro do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302451",
+    "municipio": "Boqueirão do Leão"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302501",
+    "municipio": "Bossoroca"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302584",
+    "municipio": "Bozano"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302600",
+    "municipio": "Braga"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302659",
+    "municipio": "Brochier"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302709",
+    "municipio": "Butiá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302808",
+    "municipio": "Caçapava do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4302907",
+    "municipio": "Cacequi"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4303004",
+    "municipio": "Cachoeira do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4303103",
+    "municipio": "Cachoeirinha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4303202",
+    "municipio": "Cacique Doble"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4303301",
+    "municipio": "Caibaté"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4303400",
+    "municipio": "Caiçara"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4303509",
+    "municipio": "Camaquã"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4303558",
+    "municipio": "Camargo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4303608",
+    "municipio": "Cambará do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4303673",
+    "municipio": "Campestre da Serra"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4303707",
+    "municipio": "Campina das Missões"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4303806",
+    "municipio": "Campinas do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4303905",
+    "municipio": "Campo Bom"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304002",
+    "municipio": "Campo Novo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304101",
+    "municipio": "Campos Borges"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304200",
+    "municipio": "Candelária"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304309",
+    "municipio": "Cândido Godói"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304358",
+    "municipio": "Candiota"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304408",
+    "municipio": "Canela"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304507",
+    "municipio": "Canguçu"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304606",
+    "municipio": "Canoas"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304614",
+    "municipio": "Canudos do Vale"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304622",
+    "municipio": "Capão Bonito do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304630",
+    "municipio": "Capão da Canoa"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304655",
+    "municipio": "Capão do Cipó"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304663",
+    "municipio": "Capão do Leão"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304689",
+    "municipio": "Capela de Santana"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304697",
+    "municipio": "Capitão"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304671",
+    "municipio": "Capivari do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304713",
+    "municipio": "Caraá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304705",
+    "municipio": "Carazinho"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304804",
+    "municipio": "Carlos Barbosa"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304853",
+    "municipio": "Carlos Gomes"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304903",
+    "municipio": "Casca"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4304952",
+    "municipio": "Caseiros"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305009",
+    "municipio": "Catuípe"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305108",
+    "municipio": "Caxias do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305116",
+    "municipio": "Centenário"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305124",
+    "municipio": "Cerrito"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305132",
+    "municipio": "Cerro Branco"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305157",
+    "municipio": "Cerro Grande"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305173",
+    "municipio": "Cerro Grande do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305207",
+    "municipio": "Cerro Largo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305306",
+    "municipio": "Chapada"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305355",
+    "municipio": "Charqueadas"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305371",
+    "municipio": "Charrua"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305405",
+    "municipio": "Chiapetta"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305439",
+    "municipio": "Chuí"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305447",
+    "municipio": "Chuvisca"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305454",
+    "municipio": "Cidreira"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305504",
+    "municipio": "Ciríaco"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305587",
+    "municipio": "Colinas"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305603",
+    "municipio": "Colorado"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305702",
+    "municipio": "Condor"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305801",
+    "municipio": "Constantina"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305835",
+    "municipio": "Coqueiro Baixo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305850",
+    "municipio": "Coqueiros do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305871",
+    "municipio": "Coronel Barros"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305900",
+    "municipio": "Coronel Bicaco"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305934",
+    "municipio": "Coronel Pilar"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305959",
+    "municipio": "Cotiporã"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4305975",
+    "municipio": "Coxilha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306007",
+    "municipio": "Crissiumal"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306056",
+    "municipio": "Cristal"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306072",
+    "municipio": "Cristal do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306106",
+    "municipio": "Cruz Alta"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306130",
+    "municipio": "Cruzaltense"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306205",
+    "municipio": "Cruzeiro do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306304",
+    "municipio": "David Canabarro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306320",
+    "municipio": "Derrubadas"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306353",
+    "municipio": "Dezesseis de Novembro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306379",
+    "municipio": "Dilermando de Aguiar"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306403",
+    "municipio": "Dois Irmãos"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306429",
+    "municipio": "Dois Irmãos das Missões"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306452",
+    "municipio": "Dois Lajeados"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306502",
+    "municipio": "Dom Feliciano"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306601",
+    "municipio": "Dom Pedrito"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306551",
+    "municipio": "Dom Pedro de Alcântara"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306700",
+    "municipio": "Dona Francisca"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306734",
+    "municipio": "Doutor Maurício Cardoso"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306759",
+    "municipio": "Doutor Ricardo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306767",
+    "municipio": "Eldorado do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306809",
+    "municipio": "Encantado"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306908",
+    "municipio": "Encruzilhada do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306924",
+    "municipio": "Engenho Velho"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306957",
+    "municipio": "Entre Rios do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306932",
+    "municipio": "Entre-Ijuís"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4306973",
+    "municipio": "Erebango"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307005",
+    "municipio": "Erechim"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307054",
+    "municipio": "Ernestina"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307203",
+    "municipio": "Erval Grande"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307302",
+    "municipio": "Erval Seco"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307401",
+    "municipio": "Esmeralda"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307450",
+    "municipio": "Esperança do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307500",
+    "municipio": "Espumoso"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307559",
+    "municipio": "Estação"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307609",
+    "municipio": "Estância Velha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307708",
+    "municipio": "Esteio"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307807",
+    "municipio": "Estrela"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307815",
+    "municipio": "Estrela Velha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307831",
+    "municipio": "Eugênio de Castro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307864",
+    "municipio": "Fagundes Varela"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307906",
+    "municipio": "Farroupilha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308003",
+    "municipio": "Faxinal do Soturno"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308052",
+    "municipio": "Faxinalzinho"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308078",
+    "municipio": "Fazenda Vilanova"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308102",
+    "municipio": "Feliz"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308201",
+    "municipio": "Flores da Cunha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308250",
+    "municipio": "Floriano Peixoto"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308300",
+    "municipio": "Fontoura Xavier"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308409",
+    "municipio": "Formigueiro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308433",
+    "municipio": "Forquetinha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308458",
+    "municipio": "Fortaleza dos Valos"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308508",
+    "municipio": "Frederico Westphalen"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308607",
+    "municipio": "Garibaldi"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308656",
+    "municipio": "Garruchos"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308706",
+    "municipio": "Gaurama"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308805",
+    "municipio": "General Câmara"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308854",
+    "municipio": "Gentil"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4308904",
+    "municipio": "Getúlio Vargas"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309001",
+    "municipio": "Giruá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309050",
+    "municipio": "Glorinha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309100",
+    "municipio": "Gramado"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309126",
+    "municipio": "Gramado dos Loureiros"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309159",
+    "municipio": "Gramado Xavier"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309209",
+    "municipio": "Gravataí"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309258",
+    "municipio": "Guabiju"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309308",
+    "municipio": "Guaíba"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309407",
+    "municipio": "Guaporé"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309506",
+    "municipio": "Guarani das Missões"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309555",
+    "municipio": "Harmonia"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4307104",
+    "municipio": "Herval"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309571",
+    "municipio": "Herveiras"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309605",
+    "municipio": "Horizontina"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309654",
+    "municipio": "Hulha Negra"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309704",
+    "municipio": "Humaitá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309753",
+    "municipio": "Ibarama"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309803",
+    "municipio": "Ibiaçá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309902",
+    "municipio": "Ibiraiaras"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4309951",
+    "municipio": "Ibirapuitã"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310009",
+    "municipio": "Ibirubá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310108",
+    "municipio": "Igrejinha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310207",
+    "municipio": "Ijuí"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310306",
+    "municipio": "Ilópolis"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310330",
+    "municipio": "Imbé"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310363",
+    "municipio": "Imigrante"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310405",
+    "municipio": "Independência"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310413",
+    "municipio": "Inhacorá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310439",
+    "municipio": "Ipê"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310462",
+    "municipio": "Ipiranga do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310504",
+    "municipio": "Iraí"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310538",
+    "municipio": "Itaara"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310553",
+    "municipio": "Itacurubi"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310579",
+    "municipio": "Itapuca"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310603",
+    "municipio": "Itaqui"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310652",
+    "municipio": "Itati"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310702",
+    "municipio": "Itatiba do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310751",
+    "municipio": "Ivorá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310801",
+    "municipio": "Ivoti"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310850",
+    "municipio": "Jaboticaba"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310876",
+    "municipio": "Jacuizinho"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4310900",
+    "municipio": "Jacutinga"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311007",
+    "municipio": "Jaguarão"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311106",
+    "municipio": "Jaguari"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311122",
+    "municipio": "Jaquirana"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311130",
+    "municipio": "Jari"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311155",
+    "municipio": "Jóia"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311205",
+    "municipio": "Júlio de Castilhos"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311239",
+    "municipio": "Lagoa Bonita do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311270",
+    "municipio": "Lagoa dos Três Cantos"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311304",
+    "municipio": "Lagoa Vermelha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311254",
+    "municipio": "Lagoão"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311403",
+    "municipio": "Lajeado"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311429",
+    "municipio": "Lajeado do Bugre"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311502",
+    "municipio": "Lavras do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311601",
+    "municipio": "Liberato Salzano"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311627",
+    "municipio": "Lindolfo Collor"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311643",
+    "municipio": "Linha Nova"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311718",
+    "municipio": "Maçambará"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311700",
+    "municipio": "Machadinho"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311734",
+    "municipio": "Mampituba"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311759",
+    "municipio": "Manoel Viana"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311775",
+    "municipio": "Maquiné"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311791",
+    "municipio": "Maratá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311809",
+    "municipio": "Marau"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311908",
+    "municipio": "Marcelino Ramos"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4311981",
+    "municipio": "Mariana Pimentel"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312005",
+    "municipio": "Mariano Moro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312054",
+    "municipio": "Marques de Souza"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312104",
+    "municipio": "Mata"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312138",
+    "municipio": "Mato Castelhano"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312153",
+    "municipio": "Mato Leitão"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312179",
+    "municipio": "Mato Queimado"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312203",
+    "municipio": "Maximiliano de Almeida"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312252",
+    "municipio": "Minas do Leão"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312302",
+    "municipio": "Miraguaí"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312351",
+    "municipio": "Montauri"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312377",
+    "municipio": "Monte Alegre dos Campos"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312385",
+    "municipio": "Monte Belo do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312401",
+    "municipio": "Montenegro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312427",
+    "municipio": "Mormaço"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312443",
+    "municipio": "Morrinhos do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312450",
+    "municipio": "Morro Redondo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312476",
+    "municipio": "Morro Reuter"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312500",
+    "municipio": "Mostardas"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312609",
+    "municipio": "Muçum"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312617",
+    "municipio": "Muitos Capões"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312625",
+    "municipio": "Muliterno"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312658",
+    "municipio": "Não-Me-Toque"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312674",
+    "municipio": "Nicolau Vergueiro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312708",
+    "municipio": "Nonoai"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312757",
+    "municipio": "Nova Alvorada"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312807",
+    "municipio": "Nova Araçá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312906",
+    "municipio": "Nova Bassano"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4312955",
+    "municipio": "Nova Boa Vista"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313003",
+    "municipio": "Nova Bréscia"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313011",
+    "municipio": "Nova Candelária"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313037",
+    "municipio": "Nova Esperança do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313060",
+    "municipio": "Nova Hartz"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313086",
+    "municipio": "Nova Pádua"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313102",
+    "municipio": "Nova Palma"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313201",
+    "municipio": "Nova Petrópolis"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313300",
+    "municipio": "Nova Prata"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313334",
+    "municipio": "Nova Ramada"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313359",
+    "municipio": "Nova Roma do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313375",
+    "municipio": "Nova Santa Rita"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313490",
+    "municipio": "Novo Barreiro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313391",
+    "municipio": "Novo Cabrais"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313409",
+    "municipio": "Novo Hamburgo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313425",
+    "municipio": "Novo Machado"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313441",
+    "municipio": "Novo Tiradentes"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313466",
+    "municipio": "Novo Xingu"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313508",
+    "municipio": "Osório"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313607",
+    "municipio": "Paim Filho"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313656",
+    "municipio": "Palmares do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313706",
+    "municipio": "Palmeira das Missões"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313805",
+    "municipio": "Palmitinho"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313904",
+    "municipio": "Panambi"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4313953",
+    "municipio": "Pantano Grande"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314001",
+    "municipio": "Paraí"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314027",
+    "municipio": "Paraíso do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314035",
+    "municipio": "Pareci Novo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314050",
+    "municipio": "Parobé"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314068",
+    "municipio": "Passa Sete"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314076",
+    "municipio": "Passo do Sobrado"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314100",
+    "municipio": "Passo Fundo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314134",
+    "municipio": "Paulo Bento"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314159",
+    "municipio": "Paverama"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314175",
+    "municipio": "Pedras Altas"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314209",
+    "municipio": "Pedro Osório"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314308",
+    "municipio": "Pejuçara"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314407",
+    "municipio": "Pelotas"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314423",
+    "municipio": "Picada Café"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314456",
+    "municipio": "Pinhal"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314464",
+    "municipio": "Pinhal da Serra"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314472",
+    "municipio": "Pinhal Grande"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314498",
+    "municipio": "Pinheirinho do Vale"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314506",
+    "municipio": "Pinheiro Machado"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314548",
+    "municipio": "Pinto Bandeira"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314555",
+    "municipio": "Pirapó"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314605",
+    "municipio": "Piratini"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314704",
+    "municipio": "Planalto"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314753",
+    "municipio": "Poço das Antas"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314779",
+    "municipio": "Pontão"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314787",
+    "municipio": "Ponte Preta"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314803",
+    "municipio": "Portão"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4314902",
+    "municipio": "Porto Alegre"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315008",
+    "municipio": "Porto Lucena"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315057",
+    "municipio": "Porto Mauá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315073",
+    "municipio": "Porto Vera Cruz"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315107",
+    "municipio": "Porto Xavier"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315131",
+    "municipio": "Pouso Novo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315149",
+    "municipio": "Presidente Lucena"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315156",
+    "municipio": "Progresso"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315172",
+    "municipio": "Protásio Alves"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315206",
+    "municipio": "Putinga"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315305",
+    "municipio": "Quaraí"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315313",
+    "municipio": "Quatro Irmãos"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315321",
+    "municipio": "Quevedos"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315354",
+    "municipio": "Quinze de Novembro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315404",
+    "municipio": "Redentora"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315453",
+    "municipio": "Relvado"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315503",
+    "municipio": "Restinga Sêca"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315552",
+    "municipio": "Rio dos Índios"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315602",
+    "municipio": "Rio Grande"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315701",
+    "municipio": "Rio Pardo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315750",
+    "municipio": "Riozinho"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315800",
+    "municipio": "Roca Sales"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315909",
+    "municipio": "Rodeio Bonito"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4315958",
+    "municipio": "Rolador"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316006",
+    "municipio": "Rolante"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316105",
+    "municipio": "Ronda Alta"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316204",
+    "municipio": "Rondinha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316303",
+    "municipio": "Roque Gonzales"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316402",
+    "municipio": "Rosário do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316428",
+    "municipio": "Sagrada Família"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316436",
+    "municipio": "Saldanha Marinho"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316451",
+    "municipio": "Salto do Jacuí"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316477",
+    "municipio": "Salvador das Missões"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316501",
+    "municipio": "Salvador do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316600",
+    "municipio": "Sananduva"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316709",
+    "municipio": "Santa Bárbara do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316733",
+    "municipio": "Santa Cecília do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316758",
+    "municipio": "Santa Clara do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316808",
+    "municipio": "Santa Cruz do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316972",
+    "municipio": "Santa Margarida do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316907",
+    "municipio": "Santa Maria"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4316956",
+    "municipio": "Santa Maria do Herval"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317202",
+    "municipio": "Santa Rosa"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317251",
+    "municipio": "Santa Tereza"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317301",
+    "municipio": "Santa Vitória do Palmar"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317004",
+    "municipio": "Santana da Boa Vista"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317103",
+    "municipio": "Sant'Ana do Livramento"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317400",
+    "municipio": "Santiago"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317509",
+    "municipio": "Santo Ângelo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317608",
+    "municipio": "Santo Antônio da Patrulha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317707",
+    "municipio": "Santo Antônio das Missões"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317558",
+    "municipio": "Santo Antônio do Palma"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317756",
+    "municipio": "Santo Antônio do Planalto"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317806",
+    "municipio": "Santo Augusto"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317905",
+    "municipio": "Santo Cristo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4317954",
+    "municipio": "Santo Expedito do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318002",
+    "municipio": "São Borja"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318051",
+    "municipio": "São Domingos do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318101",
+    "municipio": "São Francisco de Assis"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318200",
+    "municipio": "São Francisco de Paula"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318309",
+    "municipio": "São Gabriel"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318408",
+    "municipio": "São Jerônimo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318424",
+    "municipio": "São João da Urtiga"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318432",
+    "municipio": "São João do Polêsine"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318440",
+    "municipio": "São Jorge"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318457",
+    "municipio": "São José das Missões"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318465",
+    "municipio": "São José do Herval"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318481",
+    "municipio": "São José do Hortêncio"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318499",
+    "municipio": "São José do Inhacorá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318507",
+    "municipio": "São José do Norte"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318606",
+    "municipio": "São José do Ouro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318614",
+    "municipio": "São José do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318622",
+    "municipio": "São José dos Ausentes"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318705",
+    "municipio": "São Leopoldo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318804",
+    "municipio": "São Lourenço do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4318903",
+    "municipio": "São Luiz Gonzaga"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319000",
+    "municipio": "São Marcos"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319109",
+    "municipio": "São Martinho"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319125",
+    "municipio": "São Martinho da Serra"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319158",
+    "municipio": "São Miguel das Missões"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319208",
+    "municipio": "São Nicolau"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319307",
+    "municipio": "São Paulo das Missões"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319356",
+    "municipio": "São Pedro da Serra"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319364",
+    "municipio": "São Pedro das Missões"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319372",
+    "municipio": "São Pedro do Butiá"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319406",
+    "municipio": "São Pedro do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319505",
+    "municipio": "São Sebastião do Caí"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319604",
+    "municipio": "São Sepé"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319703",
+    "municipio": "São Valentim"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319711",
+    "municipio": "São Valentim do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319737",
+    "municipio": "São Valério do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319752",
+    "municipio": "São Vendelino"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319802",
+    "municipio": "São Vicente do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4319901",
+    "municipio": "Sapiranga"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320008",
+    "municipio": "Sapucaia do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320107",
+    "municipio": "Sarandi"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320206",
+    "municipio": "Seberi"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320230",
+    "municipio": "Sede Nova"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320263",
+    "municipio": "Segredo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320305",
+    "municipio": "Selbach"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320321",
+    "municipio": "Senador Salgado Filho"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320354",
+    "municipio": "Sentinela do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320404",
+    "municipio": "Serafina Corrêa"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320453",
+    "municipio": "Sério"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320503",
+    "municipio": "Sertão"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320552",
+    "municipio": "Sertão Santana"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320578",
+    "municipio": "Sete de Setembro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320602",
+    "municipio": "Severiano de Almeida"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320651",
+    "municipio": "Silveira Martins"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320677",
+    "municipio": "Sinimbu"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320701",
+    "municipio": "Sobradinho"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320800",
+    "municipio": "Soledade"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320859",
+    "municipio": "Tabaí"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4320909",
+    "municipio": "Tapejara"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321006",
+    "municipio": "Tapera"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321105",
+    "municipio": "Tapes"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321204",
+    "municipio": "Taquara"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321303",
+    "municipio": "Taquari"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321329",
+    "municipio": "Taquaruçu do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321352",
+    "municipio": "Tavares"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321402",
+    "municipio": "Tenente Portela"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321436",
+    "municipio": "Terra de Areia"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321451",
+    "municipio": "Teutônia"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321469",
+    "municipio": "Tio Hugo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321477",
+    "municipio": "Tiradentes do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321493",
+    "municipio": "Toropi"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321501",
+    "municipio": "Torres"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321600",
+    "municipio": "Tramandaí"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321626",
+    "municipio": "Travesseiro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321634",
+    "municipio": "Três Arroios"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321667",
+    "municipio": "Três Cachoeiras"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321709",
+    "municipio": "Três Coroas"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321808",
+    "municipio": "Três de Maio"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321832",
+    "municipio": "Três Forquilhas"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321857",
+    "municipio": "Três Palmeiras"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321907",
+    "municipio": "Três Passos"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4321956",
+    "municipio": "Trindade do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322004",
+    "municipio": "Triunfo"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322103",
+    "municipio": "Tucunduva"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322152",
+    "municipio": "Tunas"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322186",
+    "municipio": "Tupanci do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322202",
+    "municipio": "Tupanciretã"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322251",
+    "municipio": "Tupandi"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322301",
+    "municipio": "Tuparendi"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322327",
+    "municipio": "Turuçu"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322343",
+    "municipio": "Ubiretama"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322350",
+    "municipio": "União da Serra"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322376",
+    "municipio": "Unistalda"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322400",
+    "municipio": "Uruguaiana"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322509",
+    "municipio": "Vacaria"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322533",
+    "municipio": "Vale do Sol"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322541",
+    "municipio": "Vale Real"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322525",
+    "municipio": "Vale Verde"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322558",
+    "municipio": "Vanini"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322608",
+    "municipio": "Venâncio Aires"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322707",
+    "municipio": "Vera Cruz"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322806",
+    "municipio": "Veranópolis"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322855",
+    "municipio": "Vespasiano Corrêa"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4322905",
+    "municipio": "Viadutos"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4323002",
+    "municipio": "Viamão"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4323101",
+    "municipio": "Vicente Dutra"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4323200",
+    "municipio": "Victor Graeff"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4323309",
+    "municipio": "Vila Flores"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4323358",
+    "municipio": "Vila Lângaro"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4323408",
+    "municipio": "Vila Maria"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4323457",
+    "municipio": "Vila Nova do Sul"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4323507",
+    "municipio": "Vista Alegre"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4323606",
+    "municipio": "Vista Alegre do Prata"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4323705",
+    "municipio": "Vista Gaúcha"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4323754",
+    "municipio": "Vitória das Missões"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4323770",
+    "municipio": "Westfália"
+  },
+  {
+    "uf": "RS",
+    "codigo": "4323804",
+    "municipio": "Xangri-lá"
+  }
+]
